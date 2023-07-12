@@ -17,29 +17,39 @@ def snakey(name):
 # smh windows
 ILLEGAL_CHAR_PATTERN = re.compile(r"[<>:\"\/\\\|\?\*]")
 safe_fd = partial(ILLEGAL_CHAR_PATTERN.sub, "")
-MD_ESCAPE_PATTERN = re.compile(r"([\\\`\*\_\{\}\(\)\#\+\-\.\!\|])")
+MD_ESCAPE_PATTERN = re.compile(r"([\\\`\*\_\{\}\[\]\(\)\#\+\-\.\!\|])")
 escape_md = partial(MD_ESCAPE_PATTERN.sub, r"\\\1")
 
 
-def html_to_md(userstuff):
-    if isinstance(userstuff, NavigableString):
-        return "".join((escape_md(txt).replace("\n", "") for txt in userstuff.strings))
-    if userstuff.name == "br":
+def html_to_md(tag):
+    # special case footnote
+    if tag.name == "a" and tag.attrs.get("name"):
+        if tag.attrs["name"].startswith("_ftnref"):
+            ftn_idx = tag.attrs["name"][7:]
+            return f"[^{ftn_idx}]"
+        elif tag.attrs["name"].startswith("_ftn"):
+            ftn_idx = tag.attrs["name"][4:]
+            return f"[^{ftn_idx}]:"
+
+    if isinstance(tag, NavigableString):
+        return "".join((escape_md(txt).replace("\n", "") for txt in tag.strings))
+    if tag.name == "br":
         return "\n"
-    contents_text = "".join((html_to_md(item) for item in userstuff.contents))
+    contents_text = "".join((html_to_md(item) for item in tag.contents))
     if not contents_text.strip():
         return ""
-    if userstuff.name == "p":
+    if tag.name == "p":
         contents_text += "\n\n"
-    if userstuff.name in ("strong", "b"):
+    if tag.name in ("strong", "b"):
         contents_text = f"**{contents_text.strip()}**"
-    if userstuff.name in ("em", "i"):
+    if tag.name in ("em", "i"):
         contents_text = f"*{contents_text.strip()}*"
-    if userstuff.name == "li":
-        if userstuff.parent.name == "ul":
-            contents_text = f"- {contents_text.strip()}"
-        elif userstuff.parent.name == "ol":
-            contents_text = f"1. {contents_text.strip()}"
+    if tag.name == "li":
+        if tag.parent.name == "ul":
+            contents_text = f"- {contents_text.strip()}\n"
+        elif tag.parent.name == "ol":
+            contents_text = f"1. {contents_text.strip()}\n"
+    # TODO: optimize this call
     return contents_text
 
 
@@ -56,7 +66,7 @@ def write_work_meta(args, soup):
         series = series.parent
         series_index = int(series.contents[0].split(" ")[1])
         series_name = series.a.string
-        output_folder = os.path.join(args.output, f"series-{safe_fd(series_name)}", f"{series_index:03}_{safe_fd(title.string)}")
+        output_folder = os.path.join(args.output, f"series-{safe_fd(series_name)}", f"{series_index:03}-{safe_fd(title.string)}")
     else:
         authors_string = "-".join((author.string for author in authors))
         output_folder = os.path.join(args.output, f"author-{safe_fd(authors_string)}", safe_fd(title.string))
@@ -106,7 +116,7 @@ def write_chapters(args, soup, output_folder):
                 endnote = group[2]
             except IndexError:
                 endnote = None
-            with open(os.path.join(output_folder, f"{idx+1:03}_{safe_fd(title.string)}.md"), "w") as chapter_fn:
+            with open(os.path.join(output_folder, f"{idx+1:03}-{safe_fd(title.string)}.md"), "w") as chapter_fn:
                 chapter_fn.write(f"# {title.string}\n\n")
                 chapter_fn.write(html_to_md(content))
                 if endnote:
@@ -125,6 +135,7 @@ def main(args):
                 soup = BeautifulSoup(fp, "html.parser")
                 output_folder = write_work_meta(args, soup)
                 write_chapters(args, soup, output_folder)
+            print(f"Wrote {output_folder}")
 
 
 if __name__ == "__main__":
