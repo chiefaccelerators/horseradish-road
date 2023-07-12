@@ -436,3 +436,5 @@ Title of the chapter is a mountain goats song because Of Course It Is.
 
 Thanks to Lydia for the beta read. Leave me a nice comment to boost my self esteem, then go read my science fiction web serial: bit.ly/shadowofheaven . You can find me on tumblr as javert or twitter as @natsinator.
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/002-Speaking%20In%20Tongues/001-Interrogating%20the%20Text%20from%20the%20Wrong%20Perspective.md)

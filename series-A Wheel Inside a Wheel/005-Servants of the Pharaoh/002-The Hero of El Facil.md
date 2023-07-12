@@ -492,3 +492,5 @@ the names of the ships that Warrensburg and Yang/Merkatz end up transferring to 
 
 Thank you to the wonderful helpful Lydia for beta reading \+ idea bouncing. More treason @bit.ly/shadowofheaven . um really nothing related to this at all @bit.ly/arcadispark . I'm @javert on tumblr and @natsinator on twitter. see ya
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/005-Servants%20of%20the%20Pharaoh/003-Make%20a%20Mess%2C%20Then%20Go%20Home%20and%20Get%20Clean.md)

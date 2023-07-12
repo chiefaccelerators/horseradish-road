@@ -678,3 +678,5 @@ yang has complicated feelings about family lol
 
 thank you to em and lydia for the beta read\!
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/007-Keep%20the%20Home%20Fires%20%28Burning%29/003-Oskar%20von%20Reuenthal%20Was%20Born%20Innocent.md)

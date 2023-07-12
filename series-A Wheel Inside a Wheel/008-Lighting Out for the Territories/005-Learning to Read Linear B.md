@@ -462,3 +462,5 @@ you can find me in the following places: @javert on tumblr , @natsinator on twit
 
 thank you to em and lydia for the beta read\!
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/008-Lighting%20Out%20for%20the%20Territories/006-Iphigenia%20Among%20the%20Taurians.md)

@@ -336,3 +336,5 @@ I made the executive decision to make everybody go to officer school here from a
 
 Thanks to Lydia for the beta read. Check out my original science fiction at bit.ly/shadowofheaven
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/003-Talking%20Without%20Speaking/001-%E2%80%9CThe%20Trick%20Is%20Not%20Minding%20That%20It%20Hurts.%E2%80%9D.md)

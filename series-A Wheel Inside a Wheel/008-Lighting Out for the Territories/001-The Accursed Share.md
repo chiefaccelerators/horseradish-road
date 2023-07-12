@@ -596,3 +596,5 @@ Anyway, title of the story is from  laurie anderson. Title of the chapter is fro
 
 Thank you very much to Lydia and Em for the beta read\! You can find me on twitter as @natsinator and on tumblr as @javert . My original fiction can be read @ bit.ly/shadowofheaven and bit.ly/arcadispark .
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/008-Lighting%20Out%20for%20the%20Territories/007-%E2%80%9CI%20Went%20to%20El%20Facil%20and%20All%20I%20Got%20Was%20This%20Lousy%20Traumatic%20Memory%20and%20Survivor%E2%80%99s%20Guilt%E2%80%9D.md)

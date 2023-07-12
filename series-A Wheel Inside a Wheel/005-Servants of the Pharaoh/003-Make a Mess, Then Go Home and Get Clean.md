@@ -574,3 +574,5 @@ Chapter title is from the Lorde song "A World Alone". People are talkin / people
 
 Thank you to Lydia for the beta read. More weird ocs @ bit.ly/shadowofheaven and @ bit.ly/arcadispark . I'm @javert on tumblr and @natsinator on twitter.
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/005-Servants%20of%20the%20Pharaoh/004-Wives%20%26%20Daughters.md)

@@ -668,3 +668,5 @@ btw, did you read A House Made Out of Beds? If you didn’t, you should, and go 
 
 thank you to Em for the beta read. you can find me on tumblr @javert and on twitter @natsinator. the rest of my writing is at gayspaceopera.carrd.co . catch you on the flip side :3
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/008-Lighting%20Out%20for%20the%20Territories/011-The%20Witness%20Leading%20the%20Trial.md)

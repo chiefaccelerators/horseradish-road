@@ -796,3 +796,5 @@ I suspect the  title  might amuse one person here \(aside from Lydia, who sugges
 
 See you next time for chapter 17 of Servants of the Pharaoh\! Thank you to Lydia, Em, and Alexis for all taking a look at this chapter. You can find me on tumblr @ javert and on twitter as @ natsinator . My original fiction can be read at bit.ly/arcadispark \(you should read that one if you’re missing the hot girl summer 2020 might have been :p \) and bit.ly/shadowofheaven
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/004-Life%20Out%20of%20Balance/011-A%20Letter%20From%20Saint%20Paul%20to%20the%20Romans%20%28Brothers%20and%20Sisters%29.md)

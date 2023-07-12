@@ -322,3 +322,5 @@ I’ll take \[projection\] for 500.
 
 Thank you to Lydia for the beta read <3
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/002-Speaking%20In%20Tongues/004-Sieg%20St.%20Sebastian%21.md)

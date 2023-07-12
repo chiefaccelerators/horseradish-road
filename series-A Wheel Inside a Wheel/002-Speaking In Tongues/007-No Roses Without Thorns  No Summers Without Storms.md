@@ -346,3 +346,5 @@ Sorry, little Hilde. Your mother is dead in canon so dead in fanfic she probably
 
 Thanks to Lydia for the beta read. My original space opera also contains several dead mothers, as space operas are wont to do, for better or for worse: bit.ly/shadowofheaven
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/002-Speaking%20In%20Tongues/008-Chaffy%20Grain%20Beneath%20the%20Thresher%27s%20Flail.md)

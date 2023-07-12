@@ -424,3 +424,5 @@ Thank you to Em and Lydia for the beta read. Find me on tumblr as @javert , on t
 
 Proceed directly to the next chapter. Do not pass go. Do not collect $200.
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/008-Lighting%20Out%20for%20the%20Territories/008-Reinhard%20Misuses%20the%20N.A.P..md)

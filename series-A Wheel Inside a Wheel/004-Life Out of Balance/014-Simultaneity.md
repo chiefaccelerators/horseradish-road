@@ -1270,3 +1270,5 @@ I think next chapter might?? be the last chapter in this part.
 
 ok: Thanks to Lydia for the beta read. More FTL @ bit.ly/shadowofheaven , more questionably deserved promotions @ bit.ly/arcadispark. more me on twitter as @natsinator and on tumblr as @javert
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/004-Life%20Out%20of%20Balance/012-Give%20Me%20a%20Place%20to%20Stand%2C%20and%20I%20Will%20Move%20the%20Stars.md)

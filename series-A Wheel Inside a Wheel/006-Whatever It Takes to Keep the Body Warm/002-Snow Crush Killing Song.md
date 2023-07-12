@@ -332,3 +332,5 @@ Chapter title is from a mountain goats song, as per usual. You should also go li
 
 See you again soon\! Thank you to Lydia and Em for the beta read :\) You can find me on tumblr as @javert or on twitter as @natsinator . My original fiction is at bit.ly/shadowofheaven and bit.ly/arcadispark
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/006-Whatever%20It%20Takes%20to%20Keep%20the%20Body%20Warm/003-Quantum%20Chromodynamics.md)

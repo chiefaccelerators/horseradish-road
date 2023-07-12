@@ -1386,3 +1386,5 @@ I would love to hear about what you thought of this little story\! I certainly h
 
 thank you so much for reading, and thank you to em and lydia for the beta read\! you can find all my other nonsense @ gayspaceopera.carrd.co
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/004-Life%20Out%20of%20Balance/015-Childhood%27s%20End.md)

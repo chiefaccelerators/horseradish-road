@@ -976,3 +976,5 @@ this chapter was probably not drama enough lol. don't worry I'll be back soon wi
 
 anyway. thank you to lydia for the beta read. I'm @javert on tumblr and @natsinator on twitter. there's more science fiction @ bit.ly/shadowofheaven and less science fiction @ bit.ly/arcadispark
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/005-Servants%20of%20the%20Pharaoh/005-Amuse-Bouche.md)

@@ -788,3 +788,5 @@ Let me know how ya feel :\)
 
 You know the drill: thanks to Lydia for the beta read, I'm natsinator on twitter, javert on tumblr, original fiction at bit.ly/shadowofheaven or bit.ly/arcadispark
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/005-Servants%20of%20the%20Pharaoh/012-Well-Meaning%20Teachers.md)

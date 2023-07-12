@@ -872,3 +872,5 @@ Chapter title is from a mountain goats song https://www.youtube.com/watch?v=0Ypc
 
 Thank you to lydia and em for the beta read\! original fiction @ bit.ly/arcadispark and bit.ly/shadowofheaven . I'm @javert on tumblr and @natsinator on twitter
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/006-Whatever%20It%20Takes%20to%20Keep%20the%20Body%20Warm/001-Love%20-%20%20Building%20on%20Fire.md)

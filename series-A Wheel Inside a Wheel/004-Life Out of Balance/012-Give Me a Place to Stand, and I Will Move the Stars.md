@@ -720,3 +720,5 @@ I decided to split the chapter b/c it was getting too long, so sorry for leaving
 
 Same as it ever was: thank you to Lydia for the beta read, original fiction at bit.ly/shadowofheaven and bit.ly/arcadispark , I'm on twitter @natsinator and tumblr @javert .
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/004-Life%20Out%20of%20Balance/013-Proclaim%20Liberty%20to%20the%20Captives.md)

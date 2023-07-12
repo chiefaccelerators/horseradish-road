@@ -586,3 +586,5 @@ Next chapter will also be an Annerose chapter, since she's doing more interestin
 
 Please tell me what you think, also thank you for reading <3
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/004-Life%20Out%20of%20Balance/006-Tell%20Your%20Boyfriend%2C%20If%20He%20Says%20He%E2%80%99s%20Got%20Beef.md)

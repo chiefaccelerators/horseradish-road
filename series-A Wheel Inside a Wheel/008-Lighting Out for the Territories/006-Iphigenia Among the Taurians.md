@@ -768,3 +768,5 @@ btw, check out my carrd: gayspaceopera.carrd.co . I worked very hard on it. Ther
 
 see ya later
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/008-Lighting%20Out%20for%20the%20Territories/009-While%20the%20Cat%27s%20Away%2C%20the%20Mice%20Will%20Play.md)

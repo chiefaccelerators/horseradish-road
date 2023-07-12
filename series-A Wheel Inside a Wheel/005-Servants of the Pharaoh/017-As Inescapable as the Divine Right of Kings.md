@@ -752,3 +752,5 @@ There’s like, max two chapters left in this story. Might only be one, dependin
 
 Thank you to Em and Lydia for the beta read\! Find me on tumblr @javert and on twitter @natsinator . Original fiction @bit.ly/arcadispark and @bit.ly/shadowofheaven . See you soon\!
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/005-Servants%20of%20the%20Pharaoh/018-Jacob%E2%80%99s%20Ladder.md)

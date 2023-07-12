@@ -334,3 +334,5 @@ Thank you to Lydia for the beta read.
 
 Hey, if you're bored, go read my original space opera @ bit.ly/shadowofheaven
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/002-Speaking%20In%20Tongues/002-The%20Future%20is%20a%20Foreign%20Country%20%28They%20Do%20Things%20Differently%20There%29.md)

@@ -372,3 +372,5 @@ I would love to hear what you've thought of the story. If you're fanart inclined
 
 As always, thank you to Lydia for beta reading, and if you're bored while waiting for me to write part two of this story, please feel free to check out my monster original space opera \(it's many hundreds of thousands of words long\), so it should keep you entertained for a good long while: bit.ly/shadowofheaven
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/003-Talking%20Without%20Speaking/014-Never%20Quite%20Free.md)

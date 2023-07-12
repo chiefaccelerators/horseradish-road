@@ -204,3 +204,5 @@ We're inching closer to the end of this part of the story, are you all excited?
 
 same as it ever was: thanks to lydia for the beta read. I'm javert @ tumblr and natsinator @ twitter. my original fiction can be found at bit.ly/shadowofheaven and bit.ly/arcadispark
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/004-Life%20Out%20of%20Balance/014-Simultaneity.md)

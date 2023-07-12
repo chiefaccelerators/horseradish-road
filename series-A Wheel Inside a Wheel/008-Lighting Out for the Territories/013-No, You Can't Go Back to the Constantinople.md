@@ -722,3 +722,5 @@ have you voted in my poll yet? please do
 
 un\-beta'd b/c i didn't actually finish this chapter until it was too late for that. sorry em ;0; reminds me of the ol' itsoh days when i would finish the last sentence of a chapter at like 2am and immediately post the whole thing and fall directly asleep. the best of times, the worst of times, etc. anyway you know the drill: i'm javert on tumblr and natsinator on twitter. various other links at gayspaceopera.carrd.co . see you next monday\!
 
+---
+[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/008-Lighting%20Out%20for%20the%20Territories/014-Sins%20of%20High%20Finance%20and%20Diplomacy.md)
