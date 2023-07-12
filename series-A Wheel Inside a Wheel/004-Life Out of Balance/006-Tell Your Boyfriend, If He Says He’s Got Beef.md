@@ -841,4 +841,4 @@ Hope you're all staying safe out there.
 Thanks to Lydia for the beta read. check out my original fiction @ bit.ly/arcadispark or bit.ly/shadowofheaven . I'm javert on tumblr and @natsinator on twitter
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/004-Life%20Out%20of%20Balance/007-The%20Red%20Rose%20and%20the%20Briar.md)
+[Next Chronological Chapter](../004-Life%20Out%20of%20Balance/007-The%20Red%20Rose%20and%20the%20Briar.md)

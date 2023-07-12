@@ -1347,4 +1347,4 @@ The Earth church is... convenient for plot but I'm trying to make them be a legi
 Thank you to the excellent Lydia for the beta read. Check out the science fiction I started writing during my terrible teaching tenure @ bit.ly/shadowofheaven and the mystery I wrote after I left that place @ bit.ly/arcadispark . I'm @javert on tumblr and @natsinator on twitter. See you soon with the second half of this chapter\!
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/005-Servants%20of%20the%20Pharaoh/009-I%2C%20Claudius.md)
+[Next Chronological Chapter](../005-Servants%20of%20the%20Pharaoh/009-I%2C%20Claudius.md)

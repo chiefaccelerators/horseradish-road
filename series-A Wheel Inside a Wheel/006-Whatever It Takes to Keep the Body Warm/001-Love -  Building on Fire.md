@@ -533,4 +533,4 @@ count 'em, one, two loves. which is my face. which is a building. which is on fi
 thank you to lydia and em for the beta read\! my original fiction is @bit.ly/shadowofheaven and bit.ly/arcadispark . I'm @javert on tumblr and @natsinator on twitter. see you soon\!
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/006-Whatever%20It%20Takes%20to%20Keep%20the%20Body%20Warm/002-Snow%20Crush%20Killing%20Song.md)
+[Next Chronological Chapter](../006-Whatever%20It%20Takes%20to%20Keep%20the%20Body%20Warm/002-Snow%20Crush%20Killing%20Song.md)

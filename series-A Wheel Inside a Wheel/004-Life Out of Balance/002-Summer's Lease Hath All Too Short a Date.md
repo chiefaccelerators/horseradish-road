@@ -633,4 +633,4 @@ Thanks to Lydia for the beta read. Let me know what you think of this so far :\)
 Read my original science fiction web serial for less holding your own father at gunpoint: bit.ly/shadowofheaven . You can find me on tumblr as javert or twitter as @natsinator.
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/002-Speaking%20In%20Tongues/013-Pomp%20and%20Circumstance.md)
+[Next Chronological Chapter](../002-Speaking%20In%20Tongues/013-Pomp%20and%20Circumstance.md)

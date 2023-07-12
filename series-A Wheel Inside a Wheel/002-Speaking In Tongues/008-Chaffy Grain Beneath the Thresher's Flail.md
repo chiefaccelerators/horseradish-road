@@ -555,4 +555,4 @@ Title is a line from the poem Kubla Khan by Samuel Taylor Coleridge, chosen beca
 Thank ye to Lydia for the beta read. Once again, there's absolutely zero cavalry battles in my original space opera that you can read right here: bit.ly/shadowofheaven
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/004-Life%20Out%20of%20Balance/002-Summer%27s%20Lease%20Hath%20All%20Too%20Short%20a%20Date.md)
+[Next Chronological Chapter](../004-Life%20Out%20of%20Balance/002-Summer%27s%20Lease%20Hath%20All%20Too%20Short%20a%20Date.md)

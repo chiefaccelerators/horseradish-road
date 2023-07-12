@@ -241,4 +241,4 @@ Of course, though, I'm also referencing the Mountain Goats' song, "Hail Saint Se
 Thanks to Lydia for the beta read. Read my original science fiction for absolutely zero horseback riding scenes: bit.ly/shadowofheaven
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/002-Speaking%20In%20Tongues/007-No%20Roses%20Without%20Thorns%20%20No%20Summers%20Without%20Storms.md)
+[Next Chronological Chapter](../002-Speaking%20In%20Tongues/007-No%20Roses%20Without%20Thorns%20%20No%20Summers%20Without%20Storms.md)

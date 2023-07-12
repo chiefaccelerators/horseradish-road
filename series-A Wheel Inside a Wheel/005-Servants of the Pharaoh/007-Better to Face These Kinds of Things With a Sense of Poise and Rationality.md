@@ -729,4 +729,4 @@ Yang and Magdalena are disaster bisexual solidarity lmao.
 Thank you to Lydia for the beta read <3 . Original court drama @ bit.ly/shadowofheaven the nonexistent summer of 2020 @ bit.ly/arcadispark. I'm @natsinator on twitter and @javert on tumblr. see you all later\!
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/005-Servants%20of%20the%20Pharaoh/008-In%20the%20Blood%20of%20Eden.md)
+[Next Chronological Chapter](../005-Servants%20of%20the%20Pharaoh/008-In%20the%20Blood%20of%20Eden.md)

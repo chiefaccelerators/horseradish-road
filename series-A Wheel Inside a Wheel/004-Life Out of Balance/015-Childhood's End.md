@@ -841,4 +841,4 @@ Thank you all so much for reading and sticking with me on this wild ride. I real
 As usual: thank you to Lydia for the beta read, more weird creepy religion in my original science fiction @ bit.ly/shadowofheaven , more fraught conversations about what you're going to do when you graduate college in my contemporary mystery story @ bit.ly/arcadispark . you can find me personally as @javert on tumblr or @natsinator on twitter.
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/008-Lighting%20Out%20for%20the%20Territories/001-The%20Accursed%20Share.md)
+[Next Chronological Chapter](../008-Lighting%20Out%20for%20the%20Territories/001-The%20Accursed%20Share.md)

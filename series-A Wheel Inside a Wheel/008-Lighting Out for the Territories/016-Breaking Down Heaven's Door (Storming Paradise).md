@@ -711,4 +711,4 @@ title, vaguely https://www.youtube.com/watch?v=rnKbImRPhTE
 thank you very much to em for the beta read\! you can find me on twitter @ natsinator and on tumblr @ javert . my carrd that needs updating is gayspaceopera.carrd.co , and you can also join my discord if you like :\) https://discord.gg/2fu49B28nu
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/008-Lighting%20Out%20for%20the%20Territories/017-Gang%20Aft%20Agley.md)
+[Next Chronological Chapter](../008-Lighting%20Out%20for%20the%20Territories/017-Gang%20Aft%20Agley.md)

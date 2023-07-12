@@ -623,4 +623,4 @@ keeping secrets from annerose b/c you don't want her to have to see her be moral
 thank you very much to Em for the beta read\! you can find me on twitter @ natsinator, on tumblr @ javert. and there's a whole bunch of other stuff at gayspaceopera.carrd.co . join my discord server https://discord.gg/nvBWQ5vDxy if you like :\)
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/008-Lighting%20Out%20for%20the%20Territories/016-Breaking%20Down%20Heaven%27s%20Door%20%28Storming%20Paradise%29.md)
+[Next Chronological Chapter](../008-Lighting%20Out%20for%20the%20Territories/016-Breaking%20Down%20Heaven%27s%20Door%20%28Storming%20Paradise%29.md)

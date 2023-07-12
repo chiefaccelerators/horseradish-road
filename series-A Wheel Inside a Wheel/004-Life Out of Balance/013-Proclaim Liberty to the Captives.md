@@ -485,4 +485,4 @@ The awkwardness of the Fredrica \- Admiral Greenhill \- Reinhard meeting is so s
 Oh god I ramble in the author's notes way too much. Here's how it is: thank you to Lydia for the beta read. More ship theft @ bit.ly/shadowofheaven , other things @ bit.ly/arcadispark . I'm @javert on tumblr and @natsinator on twitter.
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/005-Servants%20of%20the%20Pharaoh/017-As%20Inescapable%20as%20the%20Divine%20Right%20of%20Kings.md)
+[Next Chronological Chapter](../005-Servants%20of%20the%20Pharaoh/017-As%20Inescapable%20as%20the%20Divine%20Right%20of%20Kings.md)

@@ -7,7 +7,7 @@ SOURCE_TSV = "wiaw timeline - Sheet1.tsv"
 TARGET_EN = "series-A Wheel Inside a Wheel"
 TARGET_ZH = "series-【授翻】轮中之轮"
 
-next_format = '---\n[<div style="text-align: right">Next Chronological Chapter</div>]({link})'
+next_format = "---\n[Next Chronological Chapter]({link})"
 
 
 def zh_idx(en_idx):
@@ -55,10 +55,12 @@ def main():
             file_lines = chapter_fn.read().splitlines()
             final_line = file_lines[-1]
             if final_line.startswith('[<div style="text-align: right">Next Chronological Chapter</div>]'):
-                chapter_fn.seek(filesize - (len(file_lines[-3]) + len(file_lines[-2]) + len(file_lines[-1]) + 2))
+                write_from = filesize - (len(file_lines[-3]) + len(file_lines[-2]) + len(file_lines[-1]) + 2)
             else:
-                chapter_fn.seek(filesize)
-            next_filename = filenames_list[idx + 1]
+                write_from = filesize
+            chapter_fn.seek(write_from)
+            chapter_fn.truncate(write_from)
+            next_filename = filenames_list[idx + 1].replace(TARGET_EN, "..")
             chapter_fn.write(next_format.format(link=urllib.parse.quote(next_filename)))
             chapter_fn.write("\n")
 

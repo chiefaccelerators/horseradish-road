@@ -1401,4 +1401,4 @@ ANYWAY I should shut up. This brings us to the end of this part\! I’ll be back
 Thank you to Lydia and Em for the beta read\! Find me @javert on tumblr and @natsinator on twitter.. Original fiction @ bit.ly/arcadispark and bit.ly/shadowofheaven
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/007-Keep%20the%20Home%20Fires%20%28Burning%29/001-With%20Your%20Grandfather%20in%20the%20Ground.md)
+[Next Chronological Chapter](../007-Keep%20the%20Home%20Fires%20%28Burning%29/001-With%20Your%20Grandfather%20in%20the%20Ground.md)

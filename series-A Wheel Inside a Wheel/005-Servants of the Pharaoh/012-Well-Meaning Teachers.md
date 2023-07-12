@@ -663,4 +663,4 @@ Anyway, I love Yang, Kircheis, and Hilde. Great and fun little squad haha.
 Thank you to Lydia for the beta read <3 Original science fiction @ bit.ly/shadowofheaven and original mystery @ bit.ly/arcadispark . I'm @javert on tumblr and @natsinator on twitter. See ya\!
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/005-Servants%20of%20the%20Pharaoh/013-Historiography.md)
+[Next Chronological Chapter](../005-Servants%20of%20the%20Pharaoh/013-Historiography.md)

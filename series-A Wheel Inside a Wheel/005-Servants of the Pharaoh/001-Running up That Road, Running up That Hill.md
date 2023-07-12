@@ -475,4 +475,4 @@ Fuck Oberstein all my homies hate Oberstein, etc etc etc. \(Unless you're in the
 Thank you to Lydia for the beta read. More spacebattles @ bit.ly/shadowofheaven um. more responsibility that the main character doesn't want over at bit.ly/arcadispark. Find me on twitter as @natsinator and on tumblr as @javert.
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/005-Servants%20of%20the%20Pharaoh/002-The%20Hero%20of%20El%20Facil.md)
+[Next Chronological Chapter](../005-Servants%20of%20the%20Pharaoh/002-The%20Hero%20of%20El%20Facil.md)

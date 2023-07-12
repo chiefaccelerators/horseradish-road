@@ -1083,4 +1083,4 @@ anyway, this concludes the court politics arc, at least for now. next chapter is
 thank you to Lydia for the beta read <3 my original science fiction is @ bit.ly/shadowofheaven , my mystery is @ bit.ly/arcadispark and I'm @javert on tumblr and @natsinator on twitter. see you again soon :\)
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/005-Servants%20of%20the%20Pharaoh/010-Siegfried%20Idyll.md)
+[Next Chronological Chapter](../005-Servants%20of%20the%20Pharaoh/010-Siegfried%20Idyll.md)

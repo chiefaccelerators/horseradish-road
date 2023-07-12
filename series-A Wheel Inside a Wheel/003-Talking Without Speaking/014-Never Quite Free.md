@@ -501,4 +501,4 @@ anyway i hope you have enjoyed this silly story, even if it is just the same sto
 socials: @natsinator on twitter @javert on tumblr, gayspaceopera.carrd.co for the rest of my stuff. you know the drill.
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/005-Servants%20of%20the%20Pharaoh/001-Running%20up%20That%20Road%2C%20Running%20up%20That%20Hill.md)
+[Next Chronological Chapter](../005-Servants%20of%20the%20Pharaoh/001-Running%20up%20That%20Road%2C%20Running%20up%20That%20Hill.md)

@@ -652,4 +652,4 @@ sorry again for my unplanned break. i've been very depressed lol. but i'm trying
 thank you very much to em for the beta read\! the rest of my stuff at my desperately\-needs\-to\-be\-updated portfolio @ gayspaceopera.carrd.co , you can find me on twitter @natsinator and on tumblr @javert. you can also join my discord\! it's a chill little place https://discord.gg/2fu49B28nu
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/012-Serpent%27s%20Mouth%2C%20Serpent%27s%20Teeth/016-Scenes%20on%20the%20Occasion%20of%20a%20Wedding.md)
+[Next Chronological Chapter](../012-Serpent%27s%20Mouth%2C%20Serpent%27s%20Teeth/016-Scenes%20on%20the%20Occasion%20of%20a%20Wedding.md)

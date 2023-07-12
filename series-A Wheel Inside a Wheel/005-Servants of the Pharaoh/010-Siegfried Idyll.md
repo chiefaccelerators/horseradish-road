@@ -855,4 +855,4 @@ I don't know if you actually "enjoyed" this chapter, but I hope you found it int
 Thank you to Lydia for the beta read <3 original science fiction @ bit.ly/shadowofheaven , mystery novel @ bit.ly/arcadispark . I'm @javert on tumblr and @natsinator on twitter. see ya soon
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/005-Servants%20of%20the%20Pharaoh/011-Meeting%20a%20Man%20of%20Twists%20and%20Turns.md)
+[Next Chronological Chapter](../005-Servants%20of%20the%20Pharaoh/011-Meeting%20a%20Man%20of%20Twists%20and%20Turns.md)

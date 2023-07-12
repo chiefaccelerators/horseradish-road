@@ -745,4 +745,4 @@ Oh, I drew this picture, though ymmv on its goodness
 Thank you to Lydia for catching all the places where I abandon a sentence halfway through. I'm javert on tumblr and natsinator on twitter, and my original science fiction can be found @ bit.ly/shadowofheaven , as well as a mystery @ bit.ly/arcadispark
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/004-Life%20Out%20of%20Balance/009-Hair%20Match.md)
+[Next Chronological Chapter](../004-Life%20Out%20of%20Balance/009-Hair%20Match.md)

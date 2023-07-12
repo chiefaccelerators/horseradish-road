@@ -813,4 +813,4 @@ Schenkopp/Annerose straight drama ensues. He wants her to show some initiative, 
 Thank you to lydia and em for the beta read\! I’m javert on tumblr and natsinator on twitter if you want to follow me or chat :3 See you soon.
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/008-Lighting%20Out%20for%20the%20Territories/005-Learning%20to%20Read%20Linear%20B.md)
+[Next Chronological Chapter](../008-Lighting%20Out%20for%20the%20Territories/005-Learning%20to%20Read%20Linear%20B.md)

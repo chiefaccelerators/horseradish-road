@@ -1043,4 +1043,4 @@ the title of this chapter is from my mother's favorite warren zevon song. it's h
 thank you to lydia and em for the beta read\! original fiction @ bit.ly/shadowofheaven and bit.ly/arcadispark . I'm @javert on tumblr and @natsinator on twitter
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/005-Servants%20of%20the%20Pharaoh/016-Profess%20Keen%20Interest%20in%20the%20Welfares%20of%20the%20State.md)
+[Next Chronological Chapter](../005-Servants%20of%20the%20Pharaoh/016-Profess%20Keen%20Interest%20in%20the%20Welfares%20of%20the%20State.md)

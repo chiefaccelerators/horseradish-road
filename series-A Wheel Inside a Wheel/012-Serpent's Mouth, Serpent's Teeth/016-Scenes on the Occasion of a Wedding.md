@@ -903,4 +903,4 @@ thank you so much to em for the beta read
 usual social medias: javert @ tumblr , natsinator @ twitter , gayspaceopera.carrd.co , https://discord.gg/2fu49B28nu
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/008-Lighting%20Out%20for%20the%20Territories/013-No%2C%20You%20Can%27t%20Go%20Back%20to%20the%20Constantinople.md)
+[Next Chronological Chapter](../008-Lighting%20Out%20for%20the%20Territories/013-No%2C%20You%20Can%27t%20Go%20Back%20to%20the%20Constantinople.md)

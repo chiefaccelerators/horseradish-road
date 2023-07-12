@@ -796,4 +796,4 @@ Please let me know what you think\!
 thx to Lydia for the beta read. lydia was like "It's parallels that you have people drinking wine out of stupid cups" \(because yang and reuenthal did that in part 1\) and maybe it is, but only by virtue of me thinking that's an inherently hilarious thing to do. check out my original fiction @ bit.ly/arcadispark or bit.ly/shadowofheaven. I'm javert on tumblr and @natsinator on twitter. Feel free to chat with me in either of those places lol.
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/004-Life%20Out%20of%20Balance/008-Ain%27t%20No%20Cure%20for%20the%20Summertime%20Blues.md)
+[Next Chronological Chapter](../004-Life%20Out%20of%20Balance/008-Ain%27t%20No%20Cure%20for%20the%20Summertime%20Blues.md)

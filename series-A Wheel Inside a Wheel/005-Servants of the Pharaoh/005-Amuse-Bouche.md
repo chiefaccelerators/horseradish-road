@@ -671,4 +671,4 @@ The long awaited Return of Reuenthal. Sorry for leaving you on a cliff hanger bu
 As always, thank you to Lydia for the beta read. You can find more fights for succession for the crown @ bit.ly/shadowofheaven and more uhhhhh thinking your boss is fucked up @ bit.ly/arcadispark . I'm @javert on tumblr and @natsinator on twitter.
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/004-Life%20Out%20of%20Balance/004-The%20Body%20Keeps%20the%20Score.md)
+[Next Chronological Chapter](../004-Life%20Out%20of%20Balance/004-The%20Body%20Keeps%20the%20Score.md)

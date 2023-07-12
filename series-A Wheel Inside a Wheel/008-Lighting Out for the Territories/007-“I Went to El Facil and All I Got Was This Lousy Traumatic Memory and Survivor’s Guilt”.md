@@ -969,4 +969,4 @@ thank you very much to lydia and em for the beta read\!
 you can find my other writing at gayspaceopera.carrd.co and you can find me on twitter as @natsinator or tumblr as @javert. feel free to say hello lol
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/008-Lighting%20Out%20for%20the%20Territories/003-The%20Past%20Is%20Not%20a%20Home%20You%20Can%20Go%20Back%20To.md)
+[Next Chronological Chapter](../008-Lighting%20Out%20for%20the%20Territories/003-The%20Past%20Is%20Not%20a%20Home%20You%20Can%20Go%20Back%20To.md)

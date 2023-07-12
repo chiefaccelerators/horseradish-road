@@ -953,4 +953,4 @@ Anyway, I'd love to hear what you think :^\)
 Thanks to Lydia for the beta read. I'm javert on tumblr and natsinator on twitter, feel free to come chat with me there. My original fiction also has someone giving birth, though under even less ideal circumstances: bit.ly/shadowofheaven and my other story also has someone stepping up to fill a managerial role that they did not particularly want: bit.ly/arcadispark
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/005-Servants%20of%20the%20Pharaoh/007-Better%20to%20Face%20These%20Kinds%20of%20Things%20With%20a%20Sense%20of%20Poise%20and%20Rationality.md)
+[Next Chronological Chapter](../005-Servants%20of%20the%20Pharaoh/007-Better%20to%20Face%20These%20Kinds%20of%20Things%20With%20a%20Sense%20of%20Poise%20and%20Rationality.md)

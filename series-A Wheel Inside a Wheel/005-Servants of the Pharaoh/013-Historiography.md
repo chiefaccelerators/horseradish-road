@@ -734,4 +734,4 @@ And your arms were warm and that's all I remember*
 thank you to lydia and em for the beta read\! you know the drill bit.ly/shadowofheaven , bit.ly/arcadispark for my other writing. @javert on tumblr, @natsinator on twitter
 
 ---
-[<div style="text-align: right">Next Chronological Chapter</div>](series-A%20Wheel%20Inside%20a%20Wheel/005-Servants%20of%20the%20Pharaoh/015-Don%27t%20Let%20Nothing%20Come%20Between%20You%21.md)
+[Next Chronological Chapter](../005-Servants%20of%20the%20Pharaoh/015-Don%27t%20Let%20Nothing%20Come%20Between%20You%21.md)
