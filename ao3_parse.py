@@ -1,6 +1,7 @@
 import os
 import re
 import argparse
+from functools import partial
 
 from bs4 import BeautifulSoup
 from bs4.element import NavigableString
@@ -10,16 +11,22 @@ SNAKEY_PATTERN = re.compile(r"[^0-9a-zA-Z_ ]")
 
 
 def snakey(name):
-    # return SNAKEY_PATTERN.sub("", unidecode(name.replace("&", "and")).strip()).replace(" ", "_")
     return SNAKEY_PATTERN.sub("", name.replace("&", "and")).replace(" ", "_")
 
 
-def userstuff_to_string(userstuff):
+# smh windows
+ILLEGAL_CHAR_PATTERN = re.compile(r"[<>:\"\/\\\|\?\*]")
+safe_fd = partial(ILLEGAL_CHAR_PATTERN.sub, "")
+MD_ESCAPE_PATTERN = re.compile(r"([\\\`\*\_\{\}\(\)\#\+\-\.\!\|])")
+escape_md = partial(MD_ESCAPE_PATTERN.sub, r"\\\1")
+
+
+def html_to_md(userstuff):
     if isinstance(userstuff, NavigableString):
-        return "".join((txt.replace("\n", "") for txt in userstuff.strings))
+        return "".join((escape_md(txt).replace("\n", "") for txt in userstuff.strings))
     if userstuff.name == "br":
         return "\n"
-    contents_text = "".join((userstuff_to_string(item) for item in userstuff.contents))
+    contents_text = "".join((html_to_md(item) for item in userstuff.contents))
     if not contents_text.strip():
         return ""
     if userstuff.name == "p":
@@ -28,29 +35,41 @@ def userstuff_to_string(userstuff):
         contents_text = f"**{contents_text.strip()}**"
     if userstuff.name in ("em", "i"):
         contents_text = f"*{contents_text.strip()}*"
+    if userstuff.name == "li":
+        if userstuff.parent.name == "ul":
+            contents_text = f"- {contents_text.strip()}"
+        elif userstuff.parent.name == "ol":
+            contents_text = f"1. {contents_text.strip()}"
     return contents_text
 
 
 def write_work_meta(args, soup):
-    # <dd>Part 7 of <a href="http://archiveofourown.org/series/1650067">A Wheel Inside a Wheel</a></dd>
     preface = soup.find("div", attrs={"id": "preface"})
     source_url = preface.p.find_all("a")[-1].attrs["href"]
     meta = preface.find("div", class_="meta")
     title = meta.h1
-    author = meta.find("a", attrs={"rel": "author"})
+    byline = meta.find("div", class_="byline")
+    authors = byline.find_all("a", attrs={"rel": "author"})
 
     series = preface.find("a", attrs={"href": re.compile(r"^http:\/\/archiveofourown\.org\/series\/.+")})
     if series:
         series = series.parent
         series_index = int(series.contents[0].split(" ")[1])
         series_name = series.a.string
-        output_folder = os.path.join(args.output, snakey(author.string), snakey(series_name), f"{series_index:03}_{snakey(title.string)}")
+        output_folder = os.path.join(args.output, f"series-{safe_fd(series_name)}", f"{series_index:03}_{safe_fd(title.string)}")
     else:
-        output_folder = os.path.join(args.output, snakey(author.string), ".no_series", snakey(title.string))
+        authors_string = "-".join((author.string for author in authors))
+        output_folder = os.path.join(args.output, f"author-{safe_fd(authors_string)}", safe_fd(title.string))
 
     os.makedirs(output_folder, exist_ok=True)
     with open(os.path.join(output_folder, f".meta.md"), "w") as meta_fn:
         meta_fn.write(f"# {title.string}\n\n")
+        authors_string = ", ".join((author.string for author in authors))
+        meta_fn.write(f"by {authors_string}\n\n")
+        try:
+            meta_fn.write(html_to_md(meta.ul.li))
+        except AttributeError:
+            pass
         meta_fn.write(source_url)
         meta_fn.write("\n\n")
         for blockquote in meta.find_all("blockquote", class_="userstuff"):
@@ -59,7 +78,7 @@ def write_work_meta(args, soup):
                 prev = prev.previous_sibling
             if prev:
                 meta_fn.write(f"## {prev.string}\n\n")
-                meta_fn.write(userstuff_to_string(blockquote))
+                meta_fn.write(html_to_md(blockquote))
 
     return output_folder
 
@@ -87,12 +106,12 @@ def write_chapters(args, soup, output_folder):
                 endnote = group[2]
             except IndexError:
                 endnote = None
-            with open(os.path.join(output_folder, f"{idx+1:03}_{snakey(title.string)}.md"), "w") as chapter_fn:
+            with open(os.path.join(output_folder, f"{idx+1:03}_{safe_fd(title.string)}.md"), "w") as chapter_fn:
                 chapter_fn.write(f"# {title.string}\n\n")
-                chapter_fn.write(userstuff_to_string(content))
+                chapter_fn.write(html_to_md(content))
                 if endnote:
                     chapter_fn.write(f"## {endnote.p.string}\n\n")
-                    chapter_fn.write(userstuff_to_string(endnote))
+                    chapter_fn.write(html_to_md(endnote))
         except Exception:
             print(group[0])
             raise
