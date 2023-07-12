@@ -122,10 +122,6 @@ He followed Reuenthal out of the library, and they stood under the roof overhang
 
 Reuenthal glanced at him but said nothing.
 
- 
-
- 
-
 *October* *476 I.C., Odin*
 
 September slipped away, fall settling over the campus with a sense of routine. By the second half of October, Reuenthal might have sworn that his life had always consisted of classes with Yang, dinners with his friends, and late night studying sessions that often ended with Yang passing out in the lounge while Reuenthal and Mittermeyer quietly worked across from each other, occasionally speaking in low tones.

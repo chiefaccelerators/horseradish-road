@@ -2,39 +2,23 @@
 
 Yang did not show up to physicals the next morning, which Reuenthal thought was a very bad sign. He had been intending to corner Yang afterwards, but since he didn’t show up, Reuenthal had no choice but to try to contact him. In one of the five minute breaks they had during physicals, he pulled out his phone and texted Yang, hoping that he would respond.
 
- 
-
 > I would like to speak with you at some point, if possible.
-
- 
 
 By the time that physicals were over, and Yang had not yet responded to that message, Reuenthal grew first anxious, then annoyed. He tried to put himself in Yang’s shoes, to think about who he would report to, if he was going to report, and he decided that the most likely person would be Yang’s taciturn mentor, Eisenach.
 
 Reuenthal texted him, too.
 
- 
-
 > Eisenach, has Leigh spoken to you since yesterday?
 
- 
-
 < no, why
-
- 
 
 > I need to speak with him urgently, and he’s not answering my messages.
 
 > And he missed physicals.
 
- 
-
 < what do you need to talk to him about so urgently
 
- 
-
 > It’s personal.
-
- 
 
 < had a lovers’ spat, did you?
 
@@ -42,25 +26,15 @@ Reuenthal texted him, too.
 
 < since he misses physicals constantly anyway
 
- 
-
 > If he talks to you, please tell him to get in contact with me.
-
- 
 
 < it is too early in the morning to be mediating Leigh’s problems, you know
 
- 
-
 > It’s almost noon.
-
- 
 
 < lol
 
 < i’ll talk to him
-
- 
 
 Reuenthal was too annoyed with Eisenach to say thank you, so he just put his phone away and went to find lunch. He got a sandwich from the dining hall, and then left with it, returning to his dorm, since he had no desire to run into Mittermeyer, at least right now.
 
@@ -69,8 +43,6 @@ Since no administrator came to his room to drag him out of it and send him packi
 His phone sat innocuously on his desk, along with Yang’s folded jacket.
 
 His phone buzzed.
-
- 
 
 < just woke up
 
@@ -82,15 +54,9 @@ His phone buzzed.
 
 < let me know where/when
 
- 
-
 Yang didn’t sound like he was lying, but it was impossible to tell over text. Still, Reuenthal had no option except to respond.
 
- 
-
 > I can meet you at Eaglehead park when you’re done with your lunch.
-
- 
 
 Eaglehead was a little ways off campus, and Reuenthal didn’t know how long it would take for Yang to eat, so he left right away, bringing Yang’s jacket with him, so that he could return it. When he got there, he leaned against the brick wall that marked the park’s entrance from the street, and watched the passers by. The day was bright but chilly, and a stiff wind rattled the few remaining orange leaves on the trees.
 
@@ -311,10 +277,6 @@ Reuenthal had assumed Eisenach’s weird comment had been a joke, but apparently
 “An impressive feat, apparently.”
 
 Yang laughed at that.
-
- 
-
- 
 
 Reuenthal cornered Mittermeyer after dinner. They hadn’t eaten together, but Reuenthal had seen Mittermeyer across the dining hall eating with a group of freshmen, and had caught him when he was on his way out. It was dark and chilly as they left the dining hall together, and they didn’t head back to the dorms, but to the empty, academic part of the campus. They could have a conversation there without being listened to. Mittermeyer was smiling at him. 
 

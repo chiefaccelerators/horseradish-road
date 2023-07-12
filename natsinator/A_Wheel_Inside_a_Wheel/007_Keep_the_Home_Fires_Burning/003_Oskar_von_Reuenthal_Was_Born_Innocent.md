@@ -16,23 +16,13 @@ When that was done, he went over to his small liquor cabinet in his rooms on the
 
 He was well into his fourth drink when his phone showed him a text alert from Mittermeyer.
 
- 
-
 > are you coming to the bar?
-
- 
 
 < No.
 
- 
-
 > busy?
 
- 
-
 < My father died.
-
- 
 
 It took less than ten minutes after that for Mittermeyer to make his way onto the *Ostberlin* and directly to Reuenthal’s quarters. Reuenthal’s staff were familiar with Mittermeyer’s comings and goings, so there would have been no one who would have stopped him en route. He knocked on the door to Reuenthal’s chambers, once, then twice when Reuenthal didn’t immediately get up to answer the door.
 
@@ -101,10 +91,6 @@ He finished his drink and poured himself another. Mittermeyer just watched, sayi
 Reuenthal just nodded. He couldn’t explain any further, and had to hope that Mittermeyer understood. Thinking about his father always made him feel like his skin was too tight, like he needed something to shatter it off of himself to finally be free. But he knew that he couldn’t goad Mittermeyer into punching him, not tonight, anyway. He didn’t even know if that was what he truly wanted— he knew he shouldn’t want it— but there was this sensation of pressure behind his eyes, an impulse that said the only way to free himself was to crash into something with great force, full body: a train, his face into a wall, a fist. It didn’t matter what. His body hungered for the pressure, a release valve for whatever thought he couldn’t put a name to.
 
 He drank, instead.
-
- 
-
- 
 
 *December 486 I.C., Odin*
 
@@ -201,8 +187,6 @@ But Reuenthal didn’t need to keep his mother’s dresses as a reminder of anyt
 As he waited for Yang to arrive, he selected the plainest black suit for his father, and then pulled all the rest of the clothes out of the closet, piling them into a heap on the bed. He wanted to burn them, but he admitted that this was perhaps better suited to an outdoor bonfire than it was to the fireplace downstairs.
 
 His phone buzzed in his pocket.
-
- 
 
 < i’m here
 
@@ -353,10 +337,6 @@ Reuenthal grabbed his sleeve and pulled Yang towards himself, leaning back so th
 Reuenthal smiled into his mouth, then laid back, pulling Yang down with him, Yang supporting himself with his elbows on either side of Reuenthal’s chest.
 
 “You really should have come to my place,” Yang grumbled. “My bed is larger than a twin.”
-
- 
-
- 
 
 Yang couldn’t leave well enough alone, when it came to Reuenthal. It wasn’t that Reuenthal disliked Yang’s company— in fact, it was Yang’s company that made most of his time on Odin bearable— but it was never not strange to see Yang in the rooms of his father’s house. He invited himself over on a regular basis, and seemed comfortable perched on the counter in the kitchen as Reuenthal cooked dinner, or laying stretched out on the couch in front of the fire, or perusing the books in the library. Yang made the house feel like a different place.
 
@@ -1286,10 +1266,6 @@ She closed the door. “Sorry I fell asleep,” Yang said. “She wasn’t too a
 
 “No,” Reuenthal said. “She just wanted to play dressup.”
 
- 
-
- 
-
 Even though Reuenthal had gotten less sleep than Yang, he still woke up first, to the sun spilling in the bedroom window, glinting off the snow. He rolled over in bed to look at him, the way his mouth was loosely open and his hair fell across his face. Reuenthal lingered for a few minutes, then reached out and brushed Yang’s cheek with his thumb.
 
 Yang made a sleepy noise, then twitched, waking up and cracking his eyes open to look at Reuenthal.
@@ -1351,10 +1327,6 @@ Yang’s breath caught in his throat. “I wish it didn’t.”
 Yang rolled over on his side to look at Reuenthal. “Thank you.”
 
 Reuenthal just shook his head and closed his eyes. Tentatively, as if afraid he would be swatted away, Yang touched Reuenthal’s forehead, brushing his hair towards his temple. Reuenthal didn’t move except to turn his face towards Yang, which was taken as a sign of acceptance. Yang’s breath steadied. 
-
- 
-
- 
 
 He cooked them breakfast, eggs and sausage, and Yang seemed happy, glancing at him every few moments with a small, secret smile. The conversation around the breakfast table was light, all strangeness of the night before forgotten or ignored. If Magdalena had a hangover, she was pretending that she didn’t.
 

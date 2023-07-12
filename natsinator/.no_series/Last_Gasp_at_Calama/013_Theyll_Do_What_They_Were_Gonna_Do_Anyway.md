@@ -140,10 +140,6 @@ The duke looked down into the fire. “Did you know that there is no fortune for
 
 But the duke just shook his head, and strode across the grass towards his approaching driver, leaving Thomas alone before the dying fire.
 
- 
-
- 
-
 The inside of the house was massively chaotic when Thomas finally slipped back inside. There were uniformed MPs rushing every which way, and Lord Grantham was standing in the foyer with a look of utter despair on his face, shoulders slumped. Beside him, Lady Sybil was chewing her nails. Lady Grantham was following the captain in charge of the MPs around, an indignant response on her tongue for everything he said, even orders to his own men. Lady Edith and Lady Mary were nowhere to be found. 
 
 The only people who appeared even remotely calm were Count Lohengramm and his men, distinguishable from the military police easily by their different uniforms, the sleek silver across the chest and shoulders that marked him as an admiral standing out against the drab plain black of the MPs. Count Lohengramm stood in the foyer in front of Lord Grantham, and whenever any of the MPs looked about to approach and say something, Count Lohengramm’s presence seemed to ward them off. 
@@ -191,10 +187,6 @@ There was a prolonged moment of silence. It stretched on so long that the leader
 Inside the room, Lady Mary was at least dressed, but she was completely disheveled, her hair loose and her face beet red. She was standing at her dressing table, and she turned away from the onlookers, standing silently as the MPs entered the room and began tearing it apart. Carson abruptly seemed to realize that Thomas, Anna, and O’brien were still standing around, each staring at the scene with the feeling that the normal world was crashing down around their ears, though that clear expression showed on their faces in different ways.
 
 Carson ordered them all to leave and make themselves useful. Thomas got out of there in a hurry.
-
- 
-
- 
 
 The search of the house lasted until well past midnight. Every inch of the place was turned over, with the MPs growing bolder and more desperate to uncover anything the longer the search went on. Thomas was sure that they were going to snatch one of the servants up at random, make an accusation just to have someone to take away and make an example of, but in the end, they found nothing, and with Count Lohengramm’s watchful eye upon them, they were taking fewer risks.
 

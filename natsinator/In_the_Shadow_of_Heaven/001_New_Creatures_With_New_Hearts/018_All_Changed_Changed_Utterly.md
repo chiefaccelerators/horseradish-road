@@ -262,8 +262,6 @@ Yan nodded, but when she went into her hotel room, she didn’t get into bed. In
 
 *Dear Sylva*, she began, and then launched into an apology for not having written sooner, a garbled outpouring explanation of what had happened on board the *Sky Boat* and her feelings after that had prevented her from writing to anyone, even her family. Even if it was barely coherent, it was still something coming out of her, in one long rush. She trusted that Sylva would be able to understand what she was trying to say.
 
- 
-
 *And Sylva— all I’ve been able to think about this whole trip, after everything that happened, was how much I wanted to go home. I don’t mean the*Iron Dreams*, and I told my uncle that I couldn’t go back there. And I don’t mean Emerri, really.*
 
 *When I thought about going home, I was always just thinking about our dorm at the Academy. I know I can’t go back there— and it’s not like I have any reason to want to go back there except that it was the past, and I knew where I was, back then.*

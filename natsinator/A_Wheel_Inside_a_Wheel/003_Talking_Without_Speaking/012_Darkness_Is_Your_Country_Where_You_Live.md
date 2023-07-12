@@ -222,10 +222,6 @@ Mittermeyer paid their tab, and they all headed outside. The snow was coming dow
 
 Perhaps it was just to stop him from falling flat on his face, drunk on the ice; or perhaps it was a silent gesture of something else, but Mittermeyer and Yang pressed themselves on either side of him, holding him up under his shoulders, and they walked down the road together. He could have pushed them away, but he didn’t.
 
- 
-
- 
-
 Mittermeyer came to see him the next night. They hadn’t seen each other since Reuenthal had shut his dorm door in Yang and Mittermeyer’s faces after getting back from Joseph’s, though this was mostly due to the differences in their schedules, rather than any animosity. Reuenthal hoped that his outburst from the night before had been forgotten, rather than forgiven.
 
 It was about one in the morning when Mittermeyer made it into Reuenthal’s dorm. He used his key to get in. Reuenthal was awake, sitting at his desk, putting the finishing touches on a report for his senior leadership class. He looked up when he heard the key turn in the lock.
@@ -391,10 +387,6 @@ Mittermeyer hooked his leg around Reuenthal’s. “I meant what I said, yesterd
 The feeling of Mittermeyer’s leg on his was distracting him. “Even if I was born into the darkness, Mittermeyer?”
 
 He hesitated. “Yes,” Mittermeyer finally said. “Even then.”
-
- 
-
- 
 
 *December 478 I.C./January 479 I.C., Odin*
 

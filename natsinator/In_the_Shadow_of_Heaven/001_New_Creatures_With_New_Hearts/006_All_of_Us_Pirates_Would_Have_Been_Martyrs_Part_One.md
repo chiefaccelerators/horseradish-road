@@ -260,10 +260,6 @@ Even as she and Sylva found a cafe to sit down in, and they both had a coffee (a
 
 They had never lived apart from each other since meeting, so it felt new and terrible for Yan to say goodbye and watch Sylva go. It was like negotiating a whole new relationship between them, to which there were rules that Yan didn’t understand and didn’t know how to learn.
 
- 
-
- 
-
 The next morning, Yan woke up long before her alarm, perhaps because she was unused to the empty silence and size of her new apartment. It was a nice place, well furnished and very secure, with a secret room hidden in her closet that she presumed was for use in emergencies or for keeping important documents safe.
 
 She knew she wasn’t going to be able to fall back asleep, so, rather than staring blankly at the ceiling and wasting her time, Yan decided that she should do something useful. Her first thought was to find the cameras that were probably hidden somewhere in her apartment, but after scouring the place top to bottom, she found no evidence of them. This forced her to conclude that either the Imperial security who had bugged her apartment were better at hiding things than she was at finding them, or that Sandreas had had his fill of spying on his apprentices. The first seemed markedly more likely, which was an uncomfortable thought.

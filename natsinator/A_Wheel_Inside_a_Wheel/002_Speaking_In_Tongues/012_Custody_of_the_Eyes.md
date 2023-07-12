@@ -104,10 +104,6 @@ Staden shook his head. “My patience for your antics remains limited, I see,”
 
 “Thank you, sir,” Yang replied.
 
- 
-
- 
-
 Yang left Staden’s office and immediately returned to his dorm, where he flopped onto his bed and passed out before he could even pull the blanket up over himself. He woke to a pounding on his door and the hazy twilight seeping in through the window.
 
 “What?” Yang yelled at whoever was knocking. “Can’t a man sleep?”

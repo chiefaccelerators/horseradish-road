@@ -120,10 +120,6 @@ He nodded. “Thank you.” And then he was out the door.
 
 When he left, Sybil sat heavily on her bed. Although she had been nearly asleep when he first knocked, she was wide awake now, and her thoughts refused to stop turning over and over. She felt strangely morose, beyond just the terror of the day. Tom’s prediction that she couldn’t be happy ever again had unsettled her.
 
- 
-
- 
-
 Sybil woke early the next morning against her will. Anna came into her room and shook her shoulder gently, disentangling her from the twisted mess she had made of her bedsheets during the night, kicking and thrashing with disturbed dreams.
 
 “M’lady,” Anna said, “Lord Grantham would like to leave for Lady Rosamund’s house as soon as he can.”
@@ -300,10 +296,6 @@ Again, a beat of silence. “He’d take you home and keep you off Odin,” Magd
 
 “I will. Thank you, Maggie.”
 
- 
-
- 
-
 Her family’s mood on the drive to Aunt Rosamund’s house in the capital was sullen. Mary, pale and pinched in a way that Sybil had never seen her before, stared out the window. Edith was indignant about the season being ruined, and blamed it on Mary, but had the good sense to keep her mouth shut. Sybil couldn’t stop turning things over in her head, and it was made worse every time she glanced towards the driver’s seat, where Tom’s hands were white on the wheel. Her father had his computer balanced on his lap, and he was tapping out messages in his two-fingered way, holding the laptop steady with his other hand. Her mother pretended to read a book, but her eyes actually rested on Mary, who ignored her gaze.
 
 The mood did not improve when they greeted Aunt Rosamund and crammed themselves into the guest bedrooms of her home. Nor did things get better at dinner when Sybil’s grandmother showed up. The atmosphere was foul, but everyone seemed to realize it would only be made worse by talking about it.
@@ -369,10 +361,6 @@ Sybil’s father shook his head. “Go home with Cora and the girls,” he said.
 “Goodnight, Mama,” Robert said.
 
 Quickly, Sybil retreated back into the parlor before her father turned back towards her hiding place, her heart beating wildly in her throat.
-
- 
-
- 
 
 Sybil couldn’t sleep that night in her guest bedroom in Rosamund’s house. She kept turning over and over, flinging her elbow up to cover her eyes in desperation, even though the room was already pitch black.
 

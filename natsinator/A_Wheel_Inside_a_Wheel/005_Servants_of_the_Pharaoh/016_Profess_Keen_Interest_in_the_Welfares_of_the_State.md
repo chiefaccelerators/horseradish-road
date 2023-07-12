@@ -150,10 +150,6 @@ She nodded solemnly. “I should, shouldn’t I?” she said to Kircheis, who sh
 
 “You should ask Commander Leigh.”
 
- 
-
- 
-
 *January 484 IC, Odin*
 
 It would have been a stretch to say that Kircheis became friends with the rest of his classmates after that, but he was less reluctant to be social with them than he had been. There had always been mutual respect-- on Kircheis’s behalf because he tended to naturally respect people, and on the other students’ behalf because, no matter how hard the other students looked, there was nothing that Kircheis had done to merit disrespect. After all, while every other member of the class nurtured memories of being solidly and fairly beaten by Kircheis academically, in the SW practicum, or during physicals, Kircheis had never lorded it over anyone. The only flaws that people could have pointed to were his attachments to Commander Leigh and Hildegarde von Mariendorf, but now that Leigh was running the most important class in the school, and Hilde was just as good at beating people in SW games as Kircheis was, those became less areas of disdain and more areas of confusion. No one seemed quite sure what to make of the fact that Kircheis and Hilde were friends, or that Kircheis always spoke enthusiastically about Leigh, in a way that he didn’t about anything else.
@@ -316,10 +312,6 @@ Martin’s hand landed for a brief second on Kircheis’s thigh. “How could I 
 
 Kircheis smiled. “I doubt that’s true at all.”
 
- 
-
- 
-
 *April 484 IC, Odin*
 
 “Count Mariendorf tells me that you asked him if there were any open positions in Neue Sanssouci that you could take for the summer,” Leigh said, tilting his head to look at Kircheis, who had come to his office hours, intending to discuss his actual class work for once. He was startled by Leigh’s immediate question about something else.
@@ -421,10 +413,6 @@ Kircheis nodded.
 “I’m being derelict in my actual teaching duties, aren’t I?” He straightened up in his seat. “You probably came to see me about something else.”
 
 Kircheis smiled. “I just had a question about the team game last week.”
-
- 
-
- 
 
 *June 484 IC, Odin*
 
@@ -538,15 +526,9 @@ Kircheis leaned over to see what Martin was talking about. He held up the strip 
 
 Martin looked at it for a second more, then shrugged and tossed it down to the floor where their shirts were. “Yeah, you’re right,” he said, and then gently pushed Kircheis back down onto the bed.
 
- 
-
- 
-
 Although Kircheis paid little attention to the cloth that day, when he returned to work, his bored thoughts wandered back to it. Something about it seemed off. He didn’t think that the Earth Church had a huge population of members, and after doing some cursory research into their positions, he found it very strange that any of them would want to work in the palace. After all, their whole philosophy was in recognizing Earth (and their church) as the ultimate destined ruler of all humanity, a position antithetical to the existence of the Goldenbaum dynasty. 
 
 It might have been nothing, but Kircheis thought he had a “hook”, or at least a subject towards which to orient his research. He sent a message to Commander Leigh a few days later.
-
- 
 
 *Dear Commander Leigh,*
 
@@ -557,8 +539,6 @@ It might have been nothing, but Kircheis thought he had a “hook”, or at leas
 *Very respectfully,*
 
 *Siegfried Kircheis*
-
- 
 
 Leigh sent him back a plethora of information about who to talk to and where to look (surprisingly, he didn’t ask any questions about why Kircheis wanted this information), and so Kircheis got the access he needed. The Earth Church certainly didn’t publish a membership list, but Kircheis was able to track through tax information who was giving large parts of their income to either the church directly, or various shell charities that were linked back to them. He cross referenced this list with the palace staff list, going back several decades.
 
@@ -740,10 +720,6 @@ Kircheis tried to stifle the frown that rose to his face. “Yes, sir,” he sai
 
 “I’m glad we understand each other.”
 
- 
-
- 
-
 Kircheis talked to Martin that night, though first he said that he wanted to go *out* for dinner, and then after they had eaten dinner, they had taken a walk together in a nearby park. Kircheis just needed to make sure they were alone and out of their apartment.
 
 “I think our apartment might be bugged,” Kircheis said.
@@ -793,10 +769,6 @@ Martin shrugged, and there was an odd tone in his voice. “I don’t know if th
 “Yeah,” Kircheis said. “You’re right.”
 
 Martin smiled. “I’m always right.”
-
- 
-
- 
 
 *August 484 IC, Odin*
 

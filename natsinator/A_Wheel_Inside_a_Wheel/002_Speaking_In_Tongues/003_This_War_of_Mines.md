@@ -8,19 +8,13 @@ He checked on the intranet to see the class lists of each of his courses. As the
 
 If he couldn't ask the registrar, he could at least ask his mentor. This first question would at least serve as a test for if Eisenach was going to be prejudiced against him or not. He tapped out a question.
 
- 
-
 >hi Eisenach, this is Leigh, your mentee
 
 >I've been given a double course load (all strat classes + all history classes)
 
 >do I have to be worried about the strat classes? Are they difficult?
 
- 
-
 To Yang's surprise, Eisenach responded almost immediately.
-
- 
 
 < the difficulty of strats is entirely based around how good your classmates are
 
@@ -30,11 +24,7 @@ To Yang's surprise, Eisenach responded almost immediately.
 
 < why did you sign up for that anyway?
 
- 
-
 >history is what I want to study
-
- 
 
 < interesting
 
@@ -46,11 +36,7 @@ To Yang's surprise, Eisenach responded almost immediately.
 
 < well. I don't want to be gauche.
 
- 
-
 >I see.
-
- 
 
 < you and I have something in common, herr von leigh
 
@@ -60,11 +46,7 @@ To Yang's surprise, Eisenach responded almost immediately.
 
 < and it would be shameful for me for my mentee to crash and burn immediately
 
- 
-
 >I'm not here to play power games
-
- 
 
 < even if you don't want to, you are
 
@@ -73,8 +55,6 @@ To Yang's surprise, Eisenach responded almost immediately.
 < I have to get to class
 
 < good luck I guess
-
- 
 
 That had been a more pleasant interaction than Yang had been expecting, though it didn't fill him with confidence. He had to wonder what Eisenach thought they had in common. Maybe he also stood out like a sore thumb— Yang hadn't seen him in person, so he wouldn't be able to tell.
 

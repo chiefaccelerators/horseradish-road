@@ -318,10 +318,6 @@ The pair walked outside together. The nasty sleet had stopped while they were in
 
 “Yeah.” Yang started walking, stumbling a little, towards the train station. He kept glancing back over his shoulder, and Reuenthal eventually turned and headed back towards his hotel.
 
- 
-
- 
-
 That Saturday was one of those days in February that trick everyone into thinking that spring had arrived ahead of schedule. It was so nice out that when Yang woke up (late), he texted Reuenthal and asked if he would rather meet somewhere outside, rather than-- well, Yang didn’t know where they had been planning to meet. A bar, probably. Though it seemed like a dangerous proposition to spend an entire day in a bar.
 
 Reuenthal agreed, and so rather than going to the center of the capital, Yang took the bus to the closest nature reserve, a place a bit outside the city limits whose main attraction was a long walk around a lake. 
@@ -412,10 +408,6 @@ He tried not to let himself get too far down the trap of thinking that this was 
 
 After a while, Mittermeyer turned back towards Yang and told him to stop being so slow, apparently realizing that it was a little rude to have let Yang fall so far behind them. Yang smiled and jogged to catch up. He hadn’t wanted to intrude, but he was happy to be reinvited to the conversation, talking broadly about his and Reuenthal’s work, and how Mittermeyer’s last year of school was going. It was pleasant talk, and it pushed some of the worries and fear that he had been holding onto out of his mind.
 
- 
-
- 
-
 *March 480 IC, Odin*
 
 Bronner came over to Yang’s desk one day and tossed an envelope in front of him. The envelope was thick cream stock, and it was ripped completely open on the top.
@@ -434,8 +426,6 @@ Yang picked up the envelope and flipped it over to read the address. It had “H
 
 Yang scowled down at the envelope in his hands, then pulled out the lavish invitation to Magdalena’s birthday party. The invitation was standard, naming a time and place (a country estate, not her house close to the capital, Yang noted) but Magdalena had scribbled a personal note along the bottom, in handwriting that somehow managed to be both the pristine kind ground into her by, Yang was sure, years of finishing school, and the sloppy kind of Magdalena projecting her devil-may-care attitude into whatever she did.
 
- 
-
 *Hank,*
 
 *I threatened to invite you, and I’m making good on my threats. Don’t bother bringing a gift (I don’t trust you to know my taste). Feel free to bring a friend or two, though. The more the merrier.*
@@ -445,8 +435,6 @@ Yang scowled down at the envelope in his hands, then pulled out the lavish invit
 *Your friend,*
 
 *Maggie*
-
- 
 
 Yang could not interpret that at all. Through the rest of his workday, the letter sat on his desk and haunted him. Eventually, he texted Reuenthal and Mittermeyer, asking if they had any desire to go. Yang couldn’t see a way to get out, but since Magdalena had said that he could bring friends, it would be nice to at least have some pleasant company. She was probably just trying to balance out the gender ratio of her party.
 

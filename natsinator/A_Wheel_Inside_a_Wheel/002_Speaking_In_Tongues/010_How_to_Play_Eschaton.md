@@ -146,10 +146,6 @@ Mittermeyer cringed, then nodded. “Sorry.”
 
 “Don’t worry about it,” Yang said with a smile. “Have a nice night.”
 
- 
-
- 
-
 *November, 476 IC, Odin*
 
 By the time the next Saturday rolled around, life was re-approaching some semblance of normality. Yang did his best to foster within himself an emotion he deemed “casual benevolence” towards Reuenthal and Mittermeyer, and he felt like it was almost working. It made him happy to see Reuenthal smile and look less burdened than he had in a long while. And when they met in their larger group to play their games, he could pretend like nothing had changed. He was required to pretend that, in fact.
@@ -280,10 +276,6 @@ Reuenthal looked across at Yang, who shrugged. “I can survive without you, Bit
 
 From there, they moved on to hashing out the starting equipment and positions that each side would have available. It wasn’t as though they had detailed knowledge of the real strengths of each side, but they could make rough guesses. They didn’t even have accurate navigational charts of anywhere, but Reuenthal clapped Eisenach on the back and told him that that would be his headache as the campaign GM.
 
- 
-
- 
-
 *April, 476 IC, Odin*
 
 Yang’s informal club expanded in number to about fifteen people. It remained an exclusive group, comprised of high ranking students across all different school years. Some of the most notable among their number were Bayerlein, the freshman number three; Farenheight, the senior number five; and Ferner, the junior number one. 
@@ -336,8 +328,6 @@ This was all well and good, or it would have been, had Staden, who ran the SW pr
 
 Since Yang’s match had finished early into class, that meant that Yang had a little bit of time to stew before he actually had to meet with Staden. As he headed out onto the green, wondering if Reuenthal was done with his own match, Yang checked his phone and discovered that Eisenach had been texting him while he had been busy.
 
- 
-
 < hey leigh
 
 < sorry to be the bearer of bad news
@@ -352,11 +342,7 @@ Since Yang’s match had finished early into class, that meant that Yang had a l
 
 < and he sent me this email
 
- 
-
 Eisenach attached a screenshot of an email that just read:
-
- 
 
 *I see. Thank you for the information.*
 
@@ -366,23 +352,17 @@ Eisenach attached a screenshot of an email that just read:
 
 *Imperial Officers’ Academy, Strategic Warfare Program Coordinator*
 
- 
-
 < so i assume you’re going to get asked about it
 
 < don’t think you’re in trouble, exactly
 
 < but the room logs do have a lot in there
 
- 
-
 > thanks for the warning
 
 > unfortunately, staden emphatically doesn’t like me
 
 > so I guess we shall see how miserable this is
-
- 
 
 Yang sat down on the grass outside, getting his pants a little wet, then leaned back onto his bookbag, staring up into the cloudless blue spring sky. They weren’t technically breaking any rules. No one ever said it was illegal to do what was essentially extra schoolwork, in a room that Eisenach had somehow gotten permission from someone to use. Was it weird? Maybe.
 

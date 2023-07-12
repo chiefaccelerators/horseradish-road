@@ -30,8 +30,6 @@ It was almost a relief, then, when a new and different problem landed in his lap
 
 The message was innocuous enough on its surface.
 
- 
-
 *Dear Captain von Leigh,*
 
 *I doubt you remember me, but I took your class on Ancient Earth History a few years back. It’s probably very strange for me to be contacting you, but I’ve been working in the Embassy on Phezzan since I graduated, and I’ve had the pleasure of hearing your name mentioned a few times.*
@@ -47,8 +45,6 @@ The message was innocuous enough on its surface.
 *Lt. Cmdr. Neidhart Muller*
 
 *IOA Class of 482, Strategic Warfare Division*
-
- 
 
 Although it had been several years, Yang *did* remember Muller. He had been a senior when Yang had taught him, his very first year of teaching at the IOA. Muller had been fresh faced, with sandy-light hair and an enthusiasm for everything. Yang couldn’t remember where in his class he had graduated— Yang wasn’t teaching the SW class at the time, so it hadn’t been relevant to him. Muller must have been near the top, because being assigned the embassy on Phezzan was a coveted position, and Muller had been promoted quite quickly since he graduated. In Yang’s class, he had done well, despite Yang grading his first crop of students unduly harshly. (He had tempered his expectations for student performance after his first semester of classes.)
 

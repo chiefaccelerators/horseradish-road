@@ -198,10 +198,6 @@ She chuckled a little bit and closed her eyes. “I’m sorry. I won’t do it a
 
 “I know.” He headed for the door. 
 
- 
-
- 
-
 *September 795 U.C.*
 
 Before the summer, Reinhard had been looking forward to his last year at school. Now, though, the whole place felt stifling, worse even than high school had. People looked at him with either awe or open jealousy. Under better circumstances, he might have liked the former, but now he emphatically preferred people who felt the latter. These people were supposed to be his peers-- theoretically his equals-- and it grated to imagine that they thought themselves incapable of doing what he had done. Those who were jealous at least continued to see themselves in competition with Reinhard.
@@ -600,10 +596,6 @@ She nodded. “I’m always right.”
 
 “Now you’re the one who’s letting things go to your head.” He smiled, then, when she laughed at him.
 
- 
-
- 
-
 *December 795 U.C.*
 
 “You shouldn’t have flown all the way down here for this,” Reinhard said to Annerose as they sat across from each other in a restaurant near the academy. The place was filled to the brim with kitschy neon lights that buzzed and hummed on the walls. Reinhard had never been here before, but Annerose said she liked it, so he had agreed. “I’m sure Julian misses you.”
@@ -827,8 +819,6 @@ He smiled. “You’re being silly now.”
 “What I want involves making you happy, too,” Reinhard reassured her. 
 
 Annerose hugged him again. “I know. I know.”
-
- 
 
 **End of Part Two**
 

@@ -176,10 +176,6 @@ They were silent for a minute, just breathing.
 
 The power flitted across the boundary between their skins, and Yan felt the softness of Sid’s thoughts, the slippery, weightless feeling of the drug taking hold. He wavered into and out of consciousness for a while, and Yan’s mind followed his, clinging on to the warm blankness that the vena offered him.
 
- 
-
- 
-
 The rest of the journey to Olar passed in a blur. Yan and Sid did not leave their rooms, and Sid spent much of his time sedated. When Hernan or Iri came by to check on them, Yan covered for Sid and said that he was sleeping. Both minders expressed a degree of skepticism in their tones and expressions, but Sid’s slumped form in the bed behind Yan as she stood in the doorway at least reassured them that Sid was alive and present. 
 
 The *Sky Boat*docked at the top of Olar’s space elevator, which was otherwise devoid of ships. 
@@ -238,10 +234,6 @@ The image of Sylva, so removed from all of the recent horror in Yan’s life, wa
 
 “Of course,” Iri said. “I’m just putting it on the table.”
 
- 
-
- 
-
 Whoever had scheduled their trip had been thoughtful enough to give them time to get acclimated before they met with anyone important. Yan and Sid were cocooned from the various Olar officials who led their group from the spaceport to their hotel. Yan only had to say a few perfunctory words of greeting, to be politie, and then Iri stepped in and began to rapid-fire discuss logistics, which left Yan free to take out her phone and stare listlessly at it, half-typing a message addressed to no one, and then deleting it as she figured that she had nothing good to say. Sid was in a similar situation.
 
 When she could bear to glance up from her phone, she observed a few of the fashions of the people who flitted around their group. Olarians wore thick clothes in layers that could easily be added or removed: a decorative woolen wrap over a jacket over a sweater, fur-lined boots that went up almost to the knee. The people tended to wear their hair long, and most people who could grow beards did. Nearly everyone had tattoos, stripey lines that wrapped around their arms, and hands, some even having decorative patterns across their faces that disappeared beneath their hair. If Yan had felt more alive, she might have stared to try to figure out what the pattern was, if any, between the tattoos that different people had. But as it was, her gaze just slid around dully, registering the information but doing nothing with it.
@@ -290,8 +282,6 @@ Yan recited parts of it, in a dull voice.
 
 “Zesa went alone to the mountaintop, where none but God would hear his cries. He looked over the land below, and raised his arms to heaven, crying out in a loud voice:
 
- 
-
 “LORD, in this world I have set myself on high.
 
 I have been given authority from the lowest valley to the greatest peak.
@@ -303,8 +293,6 @@ My name is spoken as a worthy name.
 All glory and honor comes to me
 
 As I stand at the right hand of my king.
-
- 
 
 “Though I have been raised high,
 
@@ -320,8 +308,6 @@ And his touch is like the waves, which throw men
 
 To die upon the rocks.
 
- 
-
 “I once stood at the sides of those
 
 Whose voices were like the songs of birds,
@@ -336,8 +322,6 @@ Beneath the foam-laden sea,
 
 Which offer no mercies but those of the tomb.
 
- 
-
 “LORD, You are merciful.
 
 You are the wind that carries the sailor
@@ -350,8 +334,6 @@ For one such as me,
 
 You would have struck me down.
 
- 
-
 “For even the worms in the darkness of the earth
 
 Find some comfort in their brethren.
@@ -359,8 +341,6 @@ Find some comfort in their brethren.
 And the fish in the current-woven sea
 
 Do not swim alone.
-
- 
 
 “But I have sinned against my brothers.
 
@@ -371,8 +351,6 @@ If I could be forgiven by those who have crossed the star-circled sea
 I would hear their voices in the song of the birds,
 
 And feel the comfort of their touch in all the breezes that blow.
-
- 
 
 “O LORD— how can I be forgiven?
 
@@ -389,8 +367,6 @@ Than it is to earn forgiveness.
 What is it that I must do?
 
 O LORD— how can I be forgiven?”
-
- 
 
 Yan repeated the last line again and again, not moving on to the later parts of Zesa’s lament. He figured out how to find forgiveness, but she could not. 
 

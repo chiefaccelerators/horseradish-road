@@ -288,10 +288,6 @@ Iri relaxed a little. “Good. Now--”
 
 “What about Sid?” Yan asked, but Iri was already holding the door to walk both of them out.
 
- 
-
- 
-
 It was late, but not inhumanly late, when Yan finally made it back to her room. After the limo ride back to her apartment, which had been dead silent, she had wondered if Kino would speak to her some more, but Kino had nodded curtly at her and had retreated to her own room. Now that Yan knew about Kino’s more unfortunate habits, she had a nagging worry that maybe Kino shouldn’t be left alone, but she also didn’t really want to intrude, or get herself involved. So, she just went back to her apartment and paced back and forth in the living room.
 
 Her project that had earned her this apprenticeship, the fish in its bowl, sat on the coffee table, the fake goldfish matching her movements as she walked back and forth.

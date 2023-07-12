@@ -130,10 +130,6 @@ Yang sighed. “I am.” He tried to change the topic. “You’ll be careful, r
 
 “I’ll come by and pick you up,” Magdalena agreed.
 
- 
-
- 
-
 Yang and Magdalena met Evangeline and Mittermeyer at a restaurant in the center of the capital. Yang was wearing civilian clothes that Magdalena had deemed “fine”-- a casual but nice blouse and blue vest, and Magdalena was wearing a charming sundress and flower-bedecked hat. Mittermeyer was dressed similarly to Yang, and Evangeline looked like she was wearing her best dress-- one that was probably a little too warm for the weather.
 
 Mittermeyer helpfully made the introductions of the two women to each other. Evangeline seemed a little overwhelmed by Magdalena, and Yang wasn’t sure if it was because Mittermeyer had introduced her as “the Baroness Magdalena von Westpfale”, or the way that Magdalena had, when offered Evangeline’s hand to shake, grasped it with both hands and held it for what felt like Yang to be an uncomfortably long time.
@@ -642,10 +638,6 @@ Magdalena looked up at him. Some of her makeup had smeared around her eyes. “T
 
 He shrugged. “I hope so.” But he suspected that it wouldn’t be a non-problem at all.
 
- 
-
- 
-
 *June 481 IC, Odin*
 
 “It’s done,” Magdalena said. It was evening, and she and Yang were walking in one of the gardens in her estate, arm in arm. Yang had been to her house for dinner, and had spent the whole meal being glared at by Frau Westpfale, but it had been worth it to get this chance to talk alone afterwards. He was sure that Magdalena’s mother was still watching them out of one of the windows of the house, but at least this far away from everyone else, they could speak without being overheard. “She called me this morning. Positive test.”
@@ -747,10 +739,6 @@ Yang jammed his hands into his pockets. “Did you expect me to not help?”
 Magdalena bit her lip and shook her head. “You know.”
 
 Yang could imagine it perfectly well.
-
- 
-
- 
 
 *July 481 IC, Odin*
 
@@ -876,10 +864,6 @@ Yang smiled a little. “It’s good for soldiers to be idle.”
 
 “It’s remarks like that that make me glad to see the end of you, though I’m sure you will darken my doorway again in the future,” Bronner said. “Clean out your desk.”
 
- 
-
- 
-
 *August 481 IC, Odin*
 
 There was a staff dinner for all the IOA teachers before the start of the term. Yang was, by far, the lowest ranked person there. It would have been awkward enough that the makeup of the staff had not changed much since he graduated, so Yang was immediately recognized by all of his former teachers, with varying degrees of associated fondness. The whole thing was made more awkward by the fact that word seemed to have gotten around, somehow, that Yang was here on direct order of the kaiser. No one seemed to know what to do with that, especially since many of them had heard of or remembered Yang’s truly embarrassing incident at Neue Sanssouci his freshman year at the IOA.
@@ -967,10 +951,6 @@ Staden laughed. “Leigh, it will be your job to survive your first year teachin
 “Perhaps I should have stayed with the PI unit,” Yang said. “It sounds like it was less work.”
 
 “I’m sure that it was.”
-
- 
-
- 
 
 *October 481 IC, Odin*
 
@@ -1179,10 +1159,6 @@ Magdalena scowled.
 “Gods, nevermind,” Magdalena said, clearly annoyed. “You and your friends have issues.”
 
 “You’re one to talk.”
-
- 
-
- 
 
 *November 481 IC, Odin*
 

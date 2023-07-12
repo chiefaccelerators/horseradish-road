@@ -48,10 +48,6 @@ Sylva heaved a sigh into her cup of tea. "I guess. Did you tell your family abou
 
 "Yeah."
 
- 
-
- 
-
 Yan dressed in her nicest uniform for her third and final interview, the mysterious one that had left her painfully distracted. The line between anticipation and fear was a thin one, and she could never tell if she was crossing it; the two emotions jittered her in almost the same way.
 
 The interview was at noon in the nicest building on campus, the one where all the top Academy officials kept their offices. Yan had to sign in and be escorted by a guard into a waiting room.

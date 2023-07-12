@@ -106,10 +106,6 @@ Magdalena just shook her head and was silent again. 
 
 Eva looked over at Magdalena, who was staring up into the grey-cloud sky above. “No,” she said, and another strange shiver passed through her. “No, I didn’t know that.”
 
- 
-
- 
-
 Eva argued back and forth with Magdalena about Heinrich’s trustworthiness. Eva wanted to include him in the plan because he was their sole current connection to the Earth Church, and it would be very strange for one of them to corner his priest on his way out the door— strange enough that Elfriede might notice that something was going on. But Magdalena didn’t know Heinrich very well, and didn’t want to involve anyone else. 
 
 Eva won the argument. She was surprised at how easily Magdalena capitulated. All Eva said was, “I’m going to speak with him,” and Magdalena’s resistance collapsed into little more than a huff of breath and a wave of a hand. She was startled by this power she seemed to now possess: once she decided to do something, doing things became the easiest thing in the world. 
@@ -281,10 +277,6 @@ Eva’s reluctance came not only from the practical considerations of involving 
 It was an uncharitable thought that flitted across her mind: it certainly would make her excuse of leaving the planet to escape her husband better, if she was seen fleeing with another man. It would make it that much harder for Wolf to forgive her, when she returned. She looked down into Heinrich’s eyes, wondering if that was the reason that he suggested it. She didn’t ask that, though. Instead, she asked, “Will you wait for me to come back?”
 
 He let out a sigh, though his lungs were so pitifully small it was more like a wheeze. “Don’t make me answer that question, Eva,” he said. “I don’t like to lie to you.”
-
- 
-
- 
 
 It was March before Hilde returned, as she promised that she would. The snow had fully vanished after a warm front of a few days, but then the temperature plummeted far below freezing once again, the winter unwilling to relinquish their part of Odin. Without the glittering white blanket on the landscape, the whole world was the grey of bare tree branches and frozen mud. When Hilde arrived in time for dinner, the warm headlights of her car were the only things that pierced the gloom, and the bulky red sweater she wore as she emerged from the vehicle was the only color around. There wasn’t even the bright hair of Herr Kircheis: Hilde had come alone. Eva waved to Hilde out the window as she walked up to the house, and then sat back down and waited.
 

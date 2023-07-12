@@ -222,10 +222,6 @@ It was uncomfortable to listen to Franz say this, and when Yang tried to take a 
 
 “I’ll try,” Yang said.
 
- 
-
- 
-
 Although there was a great rush of activity on Geiersburg before the fleet headed out, the living area where the Braunschweig family was staying was quiet. Yang, though he had no right or official reason, headed there, on an errand of saying one last goodbye. 
 
 When he rang the bell on the Braunschweig family quarters, he was surprised to see Princess Amarie open the door. Perhaps he shouldn’t have been.
@@ -342,10 +338,6 @@ Yang frowned.  “I should go.”
 
 “Good luck to you,” she said. “I hope we see each other again.”
 
- 
-
- 
-
 *November 488 I.C., En route to Valhalla Starzone*
 
 There were a few routes to Odin from Geiersburg Fortress, all of which were about equal length, but they narrowed down to one trunk as they came towards Valhalla starzone. Odin’s location as the capital planet had been chosen for this reason: this singular entry point made it very defensible, even from enemies within the Empire itself. 
@@ -410,10 +402,6 @@ Braunschweig laughed. “He’s not. That’s your problem, Leigh. You’re a li
 
 Yang frowned and slumped back in his seat. He lifted his eyes just once. Ansbach didn’t look back at him, but was studying Yang’s scribbled diagram.
 
- 
-
- 
-
 After the meeting, which devolved into a long discussion about the best way to clear up the mines, Yang caught Merkatz on his way back to his shuttle.
 
 “Sir!” Yang called. Merkatz stopped and waited for him in the hallway, though he waved for his own aide— some young man named Schneider— to go ahead to the shuttle.
@@ -453,10 +441,6 @@ Yang nodded.
 “Enjoy your cleanup duty.”
 
 “I will, thank you, Commodore,” Merkatz said with his wry voice.
-
- 
-
- 
 
 The procedure to clear out a minefield, especially one as widely spread as the one blocking their path, was a slow one. It involved ships proceeding as carefully as they could through the dangerous area, sending out jets of directional zephyr particles, which they would then ignite with the ship’s guns once the gas was far enough in front of them, creating a ball of flame that would swallow up the nearby mines. Before the invention of directional zephyr particles, the process had been much slower: bomb attracting decoys had needed to be sent to clear a path through. That was costly in terms of resources as well as time, and a fleet the size of Braunschweig’s might not have even carried enough decoys to clear a path. At least zephyr particles could be manufactured on the engineering ships, even if the process was time consuming.
 

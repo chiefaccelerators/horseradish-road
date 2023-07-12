@@ -158,10 +158,6 @@ Matthew’s posture changed in immediate relief: he smiled and his shoulders los
 
 “We’ll worry about that later,” Kircheis said. 
 
- 
-
- 
-
 Despite everything, it remained a pleasure to be back on board the *Brunhilde*. The crew of the ship were well trained to ask no questions about the nature of Reinhard’s personal business. When the Kaiser had granted him the ship, he had also been granted the right to take her wherever he pleased, whenever he pleased, when he was not on the course of official work.
 
 The *Brunhilde*was a slick ship, slipping through space with her well tuned engine. Even far from any star, under her own running lights, she glowed against the velvet blackness of space. Her white paint stood out, both when she was in port and when she was among the rest of his fleet. A more cowardly commander might have balked at having a flagship that announced herself so loudly, made herself such an easy target, but Reinhard was not that kind of man. If he was only allowed one vanity, it would have been in that ship. 

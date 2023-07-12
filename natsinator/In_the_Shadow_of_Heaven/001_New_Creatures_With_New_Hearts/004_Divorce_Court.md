@@ -56,10 +56,6 @@ Sylva dropped the phone as if it were a live insect when it buzzed in reply. Sid
 
 "If you take the apprenticeship, they'll be your competition. If you don't, they're just weird. I don't know what you'll get out of talking to them." Yan didn't have the strength to try to convince Sylva to have less of a sudden grudge against Kino and Sid, so she just shook her head.
 
- 
-
- 
-
 Yan met Kino and Sid that night on the back lawn outside the library. It was a meeting place that Sid had suggested, though Yan didn't know what particular import it carried for him. It was a nice spot, at the top of the huge hill with the library lit at their backs, looking out over the last vestiges of city. The city lights ended abruptly in thick forest about ten kilometers distant from where they sat, just at the edge of their visibility now. It was a clear night, not foggy, with a mild chilly breeze that pushed thin clouds across the sky, casting the scene into bursts of shadow when one of them scuttled in front of the large full moon. 
 
 Sid was already waiting for Yan when she arrived, stretched out on the grass with his eyes closed. The slope of the hill was steep enough that Sid seemed almost vertical. Yan sat down next to him. When he didn't move, she realized it was because he could neither see nor hear her approach. She agonized for half a second about what to do, then ended up gently shaking his shoulder.
@@ -159,10 +155,6 @@ Yan laughed and shook her head, unable to tell how much Sid was kidding. Kino wa
 "What are you called?" Yan asked. "Just so I know."
 
 He grinned his wide grin once again-- it seemed to be a perpetual feature of his face, but Yan couldn't say she minded it. He slowly made the sign for 'egg' and knocked it hard against his own bald head.
-
- 
-
- 
 
 Packing up the apartment that she shared with Sylva turned out to be an unexpectedly trying thing to do. It wasn't that Yan had much in the way of belongings, but Sylva was in a terrible funk, and trying to pry apart their shared possessions was an unpleasant negotiation.
 

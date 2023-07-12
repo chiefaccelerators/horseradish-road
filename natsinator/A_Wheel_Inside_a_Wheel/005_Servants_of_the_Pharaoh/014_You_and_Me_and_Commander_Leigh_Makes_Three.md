@@ -88,10 +88,6 @@ Hilde narrowed her eyes at him. “It takes work to go there. It doesn’t just 
 
 Kircheis had to admit he was sad to see her go. 
 
- 
-
- 
-
 Saying his goodbyes to Commander Leigh was also something that Kircheis wanted to do, so, a few days later, he knocked on Leigh’s office door.
 
 “Come in,” Leigh said.
@@ -215,10 +211,6 @@ Kircheis felt very odd when Leigh said that, so he just nodded, and then stood, 
 Leigh also stood, and held out his hand for Kircheis to shake, which he did. “I expect that I will do my best to enjoy myself, despite the universe conspiring to not let me be as lazy as I would like. I’ll see you in August, then.”
 
 “Yes, sir.”
-
- 
-
- 
 
 Kircheis walked home from the train station alone. He had told his mother it wasn’t worth the effort to drive to come pick him up; he didn’t have more belongings to pack to take home than fit in a suitcase, and he had wanted the solitude of the ride to prepare himself for seeing his family again. By the time that the train pulled away from the station in town, the same one that he had sat with Reinhard at so many times, the sun had slid behind the trees, and all the streets were just now illuminating their streetlights. The night air was warm and still, and the songs of insects and frogs in the woods were more soothing than they were annoying. Kircheis walked very slowly, and, when he got to his street, lingered in front of the empty von Müsel house for a second before turning to walk up the path to his family’s home.
 
@@ -354,11 +346,7 @@ His father’s expression was one of appraisal. “Well, it’s good for you to 
 
 The conversation moved on to slightly easier things from there, and after dinner, Kircheis was able to retreat to his room. He found messages waiting for him on his phone from Martin.
 
- 
-
 < did you make it home?
-
- 
 
 > yeah, I did
 
@@ -366,27 +354,17 @@ The conversation moved on to slightly easier things from there, and after dinner
 
 > how have you been
 
- 
-
 < missed you, mostly
 
 < can i see you?
 
- 
-
 > now?
 
- 
-
 < :)
-
- 
 
 > let me wait until my parents go to bed
 
 > then i can probably meet you somewhere
-
- 
 
 They agreed to meet at one of their usual haunts, a wooded area in the nearby park that absolutely no one would be at during the night. Kircheis waited around until he heard his parents finish their nighttime routines, busying himself with unpacking his belongings back into his dresser. When the house was quiet, Kircheis crept down the stairs, remembering which ones creaked and needed to be stepped over, and then exited the house.
 
@@ -491,10 +469,6 @@ Martin sat up. “Not a very high bar to clear,” he said, but he was smiling i
 “I won’t,” Kircheis said. “I don’t think that it will change me.”
 
 “Good.” Martin leaned forward and kissed the side of Kircheis’s mouth. Kircheis smiled and turned Martin’s head with his hand so that he could reciprocate.
-
- 
-
- 
 
 *July 483 IC, Odin*
 
@@ -835,8 +809,6 @@ magdalena "I can excuse regicide, but I draw the line at republicanism" von west
 I know this chapter is chiller and less exciting than the two chapters that surround it (wedding next time) but the joy of fanfiction does come in being able to have random not much happens character chapters, and also I wanted to give some breathing room between the two intensely drama filled chapters
 
 speaking of, here's an illustration to accompany last chapter
-
-
 
 thank you to lydia and em for the beta read! follow me on tumblr @javert , on twitter @natsinator . read my original fiction @ bit.ly/shadowofheaven and bit.ly/arcadispark
 

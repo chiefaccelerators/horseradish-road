@@ -130,10 +130,6 @@ Still, some of the legitimacy of the dynasty hinged on the idea that the line wa
 
 All in all, Reinhard wasn’t sure what to make of the book. The picture he had of Leigh in his mind was only growing stranger by the day. He wondered if they would ever get a chance to meet.
 
- 
-
- 
-
 *November 796 U.C., Heinessen*
 
 Despite the relative ignominity of his return to Heinessen, when Reinhard stepped into the bustling floor of the spaceport and found Annerose waiting for him, he couldn’t help but break out into a broad smile, the kind that was reserved for her and her alone. She didn’t look much different than when he had last seen her, but when she ran towards him and embraced him, her grip was crushing.
@@ -266,10 +262,6 @@ Reinhard shook his head. “I can’t say I understand.”
 
 All his thoughts slid across the surface of his mind like pebbles across an iced-over lake. He wished he could have traded places with Annerose. He was silent for a minute, just thinking. When he spoke, it was to change the subject, though his voice was nearly choked. “Aside from Cahokia, how have you been? And Ms. Roscher and Julian?”
 
- 
-
- 
-
 It was a happy reunion to see Ingrid and Julian again. Reinhard was surprised to find that he would not need to sleep on a day bed in the living room or on the couch, as his room had been left vacant. It took only a cursory investigation to determine where Ingrid had been sleeping, and Reinhard decided not to ask any more about it. If he had been younger, he would have been jealous for not having the sum total of his sister’s affections, but between all the people crammed into her tiny house, Reinhard admitted he had lost that battle long ago, and tried to put it out of his mind. He did *like* Julian and Ingrid, after all. Especially when he heard the story of how Julian had attacked Schenkopp for “breaking in.” Reinhard laughed so hard that he couldn’t breathe.
 
 “You’ll have to start taking axe lessons,” Reinhard said to Julian once he had recovered his breath. “That way, next time Captain Schenkopp breaks in, you can really get him.”
@@ -349,10 +341,6 @@ Annerose frowned. 
 “I wish I had more information for you,” Cazerne said. “If this goes badly, I’ll see what I can do for you.”
 
 “I can handle it,” Reinhard said.
-
- 
-
- 
 
 The day the inquest began was gloomy, and cold for the season. Reinhard left the house before anyone but Annerose was awake, and she straightened his already-straight beret on his head and wished him luck. He made his way into the capitol, and when he presented himself at the information desk in the front lobby, he was checked in and escorted to a hearing room, whereupon his phone was confiscated before he was allowed in.
 

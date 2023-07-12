@@ -1,6 +1,6 @@
 # Sieg St. Sebastian!
 
-*October, 475 IC, Odin* 
+*October, 475 IC, Odin*
 
 After nearly three months of school, Yang was feeling like he had his feet under him, but only barely. His schedule was punishing, and he hadn't made any friends, so he spent much of his time in his room, endlessly doing homework. It was unfortunate that he cared about the vast majority of his subjects and didn't have any classes that he could simply toss into the wind. He missed having math class simply for the ability to abandon math class. Aside from the heavy workload, he felt like he was doing well in his history classes, at least.
 
@@ -54,21 +54,13 @@ Saturday came, and with it, the low blustery winds of October in this part of Od
 
 Yang wanted to know if Eisenach was here, so he texted his mentor, then looked around to see if anyone pulled out their phone to respond.
 
- 
-
 > are you here?
 
- 
-
 Eisenach responded immediately.
-
- 
 
 < I'm ignoring you
 
 < do not come talk to me
-
- 
 
 Yang looked around to see where Eisenach was. There was only one real candidate— a broad shouldered man with dark red, slicked back hair who was making a show of putting his phone in his pocket. He met Yang's eyes, gave a cheeky half-salute, then ignored Yang, as he had said he would.
 
@@ -223,10 +215,6 @@ Reuenthal looked at Yang, then gave a sharp nod. Wahlen narrowed his eyes, but d
 “Should we go to the entrance, or wait here for Bittenfeld to find a doctor?” Wahlen asked.
 
 Wahlen’s phone rang in his pocket. He answered it. Yang tried to listen to what was being said, but his vision was growing greyer and fuzzier around the edges, and the canteen slipped from his fingers and fell to the ground. He slid back involuntarily, directly onto Reuenthal’s chest, and from there lost consciousness at last.
-
- 
-
- 
 
 Yang woke up feeling jostled, but in significantly less pain than he had been in before he passed out. He was in an ambulance, he thought, and his leg was cold-- someone had cut his pants off above the arrow wound. His arm felt suspiciously cold, as well, and he discovered that his jacket had been removed, his sleeve rolled up, and there was an IV in his arm. He looked around as the car bumped away from Neue Sanssouci, back towards the city proper. Reuenthal was sitting next to him, arms crossed and leaning against the wall, and there was a doctor with the Goldenbaum crest on his jacket, and several nurses.
 

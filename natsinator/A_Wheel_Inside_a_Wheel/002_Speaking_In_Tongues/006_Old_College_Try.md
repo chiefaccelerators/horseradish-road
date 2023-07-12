@@ -116,10 +116,6 @@ Reuenthal smiled at him. “Don’t worry about it.” In a voice that was a cle
 
 “Thank you,” said Yang with genuine emotion. 
 
- 
-
- 
-
 *May, 476 IC, Odin*
 
 It was the last week of classes before finals, which meant it was the last Wednesday practicum of the year. As Yang trooped into the building, Bittenfeld came up behind him and leaned his elbows heavily on Yang’s shoulders. “Guess what?” Bittenfeld asked.
@@ -410,8 +406,6 @@ Bittenfeld shook his head. “Such poor manners from our number one. He could st
 
 Later, back in his dorm, Yang remembered the envelope that Reuenthal had given him. It had neat cursive on the front, and Reuenthal’s name and dorm address. The envelope was already open, so Yang took out the contents.
 
- 
-
 *Oskar,*
 
 *Of course I would be willing to host your friend for the summer. Any friend of yours is a friend of mine. Please give him the enclosed letter informing him.*
@@ -422,11 +416,7 @@ Later, back in his dorm, Yang remembered the envelope that Reuenthal had given h
 
 *Amelie Mariendorf*
 
- 
-
 The second letter, unsurprisingly, was addressed to Yang.
-
- 
 
 *Dear Herr von Leigh,*
 

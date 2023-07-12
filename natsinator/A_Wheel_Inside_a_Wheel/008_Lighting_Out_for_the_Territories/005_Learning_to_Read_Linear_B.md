@@ -6,8 +6,6 @@ Reinhard puzzled over the package he had received in the mail. By all accounts, 
 
 The object in question was a small cube of tungsten, about five centimeters on each side. For all that it was small enough to easily hold in his palm, it weighed an incredible amount, almost two and a half kilograms. He tossed it up and down as he read the letter that accompanied it.
 
- 
-
 *Dear Reinhard,*
 
 *Happy birthday! I wish that either you were on Heinessen, or I was on Phezzan, so that we could celebrate together, but we really have not been in the same place for your birthday for far too long. You’ll have to make do with my virtual well wishes this year.*
@@ -29,8 +27,6 @@ The object in question was a small cube of tungsten, about five centimeters on e
 *Your sister,*
 
 *Annerose*
-
- 
 
 There was something very, very strange about the letter. For one thing, even though Annerose had supplied a bit of a personal explanation for why she might enjoy a tungsten cube paperweight, it still seemed that a paperweight was an impersonal gift. It was also very unlike Annerose to discuss the price of anything she bought as a gift— a remnant of their  frugal childhood. Bills were discussed, gifts were not. The fact that she was calling attention to the price, and calling attention to the fact that she normally wouldn’t, it felt like a message.
 
@@ -191,10 +187,6 @@ Blackwell narrowed his eyes. “Yes.”
 “If I had come to you with just a strange birthday letter from my sister, you wouldn’t have listened to a word that I said.”
 
 “I’ll keep that in mind next time you become convinced that someone is leaving you coded messages,” Blackwell said.
-
- 
-
- 
 
 *July 796 U.C., Phezzan*
 
@@ -399,10 +391,6 @@ Muller made a face.
 “Oh, you’re going?” Muller seemed surprised.
 
 “As you said, we are still enemies.”
-
- 
-
- 
 
 Reinhard reported to Blackwell’s office the next afternoon, a folded newspaper tucked under his arm, this time one of the Phezzani ones.
 

@@ -166,10 +166,6 @@ Reuenthal had had enough. He tried to walk away past his father, but his father 
 
 Reuenthal would not be doing that, but he wanted his father to let go of him, so he said, “Yes, sir.” His father shoved him away, and Reuenthal retreated to his room.
 
- 
-
- 
-
 The day of Countess Amelie Mariendorf’s funeral was hot and bright, without a single cloud in the blue sky, which the sun pierced like a needle. The hot, bright light glinted off of the brass on the casket. Reuenthal’s head was pounding, and he was sweating in his suit. 
 
 She was being buried in the family plot, in a distant corner of the Mariendorf estate. Reuenthal was standing next to Yang, who had basically not said a word the entire time, but who had looked at Reuenthal with such wide, sad eyes. He was stiff and still, too, and his hair was slicked back in an attempt to make him look neat and presentable for the various nobility who were in attendance at the funeral, but it mostly made him look uncomfortable and half unfamiliar to Reuenthal. It had been over a month since they had last seen each other.

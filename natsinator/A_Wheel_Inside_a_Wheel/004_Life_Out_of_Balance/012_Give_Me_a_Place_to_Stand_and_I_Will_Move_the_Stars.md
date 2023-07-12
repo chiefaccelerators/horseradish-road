@@ -96,10 +96,6 @@ Reinhard was immediately annoyed with her and sat up sharply. “I’ll thank yo
 
 Reinhard fumed. He didn’t understand where the conversation had gone wrong. Perhaps Fredrica was just in a bad mood from trying to write to her father, but that didn’t mean she had to be annoyed at him for no reason. He had been friends with her for several years, and did not understand her half the time.
 
- 
-
- 
-
 Reinhard was still annoyed with her the next day, when they both met up at the dock to board the C-108 for her readiness trials. They didn’t speak to each other. Fredrica smiled at him, but Reinhard glanced at her and then ignored her. He could hold a grudge for a little while, at least.
 
 They boarded the ship with the rest of the dozen or so test crew and took the long walk through its long and empty length doing pre-launch inspections, before finally ending up at the bridge. The C-108 was a destroyer, unnamed until it was assigned to a fleet, but it had a full array of weaponry. For the duration of the test, Reinhard was sitting at the fire control station, simply because that was where the available seat was. Frederica was next to him at the radar and targeting station. Neither of them, of course, would be using their consoles for anything, but Reinhard spent some time memorizing the layout and recalling from his practical courses how one would operate the station, if it came down to it. Their actual duties during the readiness test were to record and report on data from various sensors that had been placed around the ship, and were being fed into a laptop that sat in between them. When the stardrive was activated under different conditions, it would cause various parts of the ship to measure different relative gravities. If the stardrive exceeded the allowable level of variation, the ship would fail the readiness test and need to be returned to dock.

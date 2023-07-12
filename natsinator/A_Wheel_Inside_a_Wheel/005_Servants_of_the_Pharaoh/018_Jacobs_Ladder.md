@@ -262,10 +262,6 @@ Yang smiled. “I’m not usually wrong about things like that.”
 
 “Oh, jeeze,” Yang said. “She just was reminding me how she behaved very badly at a party, once. Don’t worry about it.”
 
- 
-
- 
-
 *May 486, Odin*
 
 Yang learned about the trouble on Barbarasturm long after it happened, through several different channels.
@@ -402,19 +398,13 @@ He took a second to clear his thoughts and make a list of priorities. Number one
 
 His first message to Reuenthal was short.
 
- 
-
 *Reuenthal,*
 
 *I had a call from Eva that Mittermeyer is in some sort of trouble and seems to be unreachable. That’s all I know at the moment. I’m working on finding things out here & will keep you updated. Don’t do anything stupid.*
 
 *-Leigh*
 
- 
-
 His message to Bronner, on the other hand, walked a bit more of a delicate line.
-
- 
 
 *Commodore Bronner,*
 
@@ -425,8 +415,6 @@ His message to Bronner, on the other hand, walked a bit more of a delicate line.
 *Very respectfully,*
 
 *Commander Hank von Leigh*
-
- 
 
 That was, unfortunately, all he could really do at the moment. He might have called up Magdalena, just to get her on the same page, but then decided against it. She almost certainly wouldn’t be able to do anything, so Yang let her sleep in peace, at least for now.
 
@@ -588,13 +576,7 @@ Yang tilted his head. “And why would Martin know anyone on the frontier of fro
 
 Kircheis nodded, then turned to go.
 
- 
-
- 
-
 The next morning, Yang woke to one piece of news from a very unexpected source.
-
- 
 
 *Commander von Leigh,*
 
@@ -607,8 +589,6 @@ The next morning, Yang woke to one piece of news from a very unexpected source.
 *Respectfully,*
 
 *Captain Paul von Oberstein*
-
- 
 
 Absolutely nothing in that message was encouraging. Apparently, Yang’s plea to Reuenthal to not go AWOL had gone unheeded. He hoped that Reuenthal had, in fact, found a way to justify his movements to his superiors, but Yang wasn’t holding out much hope of that. It was somewhat concerning that Reuenthal did not even send Yang a message saying where he was going.
 
@@ -792,10 +772,6 @@ Reuenthal nodded. “I’ll find out where he is.”
 
 “Don’t do anything stupid,” Yang said. “Please.”
 
- 
-
- 
-
 Princess Amarie and Duke Braunschweig lived on a vast and beautiful estate, but the heavy rain clouds that had been filling the sky since the night before made the scene gloomy in a way that seemed unpleasantly foreboding. Yang walked up the pebbled path to the front door, with Evangeline at his side. He had thought about bringing Magdalena, but the fact that Magdalena was still slightly in disgrace made that a fraught proposition, so it was just Yang and Evangeline, her wearing her nicest but most staid outfit, and Yang clutching in his hands a thick folder of all the evidence that he and Reuenthal had been able to gather. 
 
 One of the family servants let them into the house. Evangeline couldn’t help but be awed somewhat by the size and grandeur of it (it was an order of magnitude more ostentatious than Magdalena’s estate), but Yang had been in plenty of noble houses, and was far too distracted by the task at hand to appreciate the architecture and decor. He was so distracted, in fact, that Evangeline had to steer him out of the way of a side table, when they were let into some sort of sitting room. 
@@ -910,7 +886,7 @@ Amarie nodded. “What is he doing?”
 
 “Oh?”Amarie asked.
 
-Yang pulled another piece of paper out of his folder and slid it across the table to Amarie. It was a copy of the transfer order, signed by Baron von Maier, that gave Flegel control of Mittermeyer’s person, and authorized his stay inside a private prison on the outskirts of the city. Mittermeyer’s name was not on the document.    
+Yang pulled another piece of paper out of his folder and slid it across the table to Amarie. It was a copy of the transfer order, signed by Baron von Maier, that gave Flegel control of Mittermeyer’s person, and authorized his stay inside a private prison on the outskirts of the city. Mittermeyer’s name was not on the document.
 
 “And you know that this is Rear Admiral Mittermeyer how?”
 
@@ -957,10 +933,6 @@ Amarie’s voice was dry. “It will not be without consequence, I’m afraid. M
 “Better to ask forgiveness than permission,” Yang said.
 
 “Is it?” Amarie asked, raising an eyebrow. “Well, no matter. We shall see what those consequences are in time, I suppose.” She stood. “Come. We will go find your friend. I’m sure it won’t take very long.”
-
- 
-
- 
 
 They didn’t make it to the prison. 
 
@@ -1143,10 +1115,6 @@ Yang shook his head and said, “You might not, but Mittermeyer does.” Amarie 
 “About half a kilometer,” Reuenthal said.
 
 “Hmph.” Amarie hiked her skirts up a little and began walking. “Let’s move. The prison might not be pleasant, but at least it won’t be so wet.”
-
- 
-
- 
 
 The officials inside the prison were weirdly cagey when they saw who had shown up, and on account of what prisoner. Yang realized he had been right to try to get Amarie on his side, because she brought the full force of her personality and rank down on the prison administration. Yang had originally accompanied her into the rooms with the prison staff, but when Amarie saw the dirty looks that he was consistently getting, she had asked him to wait in the hallway with Reuenthal and Evangeline. Reuenthal was ignoring Evangeline, but Evangeline seemed to be reappraising him.
 

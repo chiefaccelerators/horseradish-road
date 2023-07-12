@@ -150,10 +150,6 @@ Wahlen laughed. “I doubt we’re going to meet the kaiser.”
 
 “Of course,” Ansbach said.
 
- 
-
- 
-
 The day of the horseback hunt at the kaiser’s palace arrived. It was a blustery Saturday, and between the earliness of the hour and the grey clouds thick in the sky, the students waiting for the bus were almost standing in darkness. The upperclassmen were excited and chatty amongst themselves, but the freshmen were, for the most part, tense. Reuenthal leaned against the low brick wall at the IOA entrance and watched his classmates mill around. 
 
 He picked out Bittenfeld and Wahlen, watching as Wahlen handed Bittenfeld a paper cup filled with some liquid that steamed the air, and then as Bittenfeld drank it so fast that he must have burned himself pretty badly. He crumpled the cup, then kicked it over the wall back onto campus, causing Wahlen to punch him in the arm.

@@ -128,10 +128,6 @@ Fourth, and perhaps most importantly, in the absence of ability to communicate w
 
 He stood sharply, holding the printed message in his hand. “Get me Cranz and Halvess in here, and put my battalion on alert.” Cranz and Halvess were the commanders in charge of the other two battalions who had taken this base with him. He was not going to argue with them. He was going to present the movement of his battalion as a foregone conclusion, and that they should remain behind to guard the base. He would leave them no room for contradiction.
 
- 
-
- 
-
 And so it was, less than two hours later, the remaining strength of Reuenthal’s battalion began the long, long journey towards Mittermeyer’s base. It was two thousand kilometers away, but the terrain was very easy-- endless, smooth, featureless plains of ice and snow, which only rose up into mountains near the edges. His tanks could move at one hundred kilometers per hour, and he had taken all the fuel cells from the captured base to use, so they had the driving range to reach Mittermeyer’s base. 
 
 It was a grueling journey, alleviated only somewhat by the tanks’ air filters that brought the atmosphere to Odin-normal levels of carbon dioxide. Without them, Reuenthal felt that his tank crews might have started murdering each other. As it was, taking turns sleeping in the cramped tanks was unpleasant, and everyone had been looking forward to enjoying the relative peace of occupying the captured base for a few days, rather than charging off into another battle.
@@ -257,10 +253,6 @@ Mittermeyer’s frown deepened. “Do you want me to apologize to you, or someth
 “No,” Reuenthal said. “You should stay focused on the business at hand. Fighting while distracted will mean you’ll be far less likely to get home to your pretty little wife.”
 
 “Reuenthal—” Mittermeyer said, but Reuenthal was turning on his heel and heading out of the building, slipping his helmet onto his head as he did.
-
- 
-
- 
 
 The defense of the base went well for about twelve hours. Reuenthal barely saw Mittermeyer, as he was focused more on keeping his own forces organized and engaged, whereas Mittermeyer stayed on top of the overall defense of the base. Reuenthal did not mind not seeing him.
 

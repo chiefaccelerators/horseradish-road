@@ -108,10 +108,6 @@ Annerose frowned and nodded.
 
 Annerose smiled, but she bit her lip. Dusty reminding her that Schenkopp was graduating had spoiled the mood, and her ice cream was suddenly no longer appetizing. She stared out into the dark city street, suddenly seized by the feeling that the happiness that had been carrying her through the school year was about to be cut short.
 
- 
-
- 
-
 Annerose and Schenkopp went out to dinner together the next night, ostensibly to celebrate the completion and submission of Schenkopp’s senior thesis. It was a nicer restaurant than they usually went to, so they had both dressed up slightly and Annerose had put on makeup, which wasn’t generally practical for day-to-day wear at the academy.
 
 When she met him in the dim restaurant lobby, he said, “You look stunning this evening.” 
@@ -280,10 +276,6 @@ She had to pull back and take a breath after a moment, and a heavy drop of rain 
 
 “Shut up,” she said. Another raindrop fell, dripping down her cheek, and then there were a few cold splashes right into the center of her hair, running down her scalp. She shoved him in the direction of his apartment, and he took a few steps, walking backwards. She followed. He grinned at her.
 
- 
-
- 
-
 The next afternoon, Annerose lay listlessly on her bed, staring up at the ceiling. Her roommates were out, and she was stewing alone. She could have gone to see Schenkopp-- he wasn’t usually doing anything at this time on Saturdays-- but considering that she had left his apartment that morning, and he was the source of her stewing, that seemed like the wrong thing to do. She should be studying, or going for a jog to clear her head, or getting some lunch at the dining hall, but she was doing none of those things. Frustrated with herself, Annerose got out of bed and sat at her desk, twisting the embroidery thread that was laying there around her fingers.
 
 Maybe doing some embroidery would calm her down. The problem was, she didn’t have a project in progress, so she would have to start something entirely new, which was always fraught. 
@@ -300,53 +292,33 @@ She put her pencil down, then picked it back up again, then put it back down. Wh
 
 It was at that moment that her phone buzzed in her pocket. She was at first reluctant to look at it, thinking that the message was probably from Schenkopp, but then she steeled herself and did. Her anxiety had been unwarranted; it was Dusty, asking if she had finished her application to the summer placement program.
 
- 
-
 > yes, I submitted it yesterday afternoon
 
 > is this really Jessica telling you to pester me?
 
- 
-
 < no, I just was wondering if you would want me to read over your personal essay, and offer my professional expertise as a journalist and poet extraordinaire
-
- 
 
 < unfortunately, it’s already done and gone
 
- 
-
 < you’re fast
-
- 
 
 > I’m efficient, which is different
 
 > hey, Dusty, can I ask your advice on something
 
- 
-
 < of course
 
 < what’s up
 
- 
-
 > maybe this is better discussed in person
-
- 
 
 < boy trouble? lol
 
 < i can meet you at the periscope now if you want (i’m already there)
 
- 
-
 > ok, I’ll be there in 10
 
 > thanks
-
- 
 
 The Periscope was a coffee shop a few blocks away from campus. Annerose abandoned her embroidery project and gathered her keys and wallet to go out. The storm from the night before had continued as a light rain throughout the night, leaving the day sticky with humidity, and the sidewalks plastered with green leaves that had been ripped from their branches and glued to the ground with the water. She scuffed some of them up as she walked, not feeling so much a satisfaction from the action as a frustration that she just had to let out. She hated feeling this way.
 
@@ -603,10 +575,6 @@ When Annerose eventually returned to her room, she looked at the sketches and th
 As she sketched out the design onto her fabric with a fabric pencil, she added one element. Among the twisting briars in the background, she wrote, in small but legible font, “Not enough to be beautiful.”
 
 She worked on the piece for several hours, even as her roommates returned and went to sleep, until her eyes grew blurry and she couldn’t keep the stitches straight.
-
- 
-
- 
 
 *December 798 U.C, Heinessen*
 

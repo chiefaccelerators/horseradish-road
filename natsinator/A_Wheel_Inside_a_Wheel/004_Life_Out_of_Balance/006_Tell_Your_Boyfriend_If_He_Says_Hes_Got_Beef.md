@@ -214,10 +214,6 @@ She smiled at him. “You’re fine.” With an odd note in her voice, she chang
 
 “Sounds fine, then,” he said. 
 
- 
-
- 
-
 Before the train ride into Heinessenopolis the next weekend, Annerose seemed unexpectedly jittery. She spent some time staring rather forlornly at the blouses and skirts in the closet that she had left behind when she had gone to school, fingering the well worn cloth. Reinhard watched her do this, sitting with his legs crossed at the desk chair.
 
 “Do they not fit anymore? It’s not like you’ve grown any.”
@@ -335,10 +331,6 @@ Annerose laughed, but it was a slightly uncomfortable sound. “Reinhard,” she
 He relaxed a little in his seat. “You didn’t have to tell me that.”
 
 “I would have hoped you already knew.”
-
- 
-
- 
 
 At the specialty embroidery store in Heinessenopolis, Annerose lingered over the display of threads available and the array of backing fabrics and tools to pick from. 
 
@@ -546,10 +538,6 @@ Schenkopp laughed, but Annerose seemed actually relieved when she replied, “Go
 
 “I’m sure I will love your grandmother,” Annerose interjected, before Reinhard could say something cutting. “Let’s talk about something else, though. Walter, last week you were telling me about your senior thesis, I’m sure Reinhard would be interested in that.”
 
- 
-
- 
-
 Schenkopp lived in a third story apartment, overlooking a crowded street on which cart-vendors sold a dizzying array of wares. Before going upstairs, Schenkopp had stopped at one of these vendors and haggled over the price of a bag of apples. He ate one as they marched up the stairs, offering some to Annerose and Reinhard, who declined, one more politely than the other. Schenkopp opened the door to his apartment without even needing to unlock it.
 
 “I’m home,” he called. His grandmother emerged from the kitchen down the narrow hallway. “Brought you some apples.”
@@ -749,10 +737,6 @@ Reinhard did not dignify that with a response, forcing Schenkopp to say, “I’
 “I understand that she likes you,” Reinhard said, through teeth he was resisting the urge to grit. “I simply don’t see why.”
 
 “Well,” Schenkopp said, straightening up from where he leaned on the rope. “It’s probably for the best that you don’t!” He hopped down onto the basement floor. “I’m glad we were able to have this little talk, but we probably shouldn’t keep Annerose busy with my grandmother for too long.”
-
- 
-
- 
 
 Later that night, Annerose and Reinhard sat in their room, speaking to each other in tones low enough that their mother wouldn’t hear through the thin apartment walls. The overhead light was off, so the old yellow desk lamp was the only source of illumination in the room. Reinhard was changing into his pyjamas, while Annerose was sitting on the bed, laying out embroidery thread on her lap desk.
 

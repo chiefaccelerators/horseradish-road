@@ -124,10 +124,6 @@ Reuenthal wrote ‘Admiral August Samuel Wahlen’ on the board beneath Yang’s
 
 “You’ll have first pick from anyone we bring in, then,” Reuenthal said to Yang. “I’m sure you’ll exercise good judgement.”
 
- 
-
- 
-
 *March 477 I.C., Odin*
 
 The informal club that they had founded expanded in number to about fifteen people, encompassing a few of the top students from each of the four years. It was entertaining, Reuenthal supposed, to enlarge his social circle somewhat, though he doubted that he would ever get as close with some of the new members like Bayerlein or Fahrenheit as he was with the original group, and even moreso, Yang and Mittermeyer.
@@ -188,11 +184,7 @@ Yang just laughed. “I can keep things closer to my chest than Bittenfeld can.�
 
 And so, for a while, the game proceeded on its normal course, with both sides sizing each other up in the Iserlohn corridor. But then, one Saturday morning during a match where Yang had sent Wahlen into the Iserlohn corridor with a medium sized fleet, facing off against Bayerlein, a freshman who Mittermeyer had invited onto their team, Eisenach paused the game. Everyone in the room, who was watching the match play out and taking notes, received a message on their screens.
 
- 
-
 GM: At this time, you receive word that Fleet Admiral Leigh has led a force of approximately 40,000 ships into the Phezzan corridor. 
-
- 
 
 Immediately, the room full of bystanders erupted into chaos, with Yang’s team whooping and laughing and Reuenthal’s team standing from their seats. 
 
@@ -204,21 +196,13 @@ Mittermeyer looked at Reuenthal. “I’m the only fleet close enough to respond
 
 Eisenach, who never spoke aloud, responded on the computer system.
 
- 
-
 GM: It will take approximately one week for the force to arrive at Phezzan.
 
- 
-
 “Oh, you’re just doing that so we don’t have to play on a school day,” Yang said, annoyed. “I told you it actually is only a four day trip from Phezzan to the outside of the corridor.”
-
- 
 
 GM: you must be out of your mind if you think i’m going to mod a game on a thursday night after i’ve spent all day with staden
 
 GM: The clock advances in the Wahlen-Bayerlein match.
-
- 
 
 “Fuck,” Bayerlein swore, and ducked back down to his computer terminal, even as everyone else in the room continued to discuss the impending invasion of Phezzan.
 
@@ -239,10 +223,6 @@ Eisenach nodded.
 Eisenach thought for a second, then nodded, slowly.
 
 Reuenthal smiled a cold smile. “I’ll get you the numbers you need to run the game.”
-
- 
-
- 
 
 Getting a list of all the ships operating off of Phezzan was not particularly difficult. All it involved was combing through the past couple years of newspapers and publicly-available port call information, to see what the usual traffic on and off the planet was.
 
@@ -328,10 +308,6 @@ Mittermeyer looked at him with a warm expression, and hooked the key onto his ow
 
 “I like that thought.”
 
- 
-
- 
-
 The next Saturday rolled around. The tension of their game had felt like a low pressure front rolling through the sophomore class, making even friendly conversations between Yang and Reuenthal charged with an undercurrent of excitement. This competition was something new, for the both of them. Yang was stepping out of his comfort zone, and Reuenthal wondered if that would be the thing that finally allowed him to take victory over Yang.
 
 Yang clearly didn’t think this was a winnable war, or he would have put this plan into action immediately, but it would be interesting to see just how he played it out.
@@ -356,15 +332,11 @@ They shook. Yang’s hand was soft, but he smiled at Reuenthal. “Let’s go.�
 
 Yang just shook his head and went to sit down at his computer.
 
- 
-
 GM: Are you ready to begin the game?
 
 Reuenthal: Yes.
 
 Yang: Yes.
-
- 
 
 Eisenach began the game, giving Reuenthal access to all the resources he could muster for Phezzan’s defense. It wasn’t much. He knew exactly where Yang was in the corridor, at least, because he was receiving reports from the merchant ships that saw them coming, a dire warning about this force rushing through the corridor.
 
@@ -505,10 +477,6 @@ Yang shook his head, then looked at Eisenach. “Is he out of the game?” he as
 “Yeah,” Yang said. He offered his hand to Mittermeyer. “Good game. You made me pay for every inch.”
 
 That did make Mittermeyer smile a little, and he took Yang’s offered hand. “Yeah, I did.”
-
- 
-
- 
 
 *April 477 I.C., Odin*
 

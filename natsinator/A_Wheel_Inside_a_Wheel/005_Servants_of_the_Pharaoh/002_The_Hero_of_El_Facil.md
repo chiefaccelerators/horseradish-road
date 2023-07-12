@@ -394,10 +394,6 @@ Yang silently nodded.
 
 “Yes, sir,” Yang said. He stood, saluted sharply, and left, leaving Merkatz alone in the dark.
 
- 
-
- 
-
 *November, 479 IC, Iserlohn Fortress*
 
 The return to Iserlohn was anticlimactic. Even after recovering enough from his concussion to return to active duty, Merkatz didn’t speak much to Yang. He let Warrensburg drill the remaining ships on positioning as soon as they were back in the relative safety of the corridor, having left El Facil, now occupied by a true ground force, far behind. Yang couldn’t say he was sad to see it go. 

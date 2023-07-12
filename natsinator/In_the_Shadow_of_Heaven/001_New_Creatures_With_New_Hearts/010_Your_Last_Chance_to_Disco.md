@@ -214,21 +214,13 @@ She felt less sure than she sounded when she smiled and said, “Yes, of course.
 
 “Excellent,” Sandreas said.
 
- 
-
- 
-
-One thing that Yan wasn’t entirely looking forward to was telling Sylva that she was leaving on an extended trip, because she knew that Sylva would not take the news well. The journey to Olar and back, given travel time and how long they would probably need to stay on the planet, would likely take at least a thirtyday, probably even closer to a month. Yan and Sylva hadn’t gone that long without seeing each other since-- Yan did the mental math-- their seventh year at the Academy, when Sylva’s parents refused to let Sylva spend her summer vacation on the *Iron Dreams.* 
+One thing that Yan wasn’t entirely looking forward to was telling Sylva that she was leaving on an extended trip, because she knew that Sylva would not take the news well. The journey to Olar and back, given travel time and how long they would probably need to stay on the planet, would likely take at least a thirtyday, probably even closer to a month. Yan and Sylva hadn’t gone that long without seeing each other since-- Yan did the mental math-- their seventh year at the Academy, when Sylva’s parents refused to let Sylva spend her summer vacation on the *Iron Dreams.*
 
 Yan had texted Sylva the next morning, asking if she wanted to get dinner, because there was something that she needed to tell her, and Sylva had texted back immediately.
-
- 
 
 > yes, I’d love to
 
 > tbh there’s something that I need to tell you too.
-
- 
 
 Yan didn’t think that she had ever received a less encouraging message, and so she spent the whole day when she should have been studying or packing for her upcoming trip alternating between meditating and watching mindless television.
 
@@ -409,10 +401,6 @@ Sylva just shrugged, shoulders hunched, then stood. “I’ll see you when you g
 “Thank you for telling me,” Yan said. She let go of Sylva’s arm.
 
 “Yeah,” Sylva said. “I guess.” And then she ran out, dodging out of the way of the waiter who was coming to collect the bill.
-
- 
-
- 
 
 Yan walked home to her apartment, feeling bad in a way that she couldn’t quite define. Sylva’s confession kept running through her brain, and while she could focus on those words, there was something stopping her from pulling her own feelings to the forefront of her mind. Every time she asked herself the important question, how did she feel about Sylva, she became so uncomfortable that she pushed it away. 
 

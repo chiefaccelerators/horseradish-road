@@ -324,10 +324,6 @@ He laughed again. “Of course not. I will see you later, then, Lieutenant Comma
 
 She waved at him as she trotted down the marble stairs, slightly drunk and trying not to trip over her own feet.
 
- 
-
- 
-
 *July 796 U.C., on board the*Pergamonn*, in the Anaheim Starzone*
 
 Being able to receive personal mail was something of a rare luxury while on the front. It had to wait until the ship was in a safe enough position that large amounts of ansible data could be transferred, and not just the bare minimum of what was required for the fleet to function away from central command. Today was one of those days, the Sixth Fleet feeling confident enough in its positioning just outside of the Iserlohn corridor that they could make the request for all of the news updates and personal mail and entertainment media to be sent over.
@@ -476,8 +472,6 @@ Fredrica’s ears burned. “He said he would send me a paper he’s been workin
 
 After the first mundane paragraph about Reinhard’s general well being, the tone of the letter suddenly shifted into something that sounded— to Fredrica— to be weirdly desperate and out of character.
 
- 
-
 *I’ve been thinking a lot, recently, about what my life would have been like if my mother hadn’t been able to take Annerose and I away from the Empire. If Annerose had been trapped, captured, with no one there to rescue her and get her to the Alliance side of the corridor. I’ve been waking up in a cold sweat about it, having nightmares where she’s taken to somewhere, and I can’t get to her in time.*
 
 *You must dream about things like that too, don’t you? About El Facil. Do you ever picture yourself, now that you’re in the fleet, as one of the officers on board one of the ships that tried to run away from El Facil and leave all the civilians behind?*
@@ -487,8 +481,6 @@ After the first mundane paragraph about Reinhard’s general well being, the ton
 *I’m just fretting because Annerose isn’t on Heinessen, and all her letters are censored to nothing, so I can’t get a good sense of how she’s doing. I’m sure she can handle herself, but you know how it is. She’d tell me that it’s not my responsibility to worry about her, but I can’t help but feel responsible.*
 
 *Anyway, I read in the news that Duke Braunschweig and Marquis Littenheim are dueling. I hear it’s something about land rights, but one has to imagine it’s some proxy argument for the throne. What do you think about that?*
-
- 
 
 The rest of the letter was other random musings and questions about how she was finding life in the Sixth Fleet. Fredrica frowned and showed the strange section to Lapp. “What do you think of that?”
 
@@ -558,21 +550,13 @@ Fredrica shook her head, then opened the letter from her father.
 
 She didn’t get past the second line before the fingers of her left hand involuntarily curled in to her thighs. She took one sharp inhale of breath, a stifled gasp, then held it to stop from crying out.
 
- 
-
 *My Dearest Fredrica,*it began. *Your mother died last night.*
-
- 
 
 Tears were welling up in her eyes, so badly that she couldn’t read the rest of the letter. Lapp saw it, though, or at least the important part, and he said, “Oh, jeeze, Greenhill, I’m so fucking sorry…”
 
 “I—“ she began. “I have to go.” And she stood up so rapidly that she bruised her shin on the coffee table, fleeing the room.
 
 She would be okay, but not right this moment.
-
- 
-
- 
 
 *August 796 U.C., on board the*Pergamonn*, within the mouth of the Iserlohn Corridor*
 
@@ -594,11 +578,7 @@ It had been transmitted using one of the key encryptions that the fleet used, bu
 
 The message itself was quite short.
 
- 
-
 *Request aid all available fleets. Imperial presence located in C Stzne. Ground force only seen now. Force at C3 not sufficient to hold planet if full fleet arrives. Immediate assistance needed.*
-
- 
 
 And was signed off with a long string of contract information that Fredrica found completely meaningless, aside from the fact that the signoff authority block included the name of Job Trunicht, the defense secretary.
 

@@ -92,10 +92,6 @@ Its head was on the ground, now, too weak to hold itself up. As Yang considered 
 
 Yang stood again and waited for Mittermeyer and Reuenthal to come. They did after a minute or so, apparently having had trouble finding him. They both were in high spirits, smiling and looking at each other, and Yang put on a smile and congratulated them. 
 
- 
-
- 
-
 Along with the actual spoils of their hunt (which someone on the staff at Neue Sanssouci butchered and prepared for them, and which they had sent half to Mittermeyer’s family home, and half to Count Mariendorf’s, seeing as the three students had no actual use for the meat and other assorted trophies), they were presented with a bottle of whiskey for being the first students to successfully hunt a deer that day.
 
 By the time they returned to the IOA on the bus, Yang’s spirits had risen considerably. After all, nothing bad had happened. He had been on edge all day, and finally stepping off the bus in the drizzling evening was a relief. The tension and weird feeling that had been lingering over him dissipated in the bright familiarity of the dorms.
@@ -252,23 +248,13 @@ Yang would have said that he hated himself for feeling this way, if he had been 
 
 He was stupid, and he was hungry, and his jacket with his charge card was still in Reuenthal’s bedroom, and there was no way he was going back *there*to get it, so Yang was forced to lay in bed and ruminate until he simply passed out.
 
- 
-
- 
-
 Yang woke up later than usual, and discovered that he had missed both breakfast and Sunday physicals. It would be a demerit on his record, but it was too late to do anything about it now, so there was no point in worrying about it. The reason he had slept so late was that his phone had run out of battery during the night, and thus could not wake him up with his usual alarm. 
 
 He set it to charge with some hesitation and then went to shower. When he came back, he turned it on and waited to see what came up. Reuenthal had sent Yang a single, innocuous seeming message.
 
- 
-
 < I would like to speak with you at some point, if possible.
 
- 
-
 This was completely in character, but what was not in character was that apparently Reuenthal had also texted Eisenach, who had then texted Yang. Eisenach was not averse to sending exactly as many text messages as it took to tell his story.
-
- 
 
 < what did you do to reuenthal?
 
@@ -286,11 +272,7 @@ This was completely in character, but what was not in character was that apparen
 
 < whatever you did, good job at flapping the unflappable, I guess
 
- 
-
 Yang responded to Eisenach, typing out the message in between steps of changing into a fresh uniform. 
-
- 
 
 > i was just asleep
 
@@ -302,8 +284,6 @@ Yang responded to Eisenach, typing out the message in between steps of changing 
 
 > what was that thing?
 
- 
-
 < it’s noon but it’s still too early for this kind of nonsense leigh
 
 < same thing I have in common with you
@@ -312,11 +292,7 @@ Yang responded to Eisenach, typing out the message in between steps of changing 
 
 < and yet we all manage to stick around in the empire like roaches :)
 
- 
-
 > ok
-
- 
 
 < i hope you count yourself lucky every day for having me as a mentor
 
@@ -324,15 +300,9 @@ Yang responded to Eisenach, typing out the message in between steps of changing 
 
 < i have homework to do
 
- 
-
 > thanks
 
- 
-
 Unable to procrastinate by texting Eisenach anymore, Yang perched on his bed and hovered his fingers over his phone keyboard. He deleted and retyped several messages, eventually settling on ones that he hoped wouldn’t make Reuenthal think that he was intentionally avoiding him or otherwise about to do something destructive.
-
- 
 
 > just woke up
 
@@ -343,8 +313,6 @@ Unable to procrastinate by texting Eisenach anymore, Yang perched on his bed and
 > I think I can safely make the assumption that you would prefer to meet after that
 
 > let me know where/when
-
- 
 
 With that, he stuck his phone in his pocket and headed to get lunch at the dining hall. Bittenfeld and Wahlen were both there, still sweaty after physicals. He got lunch and sat down with them.
 
@@ -371,8 +339,6 @@ Yang nodded in half-agreement. He would have preferred to leave campus to go som
 He launched into a description of the training that Yang was glad to have slept through. It was nice to sit with Bittenfeld and Wahlen and just completely tune out anything other than the day-to-day motions of life at the IOA. But eventually he finished his lunch and he looked at his phone.
 
 < I can meet you at Eaglehead park when you’re done with your lunch.
-
- 
 
 Eaglehead was a park technically off campus. Public, but there were plenty of private paths one could go down to escape other people’s eyes. A tactical choice. Yang could understand why Reuenthal wouldn’t say to meet him in his dorm room, even though that would have been far more convenient. Yang hoped that Reuenthal would remember to bring his jacket-- he didn’t need the uniform very often, but he definitely did need his charge card.
 

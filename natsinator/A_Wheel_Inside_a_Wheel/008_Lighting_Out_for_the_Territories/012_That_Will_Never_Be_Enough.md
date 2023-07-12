@@ -96,8 +96,6 @@ His thoughts went to Kircheis as they often did, but they were vague and unforme
 
 Before he could get deeply into the writing, he checked his messages, and was not surprised to find one from Job Trunicht himself. Reinhard had figured that there would be one, though he had wondered if it would come through Fork, or some other intermediary. If he had been in Trunicht’s position, Reinhard didn’t think he would have wanted such a long paper trail connecting the two of them.
 
- 
-
 *Lieutenant Commander von Müsel,*
 
 *I would like to personally apologize for the proceedings earlier today. It should have been below my esteemed colleagues in the Committee for Public Defense to interrogate you as they did. It is clear to anyone watching that if there is blame for what happened in the Phezzan Corridor, it is not yours.*
@@ -111,8 +109,6 @@ Before he could get deeply into the writing, he checked his messages, and was no
 *Job Trunicht*
 
 *Secretary of Defense*
-
- 
 
 The letter annoyed Reinhard. Trunicht’s thinly veiled feeling of superiority oozed out of every line. The attention drawn to finding a posting suitable to his rank-- it frustrated him. That was surely just an excuse to get Reinhard shuffled out of Trunicht’s hair. 
 
@@ -235,10 +231,6 @@ Annerose smiled faintly. “Him, too.” They turned a corner, starting to circl
 “Not content. Happy,” she said. “I’m happy.”
 
 Reinhard’s knuckles were white as he gripped his locket. Annerose wrapped her arm around his shoulder and pulled him close.
-
- 
-
- 
 
 Trunicht’s office was not difficult to find. When Reinhard presented himself at the lobby to get his visitor’s pass, he was escorted directly to it, though he was made to wait outside as Trunicht finished some phone call. He was finally let in to the office, and Reinhard got a quick look around before his eyes settled on Trunicht sitting at his desk.
 
@@ -375,10 +367,6 @@ Reinhard stiffened, and it was an act of sheer will to resist reaching for his l
 Reinhad nodded, and understood he was being dismissed.
 
 Transfer orders arrived for him the next day, sending him to the front.
-
- 
-
- 
 
 Despite having asked for it, Reinhard couldn’t help but feel a little mellow as he packed his bags to head out, not even having much to pack. When he had first broken the news to Annerose, she had been stiff and silent, and that night he had heard her crying through the thin wall that separated his bedroom from the master bedroom. Ingrid had murmured indistinct condolences.
 

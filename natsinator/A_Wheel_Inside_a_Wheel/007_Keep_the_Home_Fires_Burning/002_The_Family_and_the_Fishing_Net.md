@@ -186,10 +186,6 @@ Reuenthal’s hand tangled in Mittermeyer’s hair, almost pulling on it, and Mi
 
 Mittermeyer pulled him back towards the bedroom, and Reuenthal easily followed. They didn’t bother turning on the light, but light spilled in from the living room, plenty to see by, and Mittermeyer gave one glance at his bedside table, confirming that he had remembered to put away in the bottom drawer the photograph of Eva that usually had a place of honor there. It was as much for his sake as it was for Reuenthal’s.
 
- 
-
- 
-
 Afterwards, they lay in the dim bedroom, Reuenthal’s head against Mittermeyer’s shoulder, both of them knowing that they had to get up, and neither of them wanting to.
 
 “There’s something I should tell you,” Reuenthal said. His voice was light, in a way that never boded well, but he was too relaxed for whatever it was to be truly bad news.
@@ -241,10 +237,6 @@ Mittermeyer sighed. “Thanks for the warning.”
 “Thank you for telling me,” Mittermeyer said. 
 
  “You’re welcome,” Reuenthal said, though his jaw was tense.
-
- 
-
- 
 
 *October 486 I.C., Odin*
 
@@ -369,10 +361,6 @@ She stroked his cheek. “I’m glad.”
 He leaned into the touch, and her thumb brushed over his lips, a sensation that made goosebumps rise on his bare arms. He pulled his right arm off her lap, and when he slipped his hand under her long skirt and brushed her calf with just the tips of his fingers, she shivered.
 
 “Wolf…” she said, breath catching as he slid his hand up her leg, stopping at her thigh, just feeling the heat of it— the soft and living way she twitched under his touch. He looked up at her, met her eyes, wide and beautiful and blue.
-
- 
-
- 
 
 Since Mittermeyer’s parents didn’t have any objection to Yang tagging along for their holiday visit home, they picked him up outside his apartment on that blustery Friday. Yang had bags under his eyes, and he yawned even as he smiled at the Mittermeyers. 
 
@@ -524,10 +512,6 @@ Eva frowned. “I would like to know if you’re being mistreated, or if I need 
 
 Eva shook her head, then let out a rush of breath. “I don’t understand you, sometimes.” She reached over and punched the radio, flooding the car with music and ending the conversation.
 
- 
-
- 
-
 It was true that Mittermeyer’s parents were fine with having Yang around. Yang wasn’t a perfect houseguest by any means, but his mother liked that Eva liked him, and so it was acceptable to bring him around. Reuenthal would have been a different story, Mittermeyer thought, but the one time that Reuenthal had come to visit was not something that he was ever looking to repeat. 
 
 Dinner was a pleasant and cheerful affair, but Yang kept yawning, and the dark circles under his eyes made him look almost pitiful, so Mittermeyer’s mother had tucked him up in the guest bedroom immediately after dinner. Evangeline had gotten a phone call from a friend in town and so had gone off to visit with her for a little while, and his father had a pressing work issue that needed to be dealt with, so this had left Mittermeyer alone with his mother, sitting at the kitchen table with no avenue for escape.
@@ -637,10 +621,6 @@ His mother smiled. “I would like a grandbaby, you know.”
 “I see,” his mother said. “I hope we hear some good news soon.”
 
 “Yeah,” Mittermeyer said. “We’ll see.”
-
- 
-
- 
 
 By the time that Mittermeyer was able to beg the excuse of taking Yang to see the graveyard, he was very ready to escape his family. Yang could tell he was growing antsy, and helped by asking loudly when would be a good time for the both of them to go visit. It was mid afternoon by the time they were able to leave.
 

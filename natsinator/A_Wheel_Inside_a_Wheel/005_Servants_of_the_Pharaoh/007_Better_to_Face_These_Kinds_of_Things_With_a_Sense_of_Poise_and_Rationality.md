@@ -110,8 +110,6 @@ Yang relaxed a little, relieved. “Thank you. I suppose you don’t have to bel
 
 “Why should I do that?”
 
- 
-
 “If Iserlohn falls, the fleet will be in a worse state than the fortress itself is. The rebel fleet will probably take the base staff prisoner. You’d be far more likely to survive.”
 
 Oberstein considered this. “You used your life as a tool, once,” he said. “There may be need for me to do the same thing.”
@@ -129,10 +127,6 @@ Oberstein nodded. “I will do my best with it.”
 “Don’t waste thoughts on that.”
 
 “All right,” Yang said with a smile. 
-
- 
-
- 
 
 *March 481 IC, Odin*
 
@@ -329,10 +323,6 @@ She smiled at him. “I can be a petulant creature. I apologize.”
 She laughed. “There will be a thousand people there, maybe more. I doubt you’ll make much of an impression.”
 
 “I certainly hope not,” Yang said.
-
- 
-
- 
 
 *April 481 IC, Odin*
 

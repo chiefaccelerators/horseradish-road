@@ -1,7 +1,5 @@
 # Interrogating the Text from the Wrong Perspective
 
-**
-
 *June, 782 UC, Phezzan Dominion*
 
 Yang Tai-long's house on Phezzan was not very large, but it was crammed from top to bottom with delicate and expensive *objets d'art* that the merchant had picked up on his travels, leaving hardly even room for his fifteen year old son to have a bed and place to sleep while they stayed on the planet.
@@ -104,10 +102,6 @@ Konev rolled his eyes, though Yang, with his hat pulled down over his face, coul
 
 Konev just smirked.
 
- 
-
- 
-
 And so, the next Saturday, Yang was reluctantly dragged along to a building owned by the Imperial embassy on Phezzan, where he and Konev joined the long line of other young men milling around, waiting to go in and take the exam. Konev blended right in, being blonde and bold, but Yang looked nothing like any of the other prospective students and felt extremely awkward as he leaned against the wall and read the book he had brought.
 
 Everyone filed in one at a time, speaking to a bored clerk.
@@ -148,8 +142,6 @@ Yang realized that he was looking at a very finely crafted piece of propaganda. 
 
 He had, as he saw it, two choices: write what his actual thoughts were about this (fake) battle, or write what he thought the graders would want to see. He made up his mind, smiled, and leaned forward, beginning to scribble furiously on his paper in the short time remaining to him.
 
- 
-
 *Now, as you see, I have provided you with the best analysis I can of this scenario. I have detailed the possible mindset of both commanders, which led to them making the choices they did. I have explored possibilities that may have swayed the tide of the battle, and I have discussed what the benefits and risks of those would have been.*
 
 *But, of course, no matter if Gen. McLaine had followed my advice or not, there would have never been a way for the Union forces to win this battle, simply because it never happened.*
@@ -161,10 +153,6 @@ He had, as he saw it, two choices: write what his actual thoughts were about thi
 *Did you simply tell a story that you yourself felt was believable?*
 
 *Well, I would say more, but I've spent so much time picking through your evidence and writing what I thought you might want to see that I've run out of time. I suppose I should thank you for the challenge, if nothing else.*
-
- 
-
- 
 
 Yang met up with Konev as soon as they were released from the testing area for lunch. There was a small courtyard where most people were milling around, eating whatever they brought or bought from the street vendor outside. Yang was in that latter category, and devoured his pita wrap before he could say anything to Konev, who seemed to be in the depths of despair. Konev was so down that he didn't notice that the other students were watching them, some suspicious looks on their faces. Yang tried to ignore them.
 

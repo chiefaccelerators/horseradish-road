@@ -244,21 +244,13 @@ With an attempt at his usual dry tone, trying to clear the tension, Reuenthal sa
 
 Hilde pulled herself out of Yang’s grasp and ran to Reuenthal, wrapping her arms around him and burying her face in his shirt. Like the hug he had once received from Yang, the touch startled him, but he attempted to comfort the sniffling girl. He was glad she hadn’t gotten hurt. “I’m sorry you had to see that, Fraulein.” When that didn’t calm her, he tried to pat her shoulder. “It’s okay.”
 
- 
-
- 
-
 Lunch with Count Mariendorf was an awkward affair, but he was kind enough not to bring up whatever had caused Hilde to clutch Reuenthal’s sleeve on the way out of the dorm rooms and rub her red eyes with her other hand. He had asked if the three of them were alright, and when everyone had responded in the affirmative, he had nodded and given Reuenthal a look that made Reuenthal look away.
 
 After that meal, Yang walked around campus with the Mariendorfs for a while, and Reuenthal returned to his room.
 
 He had a deeply unpleasant task ahead of himself. He sat on his floor with his boxes of belongings in front of his crossed legs, leaning back against the edge of his bed. He texted Mittermeyer.
 
- 
-
 Reuenthal: Can I ask a favor of you?
-
- 
 
 Mittermeyer: highly unexpected
 
@@ -266,107 +258,63 @@ Mittermeyer: sure
 
 Mittermeyer: what do you need
 
- 
-
 Reuenthal: I need someplace to store a box of my belongings.
-
- 
 
 Mittermeyer: contraband?
 
- 
-
 Reuenthal: No. Just my things.
 
- 
-
 Mittermeyer: you should’ve had me take it when i left. I had plenty of room in the car w/ my dad
-
- 
 
 Reuenthal: The situation changed.
 
 Reuenthal: Can I mail it to you?
 
- 
-
 Mittermeyer: of course
 
 Mittermeyer: you have my address?
-
- 
 
 Reuenthal: Of course.
 
 Reuenthal: Thank you.
 
- 
-
 Mittermeyer: no problem at all.
 
 Mittermeyer: i’ve been waiting all day to hear what you and leigh have gotten for assignments
-
- 
 
 Reuenthal: I’ve been assigned to a far patrol ship. Security officer.
 
 Reuenthal: Leigh is an adjutant to Commodore Merkatz, doing Iserlohn corridor patrol.
 
- 
-
 Mittermeyer: damn
-
- 
 
 Reuenthal: I should ask what you mean by that.
 
 Reuenthal: These are both fine assignments.
 
- 
-
 Mittermeyer: you won’t be on Odin
-
- 
 
 Reuenthal: Very few recent IOA graduates are assigned to the Ministry of War.
 
- 
-
 Mittermeyer: not true
 
- 
-
 Reuenthal: Any with a name to speak of, anyway.
-
- 
 
 Mittermeyer: hah yeah.
 
 Mittermeyer: far patrol means you won’t even be able to write
 
- 
-
 Reuenthal: I will when I can.
-
- 
 
 Mittermeyer: I know.
 
- 
-
 Reuenthal: It’s an assignment. I probably won’t stay in it for very long.
-
- 
 
 Mittermeyer: i don’t think there’s any use in trying to predict the future
 
 Mittermeyer: give me a call before you ship out, ok?
 
- 
-
 Reuenthal: I will.
-
- 
 
 He tucked his phone away, then stared at the boxes in front of himself. It would cost far too much to ship all of this to Mittermeyer, so it was time to do a rather ruthless pruning. Maybe it was for the best, since he didn’t need much in the way of possessions regardless.
 
@@ -376,19 +324,11 @@ He was still working on it late into the night, piling things into a keep and di
 
 His phone buzzed on the floor next to him.
 
- 
-
 Yang: are you up?
-
- 
 
 Reuenthal: yes.
 
- 
-
 Yang: can we talk?
-
- 
 
 Reuenthal didn’t respond to that. Yang was perfectly capable of coming here if he wanted to have a conversation, and, indeed just a minute later, he heard Yang’s footsteps on the floor and the handle of his room twitch open.
 
@@ -507,10 +447,6 @@ Yang’s breath caught. “What are you saying?”
 “Aren’t some things better left unsaid, around here?” He hoped that Yang would nod and agree, but Reuenthal knew he wouldn’t. Yang shook his head. Reuenthal held out his hand, and Yang took it, his soft palm squeezing Reuenthal’s like a vice. “You have my loyalty,” Reuenthal said. “In whatever you do. If that’s enough for you.”
 
 “Yes,” Yang whispered. “It is.”
-
- 
-
- 
 
 *June 479 I.C., Iserlohn Corridor*
 

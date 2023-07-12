@@ -144,10 +144,6 @@ Reinhard shook his head, almost laughing a little. Hadn’t he used almost that 
 
 Reinhard didn’t have a response to that, so he just nodded, and then turned and left before anyone else could trap him in conversation.
 
- 
-
- 
-
 While his visit to the Earth Church had been interesting, to say the least,  it hadn’t really given Reinhard that much insight into how they operated, aside from giving him a sense of how devoted the church’s followers were. They seemed *very* devoted. He wondered exactly how much theological liberties each of the little churches took— were they united under a strict common doctrine? How much room was there for personal interpretation when delivering a sermon? Although he was curious, he was not inclined to continue attending Earth Church services until that question was answered.
 
 Instead, he wanted to focus on the task at hand: finding out what the Earth Church was trying to gain by sending Ingrid to the Alliance specifically. He needed to know what their overall plan was within the Alliance. Even if their main goal was to install a favorable ruler within the Empire, there was no action within the Empire that did not also affect the Alliance, and the other way around. Despite the fact that the two sides were at war, there was a delicate balance within the galaxy, and while the eventual death of the kaiser would disrupt it, the idea of this third power attempting to manipulate the situation for their own gain put a bad taste in Reinhard’s mouth.
@@ -382,10 +378,6 @@ Muller frowned and looked about to say something else, but Reinhard was already 
 
 Reinhard offered his hand to shake. Muller looked at him oddly for a second, and seemed about to refuse, then shook it.
 
- 
-
- 
-
 More progress came a few days later, when Reinhard’s CO updated him on the situation with Ingrid. They had gotten permission to bring her to the Alliance, but the difficulty was in getting her there. There could be no military ships moving through the Phezzan corridor, aside from the tiny transport that brought new staff to the embassy and High Commissioner’s office, and that was heavily searched by the Phezzan police, for obvious reasons, going in both directions.
 
 “You’ll have to put her on a merchant vessel,” Reinhard said, sitting in Blackwell’s office, eyeing the goldfish swimming around in the tank behind him.
@@ -489,8 +481,6 @@ Reinhard’s smile was thin. “Yes, sir.”
 “You do that,” Blackwell said. “I’m glad you’re so willing to take responsibility for this problem you’ve dropped on our laps.”
 
 Reinhard bit his lip in order to not respond to that.
-
- 
 
 Reinhard thought, very carefully, about how to get the imperial embassy off their scent. Of course, the imperials couldn’t track every ship coming in and out of Phezzan airspace going to the Alliance, there were hundreds, if not thousands, per day. But they would certainly take note of Ingrid the moment she traveled up the space elevator, as that was carefully watched, and since they probably already knew that there was someone trying to defect, they would probably have a ship at the ready. Reinhard would have liked to have put Ingrid on a shuttle and take off from the planet, but Phezzan was highly protective of their air quality, and hated all ships coming and leaving through the atmosphere, even the imperial types, which were designed to descend through the atmosphere.
 
@@ -606,8 +596,6 @@ Reinhard had spoken to Commodore Blackwell, and had gotten permission for this e
 
 Reinhard was going camping. He had made it very clear that that was what he was going to be doing. He had even posted on his blog about his weekend plans, on the bottom of a post that was designed to catch Lieutenant Commander Muller’s attention.
 
- 
-
 *The birthday of a very good friend of mine is coming up soon, so to amuse her I’m taking a break from my more serious content, and discussing a subject that’s of personal interest to both of us. Many imperial expats live within the Alliance, and while life is undoubtedly better there, there are still some comforts of home that just aren’t quite the same on the other side of the galaxy. One’s favorite type of beer, or specialty sausage that you just can’t find within the Alliance. Because of this heavy demand, there exists quite a flourishing market for imitation goods, companies that manage to operate within both the Alliance and the Empire, and, of course, those expensive goods ferried directly from the Empire into the Alliance. Although imitation goods and cross-national brands are worthwhile discussions in their own right, today I’d like to talk about the complicated supply chain that can bring almost any type of product across the border.*
 
 *Let’s take, for example, a rather innocuous treat: the elderflower shortbread cookie, made by the brand Tennshausen.*
@@ -617,8 +605,6 @@ Reinhard was going camping. He had made it very clear that that was what he was 
 *I hope you’ve enjoyed this little exploration of the subject.*
 
 *No new posts this week, because I’m going on a camping trip. Camping was one of my favorite things to do when I was a student, though of course the campsites on Phezzan are quite different from anywhere I’ve been before. I’m hoping a friend will meet me out there, but I don’t know if he’ll be able to get away from work. If not, I’ll just have a relaxing few days wandering around, talking to myself. Should be a peaceful vacation.*
-
- 
 
 Reinhard suspected that Muller would understand very clearly that he was asking to meet. 
 
@@ -830,8 +816,6 @@ Reinhard’s smile was somewhat predatory.
 
 Reinhard ignored him, and Muller left, the door of the cabin slamming shut in a gust of wind. Reinhard hastily plugged the data stick into his phone and opened the single file contained on it.
 
- 
-
 *Dear Captain von Leigh,*
 
 *I doubt you remember me, but I took your class on Ancient Earth History a few years back. It’s probably very strange for me to be contacting you, but I’ve been working in the Embassy on Phezzan since I graduated, and I’ve had the pleasure of hearing your name mentioned a few times.*
@@ -847,8 +831,6 @@ Reinhard ignored him, and Muller left, the door of the cabin slamming shut in a 
 *Lt. Cmdr. Neidhart Muller*
 
 *IOA Class of 482, Strategic Warfare Division*
-
- 
 
 *Muller!*
 

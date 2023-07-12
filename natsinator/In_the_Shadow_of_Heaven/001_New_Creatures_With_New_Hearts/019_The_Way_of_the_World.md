@@ -138,10 +138,6 @@ Yan’s wide eyes glittered, and she nodded as Aymon withdrew his hand. Aymon ga
 
 As he left, as soon as the door closed, he reached out with his power, just quickly enough to sense Yan turning towards Sid and making a few angry signs at him— Aymon still couldn’t understand the language, but the tension in Yan’s movements was enough to express enough of what she meant. Yan felt his power brush over her, though, and cut herself off and turned to look at the closed door. Aymon dropped his power and headed away.
 
- 
-
- 
-
 Aymon met Yuuni Olms in the Guild offices on Olar. They were well maintained but small, and the meeting room had no trace of luxury in it, aside from the coffee that he was served, which was of a very expensive imported variety. He sat across a wide plastic table from Olms, without any of the Guild delegates in the room. His reports had warned him that some of the company that Olms had brought had a particularly antagonistic bent, and since Aymon was here on an appeasement duty, he had no desire to interact with people who were not interested in being appeased.
 
 They had been discussing Aymon’s planned position towards the planet for a while, and Aymon was growing ready to directly ask Olms if his stomping on Olar’s government would be sufficient, or if the Guild was going to make extra demands of the Imperial government. Thanks to Sid’s actions, the Imperial government was already going far out of its way to help the Guild, so Aymon would not be pleased if Olms tried to press the advantage. Her reluctance to say immediately if she was going to be satisfied was not unusual, but he would like the courtesy of a direct answer to a direct question.

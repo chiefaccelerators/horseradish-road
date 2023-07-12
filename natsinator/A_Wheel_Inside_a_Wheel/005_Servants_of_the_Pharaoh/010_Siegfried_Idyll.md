@@ -178,10 +178,6 @@ Martin leaned towards him. “We still live in an era of kings, but without grea
 
 “Hmm,” Martin said. “What a conundrum.” He put his hand on Kircheis’s face and the two leaned together to kiss.
 
- 
-
- 
-
 *February 482 IC, Odin*
 
 His mother was making dinner in the kitchen, but she had called him in to help out. Kircheis was more than willing to set the table, but, as it turned out, his mother had been attempting to corner him in a conversation. Although he was much taller than she was, he was a little shy and deferent around her, never wanting to upset her if he could help it.
@@ -335,10 +331,6 @@ Kircheis hated the direction this conversation had gone in, and he wished he had
 “Alright, alright,” she said. “I simply don’t understand what you see in him.”
 
 “He’s a good person, and a good friend,” Kircheis said. “That’s all.”
-
- 
-
- 
 
 “What did you want to go into the city for?” Kircheis asked, sitting with Martin on the train, wedged up against the cold window. Martin had his backpack on his lap, and when Kircheis had offered to carry it, he had discovered that it was quite heavy. He had asked what was in it, and Martin had declined to respond.
 

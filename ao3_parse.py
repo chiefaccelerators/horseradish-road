@@ -20,6 +20,8 @@ def userstuff_to_string(userstuff):
     if userstuff.name == "br":
         return "\n"
     contents_text = "".join((userstuff_to_string(item) for item in userstuff.contents))
+    if not contents_text.strip():
+        return ""
     if userstuff.name == "p":
         contents_text += "\n\n"
     if userstuff.name in ("strong", "b"):

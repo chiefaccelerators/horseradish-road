@@ -64,10 +64,6 @@ The words and instructions came out of him almost unbidden, coming from a calm a
 
 His hands shook as he activated the shuttle's radio and began sending out his distress call.
 
- 
-
- 
-
 *April, 783 UC, Phezzan Dominion*
 
 Yang stayed at Konev's house on Phezzan for a few days, which was maybe the reason why the debt collectors weren't able to track him down until he appeared in public for the funeral.
@@ -164,8 +160,6 @@ They were silent for a long time. Yang felt like he was laying bricks in the wal
 
 "You don't remember? It's yours." He slid it across the table to Yang, who picked it up as though it were a dead thing. The address on the front of the envelope was his home address on Phezzan, but the name on the envelope was wrong, addressed to 'Hank von Leigh'. Abruptly, Yang remembered. This was his result from the Imperial Officers' Academy entrance exam. He had handed it to Konev without opening it as soon as it had arrived, since it was Konev's whole plan to trick his mother into letting him get out of school (it hadn't worked, at least partially because the letter had arrived long after summer was already over.) He hadn't known what the letter contained, or that Konev had kept it, for some reason.
 
- 
-
 *Herr von Leigh,*
 
 *We are pleased to announce that your scores on the Imperial Officers' Academy Entrance Examination have qualified you for admission to our institution. Please report to Odin for the term that begins 1 August 475.*
@@ -173,8 +167,6 @@ They were silent for a long time. Yang felt like he was laying bricks in the wal
 *Entrance to the IOA is extremely competitive. For your reference, we provide the ranking of new admissions. Your score on the entrance exam has placed you at rank*
 
 *2/1500*
-
- 
 
 Yang didn't bother reading the rest of the letter, and tossed it down on the table, where the corner of it landed in a few drops of tea that he had failed to wipe up, getting it soggy.
 
@@ -222,10 +214,6 @@ After a long moment, Yang asked, "How would I even get to Odin?"
 
 Konev grinned in triumph. "I'm sure my mother can find someone to give you a ride." 
 
- 
-
- 
-
 *August, 475 IC, Odin*
 
 That summer, a very out of place looking young man arrived on Odin, marched himself up to the Imperial Officers' Academy, presented himself, and received a room and a uniform and a class schedule. Considering that a home, things more than the clothes on his back, and some regularity in his life were all things that Yang Wen-li had been missing since he had fled Phezzan, he found himself uncomfortably grateful to the Imperials.
@@ -234,21 +222,11 @@ The room he had been assigned was small, barely room for a bed and a desk and a 
 
 Although Yang wanted to sleep, he couldn't, so he pulled out his computer and signed on to the IOA intranet, checking to see if there was any news he should pay attention to. To his dismay, alongside announcements about the convocation dinner, start of classes, general campus updates, and messages from alums, there was a large banner displaying "Welcome to the Class of 479!" and then a button below it that read "View current class ranks." Yang clicked on it with some trepidation, though he already knew the worst that it would contain.
 
- 
-
 *Note: Incoming ranks are based solely on performance during the IOA entrance exam. Recalculation occurs at the end of each marking period.*
 
- 
-
-*Oskar von Reuenthal**Hank von Leigh**Franz Gautier**August Samuel Wahlen**Peter von Deitch**Cartier Ansbach**Jon von Strum**Fritz-Joseph Bittenfeld**Arnot Messier**Walter von Stuben* 
-
- 
-
-The list went on, showing the rank for all 1500 incoming freshmen. Yang wished that recalculation would occur immediately, so that he could slide down into a much more comfortable low zone. He had no desire to do well, and being in second place painted a target on his back. Whoever this Reuenthal was would probably think he was aiming for first, and all the people below him would be trying desperately to steal his rank. Yang could only assume that the culture here was fiercely competitive.
+*Oskar von Reuenthal**Hank von Leigh**Franz Gautier**August Samuel Wahlen**Peter von Deitch**Cartier Ansbach**Jon von Strum**Fritz-Joseph Bittenfeld**Arnot Messier**Walter von Stuben*The list went on, showing the rank for all 1500 incoming freshmen. Yang wished that recalculation would occur immediately, so that he could slide down into a much more comfortable low zone. He had no desire to do well, and being in second place painted a target on his back. Whoever this Reuenthal was would probably think he was aiming for first, and all the people below him would be trying desperately to steal his rank. Yang could only assume that the culture here was fiercely competitive.
 
 A message flashed up on his computer screen then, and he clicked it. It was from someone named Ernst von Eisenach.
-
- 
 
 *Von Leigh,*
 
@@ -266,11 +244,7 @@ A message flashed up on his computer screen then, and he clicked it. It was from
 
 *Strategic Warfare Dept., Class of 478*
 
- 
-
 That was perhaps the most confusing message that Yang had ever read. He typed out a reply, trying to be as diplomatic as possible.
-
- 
 
 *Von Eisenach,*
 
@@ -283,8 +257,6 @@ That was perhaps the most confusing message that Yang had ever read. He typed ou
 *Hank von Leigh*
 
 *Military History Dept., Class of 479*
-
- 
 
 He felt extremely weird, typing out his fake name and sending the message, but what else was he going to do? He didn't get a reply, so he could only assume that Eisenach was having a good laugh at his expense after seeing his photo.
 

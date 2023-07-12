@@ -16,8 +16,6 @@ Reuenthal was right on that count: after a few days he received a notice. His pr
 
 What did not please him, not exactly, was the message he found in his inbox a few hours later.
 
- 
-
 *I see that you’ve made captain. It doesn’t surprise me, and you deserve it. If you’re not busy, I would like to celebrate your promotion, and also pay back that debt I owe you. I’ll buy drinks, if you want to get some. I understand if you don’t. Anyway, I’ll be in the officer’s lounge in bldg 2 later tonight.*
 
 *Happy New Year.*
@@ -25,8 +23,6 @@ What did not please him, not exactly, was the message he found in his inbox a fe
 *Your friend,*
 
 *Wolfgang Mittermeyer*
-
- 
 
 He didn’t know how to feel about that at all. He hadn’t known that Mittermeyer was even at central command. They hadn’t left his base together— Mittermeyer had stayed to assess the damage, and Reuenthal had left without really speaking to him. He pulled up Mittermeyer’s file and saw that he had also been promoted to captain, a fact that he had failed to mention in his letter, but it didn’t surprise Reuenthal at all. He wondered if Mittermeyer was also being reassigned. He couldn’t tell from the relatively public database he had access to.
 
@@ -350,10 +346,6 @@ After a few seconds, Reuenthal tugged on Mittermeyer’s hair to get him off. �
 
 Mittermeyer made a choked laugh, or something— Reuenthal couldn’t really tell— and rolled off of him, ending up on his back in the snow. Reuenthal missed the warmth of his body immediately. He stood and offered Mittermeyer a hand, then hoisted him back to his feet. They headed back towards the base, brushing snow off themselves as they went, chased by the cold wind.
 
- 
-
- 
-
 *January 485 IC, Odin*
 
 The practicalities of arriving back on Odin needed to be taken care of before anything else. Reuenthal’s time on Kapche-Lanka had been shorter than he, and everyone else, had expected, so he was rather regretting the fact that he had broken his lease and needed to find a new apartment. He theoretically could have stayed with Yang during this time, but he didn’t even tell Yang that he was back on Odin until he had gotten a new place, which took several days.
@@ -362,13 +354,9 @@ He didn’t see Mittermeyer after the point that the two of them had walked off 
 
 So, it was a while before he texted Yang.
 
- 
-
 > I’m back on Odin.
 
 > Would you care to get dinner with me and see my new apartment?
-
- 
 
 < dinner? sure
 
@@ -376,13 +364,9 @@ So, it was a while before he texted Yang.
 
 < we can get takeout
 
- 
-
 > Oh?
 
 > Too lazy to make the trip all the way into the capital on a school night?
-
- 
 
 < maybe
 
@@ -392,11 +376,7 @@ So, it was a while before he texted Yang.
 
 < i would prefer to do it in the comfort of my own home
 
- 
-
 > Bad news?
-
- 
 
 < i have always been on speaking terms with mittermeyer, you know
 
@@ -405,8 +385,6 @@ So, it was a while before he texted Yang.
 < i am capable of making my own deductions
 
 < anyway, yes i will have dinner with you, but come to my place
-
- 
 
 Reuenthal’s frown had been slowly deepening as every message from Yang arrived on his phone. He couldn’t tell really what Yang was feeling. His tone wasn’t exactly hostile, but that was also something that was hard to parse over text. Reuenthal wasn’t sure what he was even going to say to Yang, so it was with an unusual feeling of apprehension that he took the train to Yang’s boardinghouse later that night.
 

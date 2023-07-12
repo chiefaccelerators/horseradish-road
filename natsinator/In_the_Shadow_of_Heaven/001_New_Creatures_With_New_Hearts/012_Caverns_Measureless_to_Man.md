@@ -72,10 +72,6 @@ Aymon nodded, and Halen brushed his grey-streaked hair back from his temples wit
 
 Halen’s response was to tip Aymon’s head up, holding his chin, so that he could lean down to kiss him.
 
- 
-
- 
-
 Tyx-III was a miserable planet. Although it had a breathable atmosphere, the surface was far too hot for human habitation. Even in the cooler parts of the planet’s winter, and far from the equator, the temperature rarely dipped below forty-three degrees, and the humidity only made it worse. The planet had been terraformed in the distant past by its original settlers, and so there was plenty of hardy plant life on the surface in areas. Thick vines and stubby trees lived in depressions in the ground just deep enough to provide some protection from the wind that screamed along the swept, red-rock ground. Still, this did little to break up the view to the too-distant horizon, which seemed uncomfortably far away. Though the planet was large, it was not very dense, and its gravity was only about three-quarters of standard.
 
 The few structures that were built aboveground on Tyx were for the military bases the Empire constructed as their entryways onto the planet. The airstrip that their shuttle had landed on (with some difficulty) was not far from that complex of short buildings, all built partway into the ground, with sloped roofs for the wind to roll across. 
@@ -225,10 +221,6 @@ Aymon nodded.
 Aymon glanced down the stairs at Kino, who had at down cross-legged on the floor and was leaning back on her hands to look up at the ceiling.
 
 “No,” Aymon said. “Let her look a little longer. You and I can go talk strategy. She can join us when she’s ready.”
-
- 
-
- 
 
 Aymon and Lang spent the remainder of the day talking about the high level strategy at play on the planet. The goal was to clear out all the scattered resistance in the underground, but this was a difficult task. There were still millions of people, possibly hundreds of millions, living in the caves, and the nature of the caverns made them difficult to locate, and also difficult to fight. There were some methods that could be used to win easily, but Aymon had drawn the line.
 

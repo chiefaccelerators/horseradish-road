@@ -216,10 +216,6 @@ It should have been the *Iron Dreams*, probably, but what Yan’s mind went to w
 
 Before Yan could figure out what Iri meant by that, Iri was gathering up her computer and heading back out of the room, leaving Yan alone with her thoughts.
 
- 
-
- 
-
 Surprisingly, Yan slept better that night. Perhaps it a built up exhaustion, or perhaps it was the feeling that she was committed to a course, in more ways than one. Politically, she and Sid would have to follow through on the threats that Sid had made, if Governor Cresas wouldn’t agree to the Guild’s terms. And, in her personal life, even if her conversation with her uncle had been difficult, acknowledging her station in a way that she hadn’t before was freeing. She would try not to go into the meeting with Apprentice Olms thinking of herself as a spacer— she was there as First Sandreas’s representative, after all. It would be detrimental to try to be anything more or less than that.
 
 When Yan met with Sid the next morning, however, he looked worse than he had the morning before, which was saying something. He ate his breakfast with his eyes half closed, and he didn’t even see Yan waving at him to get his attention until she reached over and tugged the sleeve of his cassock. He flinched when she did, and Yan signed a quick, “Sorry.”

@@ -140,10 +140,6 @@ Several of his new coworkers came by to introduce themselves and see what Yang w
 
 It was a series of strange interactions, and by the end of the day, Yang was relieved to creep back to his rented room, share dinner with his landladies and the few other tenants of the boarding house, then pass out.
 
- 
-
- 
-
 Yang couldn’t put off his social obligations on Odin forever, though since he had the weird feeling that he had returned to Odin in disgrace, he almost didn’t want to fulfil them. He realized that he was being ridiculous, though, and so he called Mittermeyer on Friday night. He was sitting in his room, on his bed, with one hand flipping through his work notes on the guy he was supposed to be researching, the other holding his phone to his ear. Mittermeyer picked up after two rings.
 
 “Leigh!” Mittermeyer said immediately, sounding almost frantic.
@@ -201,10 +197,6 @@ He spent the rest of his evening writing apologetic notes to his friends whom Mi
 Yang flopped on his bed and stared up at the ceiling. He should probably talk to Count Mariendorf, as well, but he was still putting that off. He hoped that Bronner hadn’t gone to bother him. Yang liked the count, and it would have been even more embarrassing to drag him into this. Maybe he could pay them a visit on Sunday.
 
 He thought about all of this, then picked up some of his work notes and thought about those, too, until the words stopped making sense, and then he fell asleep, fully clothed, on top of his sheets.
-
- 
-
- 
 
 Joseph’s was exactly the same as Yang remembered it, and it felt odd to him that he had last been here less than half a year ago. He sat down at the same booth where he had always sat with Reuenthal and Mittermeyer, and he laid his damp hat and gloves down next to him, ordering a beer as he waited for Mittermeyer to show up. The waitress recognized him, and Yang had to smile and say that he was just back for a visit, feeling awkward about the whole thing. Although he had thought he missed the IOA, now he was distinctly uncomfortable, as though it was a too-tight skin.
 
@@ -439,10 +431,6 @@ Mittermeyer laughed a little, and Yang smiled. “Sure. We’ll call it that.”
 “I know,” Yang said. “Though I suspect I’m less cruel by far than you are to yourself.”
 
 “That’s my prerogative.” 
-
- 
-
- 
 
 Yang didn’t end up going to see the Mariendorfs. He felt too strongly off-kilter from the conversation he had had with Mittermeyer, and he felt it was likely that the count or Hilde would ask how Reuenthal was doing, a question that Yang was suddenly completely unprepared to answer. He would give it another week, he decided, then tell them that he was back on Odin.
 

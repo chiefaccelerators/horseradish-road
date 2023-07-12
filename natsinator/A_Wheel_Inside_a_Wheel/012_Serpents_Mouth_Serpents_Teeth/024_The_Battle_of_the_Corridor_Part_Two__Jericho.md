@@ -148,10 +148,6 @@ Ansbach’s unintentional echoing of Oberstein’s sentiments made Yang uncomfor
 
 “You won’t, My Lord,” Ansbach said with a scowl, which made Yang shake his head.
 
-
-
-
-
 As they came closer to the Iserlohn corridor, the discussion about how they were going to begin the attack grew more and more serious. In order to signal to their other forces on Cahokia that they were ready to begin the two pronged battle, Yang’s forces would have to attack Iserlohn first, in a dramatic enough way to force them to send out their fleet, or use the Thor Hammer. Either of those two things would be visible to the watchers near Cahokia.
 
 There was, of course, the chance that the outpost on Cahokia had already been destroyed. Muckenburger knew it was there, and knew what Yang planned to use it for. Yang had made a bet that Muckenburger also had no desire to waste lives, or make himself an enemy of Braunschweig when he didn’t need to— he would wait until they attacked Iserlohn.
@@ -291,10 +287,6 @@ Yang thought about the look on Mittermeyer’s face when Reuenthal had placed th
 “So he’s just here out of friendship.”
 
 “Yes— that’s the reason.”
-
-
-
-
 
 They waited.
 
@@ -453,10 +445,6 @@ Ansbach noticed when Yang finally opened his eyes and looked over at Braunschwei
 “What is it?”
 
 “It’s a question of timing.” And then he explained, the pieces clicking firmly into place as he spoke.
-
-
-
-
 
 Although it clearly burned Braunschweig, the Berlin had to remain outside of the Thor Hammer’s range. This plan was far too dangerous for Braunschweig himself to lead the charge. They pulled back, along with about a third of the fleet, and lingered outside of Iserlohn’s striking distance, watching the battle from afar.
 

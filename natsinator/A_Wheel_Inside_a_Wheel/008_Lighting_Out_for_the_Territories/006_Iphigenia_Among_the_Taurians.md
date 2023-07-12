@@ -62,10 +62,6 @@ She tied his scarf back up and tucked it into the front of his jacket. “I’m 
 
 She laughed. “We should probably find our shuttle.”
 
-
-
-
-
 *May-August 796 U.C., Cahokia-3*
 
 The Rosenritter had been on Cahokia-3 for a little over a month, and Annerose had decided the place was not one where humans were meant to be. 
@@ -204,15 +200,11 @@ The Rosenritters scrambled to obey, but the mine workers complained vociferously
 
 The ride back to the base was as fast as they could make it, but even so, it took a long time. As they finally pulled in to the base, Annerose typed a private message to the Rosenritters in the car with her, and showed it to them.
 
- 
-
 > do not let the mine workers leave or speak with anyone
 
 > they could start a riot
 
 > and not a word of this to anyone else, understood?
-
- 
 
 She made sure her group understood, and slipped out of the car as Groteschele forced the waiting mine workers to fill out a long and tedious log about how their car had broken down.
 

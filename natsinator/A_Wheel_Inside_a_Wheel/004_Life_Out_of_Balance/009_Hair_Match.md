@@ -326,10 +326,6 @@ This angered Reinhard, and he hissed, “I’m not weak.”
 
 But he didn’t respond, and just stalked off, leaving her behind at the edge of the party.
 
- 
-
- 
-
 Reinhard found Annerose the next day, at lunch in the dining hall. She was sitting with a few senior women, and she waved him over, scooting over so that he could drag up a chair next to her. She introduced him to the women, who were members of the women’s society, and they were vaguely patronising to him, which he tolerated for his sister’s sake. He stopped short of allowing them to pet his shorn head, though.
 
 He rarely saw this side of her, the one where she was the vivacious leader of a group, but he rather liked to see it. She directed the flow of the conversation, in complete control, and he felt, for a moment, at least, fine to follow in her shadow. 
@@ -386,10 +382,6 @@ She smiled. “I’m glad you’ll at least think about it.”
 
 They talked about other, less consequential, things then, until Annerose had to go, since she was going to a student government funding meeting, to submit the women’s society’s proposed budget for the upcoming year.
 
- 
-
- 
-
 Several weeks later, Reinhard felt as though he had settled into his life at the Officers’ Academy fairly well. He wasn’t friends with his roommates, but he thought that they realized that it would be mutually beneficial to not cause trouble for each other, since they were going to have to live together for the rest of the year. If it was any consolation to Annerose, he wasn’t the only source of tension; the entire group of four was mildly antagonistic in every direction. 
 
 He was doing well in all of his classes, and enjoyed thoroughly trouncing his classmates any time there was any sort of competition to be had, whether it was in the computer simulation strategy games or in the physical fitness classes. Class rank wasn’t public, but Reinhard felt fairly sure that he was at the top. He would have to wait until the end of the semester grades calculated to find out if that was true, but he suspected it was, and he went about his days with a confidence that matched his assumed place in life.
@@ -400,27 +392,17 @@ She did insist on inviting him to things, some of which truly tested his patienc
 
 One night, she texted him.
 
- 
-
 < This Friday, the women’s society is holding a dance.
 
 < You will be in attendance.
 
- 
-
 > I don’t like parties
-
- 
 
 < It’s not a request; it’s a demand.
 
 < :)
 
- 
-
 > Since when do you get to boss me around?
-
- 
 
 < Since always.
 
@@ -428,11 +410,7 @@ One night, she texted him.
 
 < There’s someone I want you to meet.
 
- 
-
 > Who?
-
- 
 
 But he didn’t get a response to that question. He was annoyed at the demand, but he wasn’t going to directly refuse his sister. Grudgingly, he admitted that she might be right that he could use some friends, and he trusted her taste, at least a little. 
 

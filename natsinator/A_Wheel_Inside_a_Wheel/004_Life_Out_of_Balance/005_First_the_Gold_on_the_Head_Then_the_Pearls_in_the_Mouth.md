@@ -674,8 +674,6 @@ He laughed at her, then turned and waved behind himself. “Until next time, the
 
 She did have the pleasure of watching him walk away into the darkness.
 
-
-
 ## Chapter End Notes
 
 Chapter End Notes

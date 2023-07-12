@@ -42,10 +42,6 @@ But Yang would sigh and look at him with concern— and so Mittermeyer chose the
 
 He stood at the window and looked at the pair for a while more— it was the last he would see of the outside of the white one until he was back in port— and then straightened his back and marched away.
 
- 
-
- 
-
 Since Mittermeyer thought that there was absolutely no chance of getting through the Iserlohn corridor alive, this left only one route as an option. Phezzan, and sneaking around through the Alliance the long way, would have to do. Although there were many problems with this plan, as they grew closer to the entrance to the Phezzan corridor, the most pressing of them was that they did not have navigation information to get through.
 
 Phezzan made all ships passing through the corridor pay to receive up-to-date routes, and even if the Imperial government had some way of obtaining these, it was a secret that was not casually shared with the guidance computers of Mittermeyer’s stolen ships.
@@ -129,10 +125,6 @@ Mittermeyer laughed. “I’ll certainly do my best.”
 “I see I’m not making a very compelling case for why you should give your life’s work over to the rebels for me,” Mittermeyer said.
 
 “No, I understand,” Cauer replied. “I’ll do it. At the very least, it means that one of the two won’t be shot down, by the Thor Hammer or anything else.”
-
- 
-
- 
 
 Mittermeyer and the crew of the white ship waited outside the Phezzan corridor, waiting for the red ship to pass through. Once the route had been transmitted from Phezzan to the red ship, and from there to Mittermeyer, it was a matter of patience. It was not a short journey from one end of the corridor to the other, and Mittermeyer wanted to be very sure that by the time he passed through, all the rebel ships on the other end were long gone. Of course, once the red ship left, there was no communication between them, so Mittermeyer had to hope that they made it safely.
 

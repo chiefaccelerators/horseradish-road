@@ -124,15 +124,9 @@ He tugged the glasses from her face and placed them back on his own. Then he smi
 
 Sid gave a backwards glance at the tattoo parlor, then shrugged.
 
- 
-
- 
-
 Although the tour had been a welcome distraction, the moment she was back in the hotel, in the couple hours they had to prepare or rest before meeting the governor, Yan’s thoughts immediately turned dark once again. It didn’t help that when she opened up her computer, she found the letter from First Sandreas that she knew had been coming.
 
 She hesitated to read it, looking at the first line and then hastily clicking away, afraid to read further. But she knew she had to respond— it was duty— so she had no choice but to look. She noticed immediately that the letter was unexpectedly tender, which meant that it had obviously not been written by First Sandreas. Yan remembered that Halen was responsible for ghostwriting much of Sandreas’s more personal correspondence— any letters that were not of the strictly political kind that were drafted by the veritable army of speechwriters and secretaries who worked in Stonecourt’s vast halls.
-
- 
 
 *Dear Yan,*
 
@@ -156,11 +150,7 @@ She hesitated to read it, looking at the first line and then hastily clicking aw
 
 *Aymon Sandreas*
 
- 
-
 *P.S. By request of your minder, I will be joining you on Olar as soon as my duties at the front are concluded. I expect that you will have the situation with the Guild well in hand by then. If you feel a desire to speak face to face before I leave the front, you may call me on the ansible at any time.*
-
- 
 
 The post script, with its clipped tone, Yan suspected *had* been written by First Sandreas. 
 
@@ -175,10 +165,6 @@ Yan wondered if the reason that he did not write to her under his own name was b
 A response would be required. Yan hadn’t sat down and written a letter to anyone seriously intending to send it yet, so this task daunted her. But she found that she could write in the smooth, professional tone that she used when writing an essay for the masters at the Academy. If her words contained no scrap of personal feeling, then they were easy to put on paper. She reassured Sandreas that she and Sid were still able to meet with the Olar government, and that their tour of the capital this morning had gone well. Nothing was amiss, and there was no need for concern.
 
 As she wrote, Yan even found it to be true. She could embody this persona— as the letter had said: duty did not require her emotional input. That was true of her duty on Olar, if nothing else.
-
- 
-
- 
 
 The governor’s palace was carved directly into the mountainside, led up to with a long winding road that clung to the rock face and looped back and forth dizzyingly. The sun had set about an hour previously, so the whole scene, as Yan and Sid approached in their limo, was lit only by the golden glow coming from the house itself, shining out of the windows and doors and glinting on the white rock faces. It was an impressive sight, clearly built to ape the style of Stonecourt, but it didn’t quite match the harsh splendor that the capitol building on Emerri had. It was a poor imitation, and, as it was carved into the mountain, it was a facade only.
 

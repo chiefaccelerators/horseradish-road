@@ -6,8 +6,6 @@ She felt pretty bad about this, because Sylva often texted her at night, asking 
 
 She texted Sylva platitudes that sounded false even to her.
 
- 
-
 > hopefully things will calm down soon
 
 > s. is going to introduce us as his apprentices at the governors’ dinner
@@ -20,11 +18,7 @@ She texted Sylva platitudes that sounded false even to her.
 
 > and i want to hang out with you again
 
- 
-
 < you allowed to bring a +1 to the governors’ dinner thing?
-
- 
 
 > didn’t think you liked parties
 
@@ -32,13 +26,9 @@ She texted Sylva platitudes that sounded false even to her.
 
 > sorry :(
 
- 
-
 < it’s ok
 
 < idek what I’d wear
-
- 
 
 The day of the Governor’s Dinner, all three of the apprentices had been let out of training before noon, giving them some blessed time off, though Yan suspected that this was mostly so that Halen could have the afternoon to do whatever his mysterious normal tasks were. She didn’t care enough to ask what he was doing with his time, and she was grateful just to have the opportunity to take a nap and a long, luxurious bath before what was certain to be a busy night.
 
@@ -85,10 +75,6 @@ Yan had no answer to that one, but turned back around to see Kino fully dressed,
 “It looks good on you,” Yan said.
 
 Kino didn’t smile.
-
- 
-
- 
 
 The three apprentices arrived at Stonecourt together, all looking more respectable than they ever had in their lives, in their new cassocks and capes. Sid spent the limo ride fiddling with this own circlet, which was apparently too cold to bear on his bald head, until Yan told him to make it float just above his skin. He grinned at her, and did that very ostentatiously, until Yan used her power to force it back down just before they all exited the limo. He made a rude sign at her, but the metal band stayed in its normal position, instead of hovering a good fifteen centimeters above his head.
 
@@ -172,10 +158,6 @@ Sandreas stood, which made Vaneik, and his two apprentices stand as well. “I�
 
 Sandreas nodded. “You should go down to dinner.” 
 
- 
-
- 
-
 The Governors’ Dinner was being held in Stonecourt’s largest event hall. Yan had stuck her head in once before, when Halen had briefly described the event to them, but then the marble floor had been empty and the lights had been dimmed, giving the room the appearance of an abandoned department store rather than a party. Now, however, the room was elaborately decorated, with tables festooned with flowers, light seeming to come from absolutely everywhere. It was crowded, too, with the entourages of the governors of the several hundred planets within the Empire.
 
 All the guests were doing their best to signal their standing. There were those, like Yan, who were dressed in their cassocks, announcing themselves as sensitives. When Yan cast out her power over the room, she could feel that extra soft tingle of power on many of the guests, even some who were not wearing cassocks and capes. There were plenty of governors, many of whom were sensitives, who were instead wearing their local finery, whatever that was: splendid dresses and robes, the likes of which Yan had only ever seen in photographs. Although Yan had travelled extensively as a child on board her family’s ship, she had only ever encountered the less formal variations of some of this traditional wear. And there were plenty of more subdued outfits, as well: people dressed in simple, more universal clothing, suits and dresses that might have been at home at any high society gathering throughout the Empire.
@@ -231,10 +213,6 @@ Sid grinned and waved as he stepped out next to the other two.
 Sandreas turned and looked at the three of them for a moment, the smile on his face warm, though Yan couldn’t be sure if it was genuine, or if he was just good at acting for the cameras. It may very well have been both.
 
 “I present to you the future of the Empire!”
-
- 
-
- 
 
 After the speeches had been given, the formal dinner itself was a bit of a blur for Yan. She, Sid, and Kino sat with Sandreas at the head table, along with the governor of Emerri, a woman named Runwest. Halen was nowhere to be seen, though Yan chided herself for feeling like that was odd; it wasn’t as though Halen was a high status individual, so there was no reason for him to sit at Sandreas’ right hand. She had just grown accustomed to seeing them together, as they almost always were when Yan interacted with Sandreas. But, of course, she hadn’t been following Sandreas to his official duties until just this moment, so she wouldn’t have seen them apart. 
 
@@ -395,10 +373,6 @@ Yan nodded. “I’ll be jealous of you, then,” she said.
 “Okay,” Yan said. “If he really wants to speak to me.”
 
 “Good girl,” Olms said. Yan’s face heated up, and she stumbled on the next step of the dance.
-
- 
-
- 
 
 Olms had told Yan that Vaneik would be waiting for her outside, in the garden that adjoined the large hall. Like the courtyard Yan had been in before, this part of Stonecourt was built with privacy in mind, and even though it was well lit from hanging lanterns overhead, greenery obscured the sightlines and muffled conversations. Yan didn’t doubt that there were probably cameras and microphones hidden everywhere, but it gave conversations an aura of secrecy, which made people more likely to talk, even when they shouldn’t.
 

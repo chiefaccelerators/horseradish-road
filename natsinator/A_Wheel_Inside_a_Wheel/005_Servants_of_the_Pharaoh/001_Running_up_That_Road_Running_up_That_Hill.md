@@ -154,10 +154,6 @@ This was a very abrupt end to the conversation, which left Yang feeling somewhat
 
 Oberstein nodded curtly, then walked off, leaving Yang to sit back down and ponder the strangeness of the conversation.
 
- 
-
- 
-
 Yang stepped onto the bridge of the ship Tuttlingen Krieger, which he was sure he would have to get familiar with quickly. He was led there by an enlisted man, who had been sent to the docks to pick him up and bring him to Commodore Merkatz. Yang was looking forward to meeting the commodore, though he was apprehensive about memorizing the twists and turns of the interior of the ship. The way it was laid out seemed unintuitive, though perhaps that was due more to his lack of intuition for engineering matters than it was the fault of the ship’s design. On the long walk from the dock to the bridge, they seemed to encounter what felt like to Yang like every member of the crew, all rushing about their business, and all glancing at Yang as they passed, mentally interrogating both his sub-lieutenant uniform and his stranger’s face.
 
 The bridge was a similar hive of activity, and Yang stepped onto it and saluted, finding himself right in the path of the commodore, who was speaking with the ship’s captain over at one of the consoles near the entrance to the bridge. Yang didn’t want to interrupt their conversation, but Merkatz saw him, did one of the double takes that Yang was rather familiar with, at this point, and left the conversation to come over to him. Merkatz was an older man, probably in his late fifties, of average height, with grey hair and a thin mustache. 
@@ -267,10 +263,6 @@ Merkatz smiled slightly. “I’m sure that you will have plenty of time with me
 “I see that you’re perhaps a bit too honest, von Leigh. But I won’t hold it against you.”
 
 “I appreciate it, sir.”
-
- 
-
- 
 
 *August, 479 IC, Iserlohn Corridor*
 

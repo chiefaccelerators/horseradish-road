@@ -172,10 +172,6 @@ That made Dusty smirk. “We couldn’t have that, could we?” He tilted his he
 
 And then the two vanished out of sight.
 
- 
-
- 
-
 Annerose’s house was the same as he had left it, on the outside, and even standing in the doorway, he could hear Annerose happily chatting with Julian, the sounds drifting out the open window. He had arrived home by taxi, wanting to surprise her. She had known that he was coming back to Heinessen in general, but he hadn’t given a date. When he rang the doorbell, Annerose opened the door and blinked in surprise before wrapping him in the tightest hug she could give. This was rib-crushing, but he didn’t mind at all.
 
 “Reinhard! What are you doing here?!”
@@ -438,19 +434,11 @@ Absentmindedly, he looked at his phone and he realized he had a text message-- o
 
 The noise of the movie from the other room was muffled, and Reinhard twirled the end of one of his braids around his finger. He didn’t really want to go back in there, and he couldn’t stay in the kitchen all night, and going up to his room would have felt like some kind of defeat. He texted Dusty back. 
 
- 
-
 Reinhard: No worries. Did you just arrive planetside?
-
- 
 
 Dusty: no-- i got in a few hours ago. been with my family
 
- 
-
 Reinhard: Are you busy right now?
-
- 
 
 Dusty: nah. I’m hiding in my bedroom so my mother can’t pester me about whatever she has on her mind
 
@@ -458,29 +446,17 @@ Dusty: if they keep me on Heinessen I am going to have to get my own place-- i c
 
 Dusty: with my luck i’ll be back at the front though
 
- 
-
 Reinhard: Feeling like your rumored posting with Bucock is not going to happen?
-
- 
 
 Dusty: no, i think it will, i just think that bucock will have the bad luck of leaving the capital as soon as i’m with him
 
- 
-
 Reinhard: Still want to get a drink? I don’t really feel the need to stay here while my sister is entertaining Captain Schenkopp.
-
- 
 
 Dusty: lol of course!
 
 Dusty: there’s a great little bar in the brownstone district if u want to meet me there
 
- 
-
 Reinhard: Sure. Be there in half an hour.
-
- 
 
 He stuck his head back into the living room enough to catch Ingrid’s eye. She was sitting next to Annerose on the couch, the enormous fluffy cat stretched out across both their laps. Schenkopp had his arm wrapped around Annerose’s sounder. Reinhard silently beckoned to Ingrid, and she eased herself out from under the cat’s weight. 
 

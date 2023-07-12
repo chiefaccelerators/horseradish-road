@@ -298,10 +298,6 @@ Yang was too tired to joke, or to chastise her for joking. “I should go home.�
 
 “I’ll call my driver to take you.”
 
- 
-
- 
-
 *December 481 IC, Odin*
 
 Yang’s sleep was anything but peaceful when he returned to his house, and he was woken in the morning by another phone call. Although he was groggy with sleep when he picked up his phone and looked at the screen, he was forced to full consciousness by the name it displayed. Yang took half a second to steady himself before answering, feeling like his blood had turned to ice.
@@ -382,8 +378,6 @@ He stayed in bed for a little more, then got breakfast from his landladies in th
 
 He scrolled fairly far back, to one of the earliest chapters of the book, where the chapter title, printed in neat italics in an ancient language, seemed to be mocking him.
 
- 
-
 ***Chapter Two: Cui Bono?***
 
 *It is an unfortunate condition of history that we have very little record of Kaiserin Elizabeth’s early life. We know that she was a wealthy woman even before the start of the Goldenbaum Dynasty, and we know that her marriage to Rudolph von Goldenbaum was one of, if not mutual affection, then at least mutual respect. The letters and records between them that have been preserved in the Imperial Archives suggest that Elizabeth was one of the few women Rudolph considered to be intellectually capable. Indeed, before her death of cancer in 30 IC, Elizabeth had, for several years, use of Rudolph’s state seal, and was capable of issuing commands on his behalf. This suggests a level of trust, or at least a public show of trust, that few kaisers have granted to their wives in the years since.*
@@ -420,13 +414,7 @@ He scrolled fairly far back, to one of the earliest chapters of the book, where 
 
 *History proceeded on its course, a succession struggle that seemed almost bloodless may have actually involved the blood of several people on Katharina’s hands.*
 
- 
-
 The chapter continued, but Yang closed the document. He wished he hadn’t written any of that, wished he hadn’t had it sent to Kaiser Friedrich. It now seemed to be intentionally mocking him, the past. Magdalena. He couldn’t do anything now, though. All he could do was wait. 
-
- 
-
- 
 
 *December 481 IC, Odin*
 
@@ -710,10 +698,6 @@ Bronner stood. “Good day, Lieutenant Commander.”
 
 “It was my pleasure,” Bronner said, though his tone made it clear that it had been nothing of the sort.
 
- 
-
- 
-
 *January 482 IC, Odin*
 
 Yang received a letter in his mail that he had not been expecting. The heavy envelope did not contain so much as a request but a summons: a private audience with the kaiser that Yang had not asked for or wanted. It contained a date and a time and the information that someone would escort him to the palace from his house. Yang couldn’t refuse, so, on the day of, he dressed in his best uniform, combed his hair as nicely as he could, and found himself waiting stiffly in one of the rooms of Neue Sanssouci for the kaiser to appear. The room was opulent and dark, with a fire quietly burning in a hearth, and two chairs arranged in front of it. Yang didn’t want to sit down, because he didn’t know if he should be seated when the kaiser arrived.
@@ -949,10 +933,6 @@ The kaiser was silent for a long time. “For what it is worth, you have my bles
 “I don’t know,” Yang said. For the first time, the kaiser turned to look directly at him. “I think that depends on the choices that you make.”
 
 “Perhaps.”
-
- 
-
- 
 
 *February 482 IC, Odin*
 

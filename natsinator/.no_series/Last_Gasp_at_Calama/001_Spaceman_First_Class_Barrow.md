@@ -38,10 +38,6 @@ He pushed himself to his feet, the magnetic feet of his suit hooking into the fl
 
 He was near the rear, so he watched as groups of ten at a time pushed forward, squeezing into the airlock, and then vanished into the bowels of the ship. He came closer and closer to the front of the line, then he was in the crowded press of the airlock, radio chatter filling his ears without registering, and then he was stepping through the blistered hole in the ship, feeling gravity take hold of him and almost send him to his knees, and then he was moving, running forward, the way illuminated by only the red emergency lights in the smoke-filled corridor of the dead ship.
 
- 
-
- 
-
 He hadn’t been a soldier forever. 
 
 Thomas often thought back to the day he had decided that he would become one. It had been a clear blue day, the kind of early spring that made him take the task of blacking His Lordship’s shoes outside, sitting at the rickety wooden table outside the kitchen’s back door, rag in one hand, shoe in the other, cigarette dangling out the corner of his mouth, looking up at the little white clouds shuffling their way across the sky. Any time the door opened behind him, he’d be furiously engaged in bringing the shoes to a mirror sheen, but there was plenty of time and no one needed him inside just yet, so he could dawdle, if he wanted.
@@ -225,10 +221,6 @@ She just shook her head and walked back inside.
 Thomas said nothing about the letter to Lord Grantham, or anyone else, for quite some time. When he was finally told that he would not be leaving with the family for Odin, Thomas simply smiled and said, “That’s alright, Your Lordship. I’ve got my fleet papers served to me, anyway. So I’ll just answer that summons, then.” 
 
 He had to admit that he was gratified to see Lord Grantham’s mouth pinch at that.
-
- 
-
- 
 
 Thomas had been in the fleet for nearly two years, with some time left in his compulsory service still. He had been lucky, all things considered, as he had not yet been killed, at least. There had been some disturbingly close calls, the kind that made him wake up in his thin bunk, sweating and thrashing in his sheets. Everyone had those.
 

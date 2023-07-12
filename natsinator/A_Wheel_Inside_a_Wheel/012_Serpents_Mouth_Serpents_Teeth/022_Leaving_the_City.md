@@ -16,8 +16,6 @@ Her other hand clutched at her tablet, and she kept waking up the screen with he
 
 The beginning half of the letter was a response to Lieutenant Kircheis, telling Eva to reassure him that the coded message she had helped pass was understood, and that he was going to act on it. The second half of the letter was personal. Although Eva tended to read his letters many times in general, this one had not left her hand since she received it, and she kept looking at it over and over, trying to divine its meaning.
 
- 
-
 *Eva, I know I’ve said it a hundred million times before, but I can’t tell you how much you mean to me. If I had a way with words like Leigh does, I’d figure some way out to write it down. Maybe you’re like the stars in the sky, or I need you like I need to breathe, or something like that. I’m not a poet, and maybe that’s why I’m a soldier. Even when I’m trapped out here tinkering with machines, pretending not to be a soldier for a while, I don’t have to think too much about the heart and the things it does. That’s good, because if I think about it too much, I start missing you more than I can bear.*
 
 *I know I can bear it, but I don’t want to have to. It’s hard not to know when I’ll get to see you again. I hope this little war is over quickly, and Leigh does too, but there’s no way for me to say for sure if it will be. That’s what makes it difficult— not knowing when we’ll get out the other side.*
@@ -35,8 +33,6 @@ The beginning half of the letter was a response to Lieutenant Kircheis, telling 
 *I love you so much, forever and always,*
 
 *Your Wolf*
-
- 
 
 The letter felt like the direst possible portent. It had always seemed like bad luck, as a soldier’s wife, to ever discuss anything but the most mundane things that would happen “after” a deployment. She never wanted to make a promise that could be broken by fate, and it seemed unbelievably cruel to make her wait for whatever he wanted to talk about, to bring up the subject and leave her with the responsibility of holding its weight.
 
@@ -256,15 +252,7 @@ They were both spared the pain of him answering— Kircheis opened the basement 
 
 “Thank you, Lieutenant Kircheis,” Eva said, trying to keep the tears out of her voice.
 
- 
-
- 
-
 The little blonde girl still felt real in her dreams.
-
- 
-
- 
 
 Eva stayed in the underground room for several days. She heard reports come in from the soldiers that snuck in and out, and from what crackly things sounded over the radio. She occasionally looked at the careful map that Reuenthal was keeping of the movements of troops within the city, watching as Littenheim’s forces progressed inexorably towards Neue Sanssouci. She didn’t know how Reuenthal could look at them so dispassionately— every street they passed through seemed to her to be someone’s home.
 

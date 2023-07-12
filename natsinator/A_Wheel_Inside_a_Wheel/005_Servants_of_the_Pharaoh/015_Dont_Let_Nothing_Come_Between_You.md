@@ -268,10 +268,6 @@ She smiled. “It’s easy, if you let it happen.”
 
 “Like I said, never say never.”  She grinned at him, and Yang shook his head and rolled his eyes.
 
- 
-
- 
-
 *August 483 IC, Odin*
 
 Yang was in Reuenthal’s bed, in his apartment that he rented in the capital. The first slender fingers of morning light were coming in through the blinds, but it wasn’t that that woke Yang up. He was roused from his sleep by Reuenthal trying to get out of bed. The sheets were tangled around Yang, which made it harder for him to get his hand out to grab at Reuenthal’s arm before he escaped.
@@ -400,10 +396,6 @@ Reuenthal stopped washing the dishes for a second, pausing with his hands in the
 
 “Yeah,” Reuenthal said. He wasn’t going to apologize, and Yang knew it, so Yang just gathered up his belongings and headed out of the apartment, taking the stairs so as not to be seen by anyone in the elevator.
 
- 
-
- 
-
 Later that day, Yang met his friends in a dim bar in the capital. They were holding the wedding there, rather than in Mittermeyer’s hometown, which certainly made life easier for Yang and all of his friends, some of whom were only on the planet for a few days. Evangeline had an apartment in the capital now, and a promise of employment in a publishing house that Magdalena had found by pulling some strings somewhere, so it was as fine a place as any for the couple to get married.
 
 The particular bar that Mittermeyer had picked was one that Yang was vaguely familiar with, and it had been picked because it had a room with pool tables in the back and very cheap beer. This was its only redeeming quality. In other respects, it was slightly dingy, loud, and a little too dark, with lights that flickered sometimes when the people upstairs moved around too violently. 
@@ -500,19 +492,13 @@ Wahlen seemed slightly concerned, but Yang gave him a thin smile and headed out.
 
 Eisenach.
 
- 
-
 < where are u?
 
 < can u take M home?
 
 < i’m too drunk to deal with him crying on me rn
 
- 
-
 > outside
-
- 
 
 That was about all he could manage to text.
 
@@ -528,13 +514,9 @@ Eisenach found him outside, Yang having made his way out of the alley. Mittermey
 
 Eisenach pulled out his phone and texted Yang, even though he was standing right there. Yang frowned. 
 
- 
-
 < take him to your house
 
 < i assume R is not there
-
- 
 
 “Fine,” Yang said aloud. “Come on, Mittermeyer. You can crash at my place.” Mittermeyer seemed relieved to lean on Yang’s side after that, though it wasn’t as though Yang was any less drunk or more stable than he was. “Eisenach, can you tell Bittenfeld and Wahlen that we’re leaving?”
 
@@ -548,8 +530,6 @@ Mittermeyer stood stiffly in Yang’s living room, and Yang made it to his bathr
 
 He fumblingly texted Evangeline.
 
- 
-
 > hi eva
 
 > this is yank
@@ -561,8 +541,6 @@ He fumblingly texted Evangeline.
 > very drunk
 
 > see you tomorrow m
-
- 
 
 Yang slipped the phone back into Mittermeyer’s pocket, then pushed Mittermeyer in the vague direction of the bedroom. Mittermeyer allowed himself to be pushed. Better for Mittermeyer to sleep in the bed so he’d be well rested in the morning, since he was the one getting married. The bed was unmade, but Mittermeyer didn’t care as he slumped down onto it. He didn’t lay down, but he sat heavily, and stared blankly at the mess of Yang’s room, in the too-harsh overhead light. Yang didn’t really know what to do with himself, and so he ended up sitting down on the floor. He should go back out to the living room and sleep on the couch, but he couldn’t quite find the will to move his body, so he just leaned against the side of the bed, his head near Mittermeyer’s legs.
 
@@ -595,10 +573,6 @@ Mittermeyer shook his head and was silent for so long that Yang thought he had f
 “Let me promise.”
 
 Yang shook his head and was silent. He wondered if Mittermeyer would say something else, but in the long stretch of silence between them, the sound of his breathing evened out, and he fell asleep, hand draped over the side of Yang’s bed. Yang couldn’t quite move, not even to turn out the light, so he stared across the room until he, too, slumped over and fell asleep.
-
- 
-
- 
 
 It was lucky for the both of them that Mittermeyer’s wedding was in the late afternoon, because that gave them both a little bit of time to feel more human. Yang certainly woke up feeling more disgusting and hungover than he ever had in his life, and he suspected that Mittermeyer felt the same. He begged some breakfast out of his landladies while Mittermeyer showered and got dressed in some of Yang’s clothes, so that he could go home and actually get ready to get married.
 
@@ -655,10 +629,6 @@ Mittermeyer cracked a smile at that. “I’ll try.”
 “Yeah, I know,” Yang said. “I’m happy for you.” This wasn’t entirely true, but he wasn’t going to say anything more complicated than that.
 
 Mittermeyer smiled at him. “Thank you.”
-
- 
-
- 
 
 The wedding ceremony was held in the rented hall of a hotel in the capital, a pretty nice, if small, place. The actual guest list was minimal, so the small hall was the perfect size. Mostly, the guests were Evangeline’s friends from her college, Mittermeyer’s extended family, and then Mittermeyer’s small group of school friends. There was no sign of Reuenthal, which didn’t surprise Yang, but did make him feel bad. He was seated in between Magdalena and Bittenfeld, behind Mittermeyer’s immediate family, parents and grandparents.
 

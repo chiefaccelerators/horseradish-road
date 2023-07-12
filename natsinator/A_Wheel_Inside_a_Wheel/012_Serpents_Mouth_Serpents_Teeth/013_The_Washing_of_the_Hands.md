@@ -218,10 +218,6 @@ But she could feel his arm trembling against her; he was shaking with the kind o
 
 “Really, Dad,” she said, and she sounded more reassuring now, knowing that she had to be stronger. “Everything’s in place. As long as we can hold out for a few days…”
 
- 
-
- 
-
 After they both slept, it was much easier to talk to her father about the plan, and convince him that it really was going to be alright, that Hilde had not doomed herself by coming to rescue him. As her father grew more confident in Leigh’s plan (though never fully), Hilde grew less, but she didn’t let that into her voice. As long as she and her father were both able to act rationally, they would be fine.
 
 It was miserable, being trapped in the dark there with him, but it was better than being alone. The passage of time was difficult to discern, only knowable through the intermittent delivery of meals and the changing of the chemical toilet. The guards who delivered their meals were always Rudy and David. 

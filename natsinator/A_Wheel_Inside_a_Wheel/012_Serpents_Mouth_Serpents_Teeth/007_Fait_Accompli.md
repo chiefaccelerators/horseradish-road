@@ -160,10 +160,6 @@ A brief silence fell between them. Yang rubbed the back of his head. “I’ll�
 
 “Go,” Ansbach said. 
 
- 
-
- 
-
 It took many hours to get the ship into some semblance of order. The worst part was compiling a list of who the survivors were, and differentiating between ‘dead’ and ‘missing’ as much as possible. But that was required for an accurate headcount, and that was required to figure out how to feed and sleep this many people, on a ship designed to hold a quarter of their number. At least the bays which had once held tanks were empty, and so makeshift sleeping areas could be laid out for all the soldiers.
 
 The medical suite on the ship was overwhelmed. Though most of the people who had made it back on board were able to walk under their own power, there were plenty of injuries, some severe.
@@ -333,10 +329,6 @@ Yang leaned back on his hands. “There are easier questions you could have aske
 They sat in silence for a second. Yang considered filling up his cup with more brandy, but decided against it. Instead, he said, “You really should get some sleep, Kircheis,” and heaved himself to his feet.
 
 This time, Kircheis was more amenable to the suggestion. “Yes, sir,” he said.
-
- 
-
- 
 
 Although he was exhausted, Yang’s sleep was fitful, and he ended up getting back out of bed just a few hours after he had gotten into it. Without anything better to do with himself, he headed to the bridge. The ship was quieter now, a ghost town of sorts, with many of the lights dimmed for third shift, and all the soldiers tucked away in their makeshift quarters. 
 

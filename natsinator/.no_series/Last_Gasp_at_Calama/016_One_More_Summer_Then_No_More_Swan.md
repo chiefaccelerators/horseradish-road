@@ -68,10 +68,6 @@ Thomas raised his eyebrows. “What for?”
 
 “Do what you like,” O’brien said. “I don’t care.”
 
- 
-
- 
-
 What Thomas really wanted was to see the Duke of Crowsburg. After the first time they met in the hotel, the duke had given him his phone number so that he could let Thomas know if he was going to be in the capital, and so Thomas was able to text him, asking if they could meet. It took a few hours for the duke to respond. Thomas tried not to be impatient and nervous about the delay-- the duke was a busy man-- but it wore him down regardless. When the response came, saying that the duke would be in his same hotel room tomorrow night, and that Thomas was welcome to come at some late hour, the relief could have knocked him off his feet. 
 
 He floated, distracted, through the rest of the day and the next. When Carson asked if he had given any thought to leaving with the family, Thomas just mumbled that he had been thinking about it and he would get an answer to Carson as soon as he had made up his mind. Carson glared at him but let him go.
@@ -204,10 +200,6 @@ Thomas suddenly processed exactly what he had just done. He dropped his now empt
 
 He made it about two blocks before the shock, cold, and sadness overcame him. Before his facade crumpled completely, he ducked into an alley and he leaned on a brick wall in between some trash cans, putting his face into his elbow, and breaking out into great, sniffling sobs that were witnessed only by the two tomcats hissing and spitting at each other down near the end of the street.
 
- 
-
- 
-
 When Thomas finally arrived back at the Grantham residence, he was shocked and horrified to find that the house was not quiet and serene as he had been expecting, but every light was on, and through the windows, he could see people rushing about.
 
 Thomas tried to sneak in through the back door, but when he entered the servants’ hall, he was spotted by Daisy, hanging around the kitchen, who shrieked when she saw him like she’d seen a ghost, dropping the rag she had been using to wipe down the already clean counters with.
@@ -269,10 +261,6 @@ He read the number, then dialed it from the office line. It took several rings f
 “You should know that Lady Sybil is missing,” Thomas said. “She’s gone with another one of the servants to Phezzan, I think. You’ll have to tell Lord Grantham that’s what’s happened, since you have a reason to know about it.”
 
 There was a moment of silence from the end of the line. “Thank you, Thomas. I appreciate it.” And, with that, Matthew hung up.
-
- 
-
- 
 
 In the confusion that followed, rumors circulated among the staff about what had happened: Lady Sybil and Tom had been arrested by the military police; Tom had kidnapped her to use for ransom money; Lady Sybil had simply been trying to go drive to a party, and Tom had accidentally driven them both off a cliff and no one had identified the bodies; both of them had been taken by terrorists; and ever-wilder combinations of these ideas, and more. Carson and Frau Hughes tried to stamp this out as best they could, but the talk continued unabated. Thomas tried to stay out of it. He was still on Carson’s bad side for slipping out, though no one had yet pressed him about that.
 

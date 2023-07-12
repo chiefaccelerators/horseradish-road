@@ -142,10 +142,6 @@ Reinhard sneered at the man. He almost didn’t take the card, but then he snatc
 
 “Well, excellent,” the man said. “I look forward to working with your family.” He reached out to shake Reinhard’s hand. Reinhard stared at it for a second, then turned around and stalked away, heading down the stairs. When he was far enough away that he thought it was safe to look back, he did, and saw the man continuing to watch him. Annoyed, Reinhard walked away even faster to find Kircheis and Annerose.
 
- 
-
- 
-
 That night, after the whole von Müsel family had gathered for dinner (a rare event), Reinhard was sitting in the living room, reading a book, when Annerose stepped in to find him. “Let’s take a walk, Reinhard,” she said.
 
 “It’s dark out,” Reinhard said, turning the page in his book without looking up.
@@ -301,10 +297,6 @@ When they were close enough to the house that they could see its lights, Reinhar
 “I don’t know,” Annerose said. “Let me think about it.”
 
 “If you must.”
-
- 
-
- 
 
 Several nights later, Annerose and Reinhard’s father came home in a very strange mood. Where usually he was either sullen and tired, or monosyllabically cheerful, on this night he seemed weirdly contemplative. He sat in the kitchen as Annerose cooked dinner, an unusual thing for him to do, as he normally retreated to his study and didn’t emerge until food was on the table. Reinhard took notice of this odd behavior, and as he helped wash the dishes and set the table, he looked between his father and Annerose, wondering what was going on. He was ignored, but his father kept his eyes on his sister, looking at her as though she was a math problem rather than his daughter.
 

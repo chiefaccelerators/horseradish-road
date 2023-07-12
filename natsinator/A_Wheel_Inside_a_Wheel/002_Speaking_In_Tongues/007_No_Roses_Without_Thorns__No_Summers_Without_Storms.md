@@ -88,10 +88,6 @@ Reuenthal crossed his arms. “We’ll see.”
 
 Reuenthal smiled a little. “We’ll see.”
 
- 
-
- 
-
 *June, 476 IC, Odin*
 
 Yang arrived at the Mariendorf household with his few possessions and rang their doorbell. The butler greeted him and showed him into a little reception room. Yang stood in it alone, stiffly, looking at the colorful upholstered furniture and the decorative plaster on the walls. After a minute or so, the countess swept in, wearing a much less formal dress than she had been the last time Yang had seen her. Yang was dressed in the Imperial fashion for the first time-- he had needed to scramble to find clothes that weren’t his school uniform-- and he didn’t exactly like the crushed velvet waistcoat and jacket that he was wearing. 
@@ -175,10 +171,6 @@ He felt distinctly uncomfortable, then. “Of course.”
 Yang didn’t know exactly what to say. Now, he wanted to escape. “Er, I don’t… Alright.”
 
 His awkwardness broke the pall that was hanging over Amelie. “You’re too young to be thinking about such things, I suppose,” she said with a smile. “Don’t worry about it.”
-
- 
-
- 
 
 *July, 476 IC, Odin*
 
@@ -311,10 +303,6 @@ The count stared at it for a second, then picked it up, swirling it around and w
 Yang didn’t know how to say what he needed to say, feeling like he was dropping the words like a failed juggler. “I-- thank you for your hospitality, this summer-- I know-- I-- If you don’t want me here, I can go-- somewhere-- I don’t want--”
 
 “No,” the count said. He shook his head. “You should stay. For Hilde, at least.”
-
- 
-
- 
 
 *July, 476 IC, Odin*
 

@@ -122,10 +122,6 @@ Sybil hesitated. “Would you introduce me to your friends at ONU?”
 
 “I would,” she said, very earnestly. “I really would.”
 
- 
-
- 
-
 Given that Sybil didn’t think that Tom’s friends would appreciate meeting her very much, Tom was surprisingly quick in arranging a visit for her to see them. It only took a few days, and when he passed her outside in the morning, he whispered, “Try to go shopping this afternoon,” which she could certainly do. She would like to get a new dress for Magdalena’s dinner, after all, though if that ended up not quite materializing, she would manage without.
 
 She told her mother this, who waved her hand and shooed her off, so Sybil was able to summon Tom with full permission, and drive into the city with him, giddy with excitement that she tried not to show.

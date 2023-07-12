@@ -40,10 +40,6 @@ Halen waited for whatever he was about to say. Aymon discarded most of the thing
 
 Halen looked into his eyes for a moment more, maybe looking for confirmation that Aymon did want him to leave his side, then nodded once, sharply. His whole posture changed; whatever had been coiled tense inside him loosened as he strode out the door. Aymon closed his eyes as he left, and followed him in his mental view with the power, watching him gather a few members of the security team, walk down the hallway towards the nearest elevator shaft, and begin to descend until he fell too deeply into the darkness and vanished out of sight.
 
- 
-
- 
-
 Although it was late at night, Aymon did not sleep at all. The only news that made its way back up to him was of the slowly updating map on the wall which showed the tunnels that had been checked thoroughly for Kino, and for any signs that members of the Adversary had passed through that direction. But there was no real information carried in those reports aside from the slow advancement through the planet’s labyrinth, a radius that widened in fits and starts, and only minutely each time.
 
 Halen did not have his own specific position marker on the map, but Aymon could imagine that it was at the very forefront of the push, winding his way forward with his trusted team drawn from Aymon’s personal security. 
@@ -120,10 +116,6 @@ Aymon looked at Kino in Halen’s arms. She was covered in a mixture of dirt, sw
 
 “Long enough to get to the *First Star*,” Halen said.
 
- 
-
- 
-
 Kino began to rouse on the way back to the surface, turning and shifting in Halen’s arms as they rode in cars through the long, deep tunnels. She was incoherent, half-formed words falling out of her mouth, and Halen seemed surprised for some reason; his brow furrowing as Kino struggled to move.
 
 “It’s alright, Kino,” he said, and smoothed her hair down off her face. Aymon watched his hand— it was strange to see Halen’s gentlest touch from a different angle. “You’re safe.”
@@ -159,10 +151,6 @@ Aymon’s mouth pinched. “And does yours work while you’re sleeping?”
 “Of course,” Halen said. “I can always feel your dreams in mine.”
 
 Aymon looked away. They were coming to the elevator shaft to the surface now, the cars pulling to a stop.
-
- 
-
- 
 
 Aymon didn’t spare much time to speak with General Lang, as most of their business on Tyx had been concluded already. She wasn’t the type to make token statements reassuring him of her dedication, or the way base safety would be improved going forward.
 
@@ -299,10 +287,6 @@ He could still hear the smile in Halen’s voice. “They’re yours. How could 
 “See,” Halen said. “You do love them.”
 
 “Love isn’t just the fear that you’ll do something wrong,” Aymon pointed out.
-
- 
-
- 
 
 Aymon found Kino about nine hours later. Since they were on the *First Star*, and the situation was somewhat abnormal, he went to her bedroom rather than summoning her to his office or some other room of the ship. Perhaps there were some cases where it was worthwhile to be informal. When he knocked on her door, it slid open under the touch of her power.
 

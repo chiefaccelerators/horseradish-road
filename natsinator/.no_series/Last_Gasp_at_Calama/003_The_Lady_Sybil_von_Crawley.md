@@ -214,10 +214,6 @@ Mary laughed. “Oh, Granny should know better than to bring the both of us toge
 
 Sybil just shook her head and rolled off the bed onto her feet. “Come on,” she said, holding out her hand. “Let’s see how Mama’s doing with her packing.”
 
- 
-
- 
-
 The whole Crawley household arrived with a great hustle and bustle to their family home on Odin in the middle of the local night, after an interminable journey aboard a merchant passenger ship that they had chartered. As usual, Mary grumbled that they should buy a ship of their own for the family to use, but Edith had told her that she should just marry the richest man that she could find, and then she could buy whatever spaceship she pleased. This usually sent Mary into a tiff. Tensions ran short, and by the time they set foot on solid ground on Odin, Sybil was anxious to get as far away from the both of them as possible, tired of being the go between and the only reasonable one. If they had arrived back at their estate in the middle of the day, Sybil might have excused herself to go on a long walk of the grounds and re-acquaint herself with them, but as they came past midnight, and with all the lights and noise and going in and out and waking up all the Odin staff to handle their things, it was all Sybil could do to drag herself into her unfamiliar bedroom and collapse unconscious.
 
 She awoke early, the morning light streaming into her bed and hitting her like a train. It was strange and exciting after having spent so long inside the artificially lit confines of a spaceship. She reveled in it-- even though she had only slept for a few hours, there was no way she could remain unconscious, so she got out of bed and threw open her bedroom windows.
@@ -338,10 +334,6 @@ Her father laughed. “I don’t much like you wandering around alone.”
 
 That was a slight complication, but nothing she couldn’t work around. “Thank you, Papa.” She grinned at her father and finished her eggs.
 
- 
-
- 
-
 Sybil found the driver outside waiting with the car, a shiny black beast, already idling. The driver was a stocky young man, a few years older than herself she guessed, with a a gregarious smile. His hair was light brown, and swept back over his round face.
 
 “Herr Carson said you’d be wanting to go into the city, Fraulein.” He held open the back door of the car for her, and she climbed inside.
@@ -403,10 +395,6 @@ She smiled at him. “No, I’m meeting the Baroness Westpfale,” Sybil said. �
 “I think you’re right about that, Tom.”
 
 “Very happy to hear it. I do like to be right about things, on occasion.”
-
- 
-
- 
 
 Sybil had forgotten how long the trip into the city tended to take, so she didn’t spend as much time wandering around aimlessly before her meeting with Magdalena as she had been worried that she would. She asked Tom what some of the more interesting sights were in the city, and they spent a very pleasant half hour or so strolling down the streets of the capital, Sybil admiring the various shops they passed. She didn’t go in any of them, not really enthused about dragging her chauffeur dress shopping, but made mental notes of what the fashions were that were prominently displayed, and what she liked so that she could come back later. 
 
@@ -594,10 +582,6 @@ Magdalena steepled her fingers and looked across the table at Sybil. “Darling,
 
 Surprisingly earnest, Magdalena leaned forward and took Sybil’s hand across the table. “Thank you, darling. I appreciate it more than you know.”
 
- 
-
- 
-
 Sybil had hoped to get back home and get ready for dinner without any fanfare (or her sisters asking where she had been), but when Tom drove her up to the front of the house, she saw another car already in the driveway, and her grandmother getting out of it. This was not exactly a surprise, but it was exiting. Sybil hopped out of the car before Tom could even turn off the engine, and she ran up to her grandmother.
 
 “Granny! I thought you weren’t going to be here until dinner time.” Her grandmother looked about the same as Sybil remembered: the same short and spindly frame, the same austere lined face. She clutched the head of her cane, but still seemed sprightly as she greeted Sybil.
@@ -649,10 +633,6 @@ Carson opened the library door and stepped inside. “The Dowager Countess, milo
 “She will. But Mary will be alright even if she doesn’t, you know.”
 
 “I’m sure, m’lady.” But with Carson’s dour voice, Sybil couldn’t really tell if he believed it or not.
-
- 
-
- 
 
 As expected, dinner that night was a somewhat fraught affair. Aside from the dowager, there weren’t any guests, but that only meant that Mary and Edith had more free rein to snip at each other. They apparently hadn’t taken the chance, as Sybil had, to spend the day as far apart from each other as possible, or, if they had, it hadn’t done anything to improve their spirits. 
 
@@ -767,10 +747,6 @@ Robert looked exhausted. “He had no intention of inheriting anything before Pa
 “How dreadful,” the dowager said. “Yes, you must invite him here before you bring him to any kind of party. Make sure he knows how to behave himself, so that he doesn’t embarrass the family in front of whatever esteemed guests you choose to invite.”
 
 “I’m sure he wouldn’t, Granny,” Sybil said. “I look forward to meeting him, really.”
-
- 
-
- 
 
 Sybil found Mary as she was getting ready for bed that night, having Anna take down her hair and brush it out so that it fell in long, dark waves down her back. Sybil sat on the edge of her bed.
 

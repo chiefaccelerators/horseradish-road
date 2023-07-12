@@ -222,33 +222,19 @@ Yang kept a firm grip on Hilde, despite how much she was trying to wiggle out of
 
 In his moment of distraction, Hilde escaped his grasp, and ran towards Reuenthal. She wrapped her arms around him and buried her face in his shirt. “I’m sorry you had to see that, fraulein,” he said, and patted her back. He didn’t have any natural graces around children, but he had regained his composure enough to at least say that much to the sniffling Hilde. “It’s okay.”
 
- 
-
- 
-
 They did end up having lunch with the count, who looked at Reuenthal’s stiff face and silently agreed to not discuss whatever had held the three of them up inside the dorm for so long. He would hear the story from Hilde, probably, but that would be later, and Yang wouldn’t have to be around to explain how exactly the whole thing had gone so wrong. At least Hilde hadn’t gotten hurt-- that would have been inexcusable-- and she would probably paint both Yang and Reuenthal in the kindest possible light, granted by her childish innocence and overall devotion to the two.
 
 Later that night, though, as Yang packed up his own room, throwing out huge stacks of papers and old notebooks, he wished that Reuenthal would speak to him. He knew he had severely overstepped his personal bounds and that Reuenthal would probably not forgive him for that, but he didn’t want to leave on such an unspeaking low note. 
 
 He kept glancing at his phone, hoping that Reuenthal would message him, and with every set of footsteps in the hallway, he hoped that it was Reuenthal coming by to knock on his door. It wasn’t, though, and eventually Yang laid in his bed in his now too-empty room and stared up at the ceiling. When the clock read two in the morning, and he was completely unable to fall asleep, he finally gave up on waiting for Reuenthal and texted him.
 
- 
-
 > are you up?
-
- 
 
 To his surprise, Reuenthal did text back after a minute or so.
 
- 
-
 < yes.
 
- 
-
 > can we talk?
-
- 
 
 There wasn’t a response to that question, but Yang assumed that his willingness to text back in the first place was as much of an invitation as he was going to get. He got out of bed and walked in bare feet down the hall to Reuenthal’s room. He thought about knocking on the door, then just tried the handle, in order to not make noise in the hallway. The door opened.
 
@@ -371,8 +357,6 @@ Yang closed his eyes before speaking. “What do you want me to tell you?” he 
 Reuenthal reached out across the distance between them, and Yang grabbed his hand. “You have my loyalty, in whatever you do,” Reuenthal said. “If that is enough for you.”
 
 “Yes,” Yang breathed. “It is.”
-
- 
 
 **End of Part One.**
 

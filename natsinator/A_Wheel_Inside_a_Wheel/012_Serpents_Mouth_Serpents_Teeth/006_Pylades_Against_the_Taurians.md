@@ -104,10 +104,6 @@ Kircheis walked over to him. “About what, sir?”
 
 This was clearly not the reason, but Leigh was loath to discuss it, so Kircheis nodded. “Yes, sir.”
 
-
-
-
-
 Their ships reached Cahokia-III exactly as scheduled, and took observations of the planet before approaching within the detection range of any ground sensing stations. They didn’t see any satellites, nor any rebel fleet ships lingering in the system, just the reddish, dusty ball of rock that spun unnervingly quickly on its axis. When one area in the northerly latitudes of the planet swung into the light, their most powerful scopes picked up the scar of an open pit mine, though the buildings next to it nearly blended into the terrain. If they hadn’t known what they were looking for and where to find it, they likely would have missed it, tucked in among the lumpy and misshapen ground of the planet as it was.
 
 Despite the relatively small size of the forces that Ansbach was going to be commanding, they were still likely to be a much larger force than anything stationed at the rebel encampment, which was quite small. Considering how many workers would be needed to staff the mine, along with the size of the buildings surrounding it, there was probably at most one regiment of soldiers.

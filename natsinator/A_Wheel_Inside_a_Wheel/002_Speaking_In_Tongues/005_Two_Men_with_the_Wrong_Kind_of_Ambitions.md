@@ -1,6 +1,6 @@
 # Two Men with the Wrong Kind of Ambitions
 
-*October, 475 IC, Odin* 
+*October, 475 IC, Odin*
 
 It was an obvious lie, but Reuenthal delivered it with such flat consistency that no one tried to find an alternate explanation for how exactly Hank von Leigh had ended up with an arrow through his thigh. If he said he had fallen off his horse while trying to get an arrow from his quiver, well, he had an arrow wound, and bruises all over his back from falling, though they didn't exactly match that description. But the Kaiser's personal doctor, who had accompanied Yang to the hospital, was nothing if not chosen for his discretion.
 
@@ -94,10 +94,6 @@ Reuenthal was silent for a half second. "Maybe some other time, von Leigh," he s
 
 "Sure. See you." Reuenthal strode off down the hallway, Yang watching him go before he closed the door.
 
- 
-
- 
-
 The next day, at dinner, Yang was eating alone, stirring his tomato soup absentmindedly as he flipped through one of his history texts, jotting down notes for an essay that was due on Friday. He wasn't paying any attention to the room, and so when Reuenthal stood across the table from him and asked, "May I sit here?" Yang jumped.
 
 "Oh, yeah, of course." He leaned over pulled some of his belongings out of the way so that there was space for Reuenthal to put his tray down. He also glanced around the room to see if anyone was watching what was happening, but, for once, no one seemed to be paying attention.
@@ -160,10 +156,6 @@ When Reuenthal didn't say anything in response, Yang returned to his reading, th
 
 Yang didn't look up to meet Reuenthal's eyes, but he gave a quick nod.
 
- 
-
- 
-
 *December, 475 IC, Odin*
 
 Yang's leg healed, and now that he had something approaching a friendship with Reuenthal, his life at the IOA took on a slightly different shape. Because Reuenthal was (for some reason) willing to be seen with him in public, that meant that the portion of the class who had already looked up to or liked Reuenthal now accepted Yang as an awkward attache to their dark haired number one. If it was odd that the number one and number two students were friends instead of fierce rivals, no one commented on it in his hearing. 
@@ -171,8 +163,6 @@ Yang's leg healed, and now that he had something approaching a friendship with R
 This meant that at Wednesday lunch and every day dinner, Yang now had company. There was always Reuenthal, often Bittenfeld or Wahlen, and occasionally other members of the class who wanted to speak with Reuenthal about something or other. 
 
 Once, Eisenach, Yang's confusing mentor, had even shown up for dinner, sitting himself down across from Yang without saying a single word. He ate his pasta and meatballs while staring intently at Reuenthal for about a half hour, then got up and left. When Yang had tried to say hello, or engage him in conversation, Eisenach had stared at him to shut him up. It had been intensely odd. Later that night, Yang got a text from Eisenach.
-
- 
 
 < I like your number 1
 
@@ -182,19 +172,13 @@ Once, Eisenach, Yang's confusing mentor, had even shown up for dinner, sitting h
 
 < and don't let him drag you into things you don't want
 
- 
-
 > are you vetting my friends now?
 
 > and i told you, I don't care about rank
 
- 
-
 < just looking out for my mentee
 
 < :)
-
- 
 
 As with everything relating to Eisenach, that raised more questions than answers. Still, part of him was glad that his mentor approved of Reuenthal. He didn't know why, but there was satisfaction in that knowledge. He didn't think it was because Reuenthal's relative glory as the top student in the freshman class reflected back on him-- he really didn't care about that-- but he couldn't put his finger on what that deeper satisfaction was.
 
@@ -212,35 +196,21 @@ Yang cared less about winning these games than he did about having a kind of sec
 
 His life settled into this satisfying rhythm as the temperatures dropped and winter came to that part of Odin. During winter break, the period between the winter solstice and New Year's, there were no classes, and most students (at least those from Odin itself) chose to go home. Yang had no such opportunity, so he remained in his dorm at the IOA, grateful for the opportunity to catch up on sleep and the few assignments he had left to do. Reuenthal had returned to his family's home for break, so Yang was alone, but a few days before New Year's, he received a message.
 
- 
-
 < I'm coming back to the IOA early
 
 < I have also been invited to a New Year's party at the estate of Count Mariendorf 
 
 < Do you want to come?
 
- 
-
 > do you want me to come?
-
- 
 
 < I wouldn't invite you if I didn't
 
- 
-
 > do I have to dress up?
-
- 
 
 < You can wear your dress uniform
 
- 
-
 > are any unpleasant people going to be there?
-
- 
 
 < Almost certainly
 
@@ -248,17 +218,11 @@ His life settled into this satisfying rhythm as the temperatures dropped and win
 
 < I would hope to enjoy your company as well
 
- 
-
  > you flatter me.
 
 > I'm sure my presence would cause a scene
 
- 
-
 < If you're going to graduate from the IOA, people are going to have to get used to you eventually
-
- 
 
 Yang couldn't quite find holes in Reuenthal's logic, and since the other man was asking for his company specifically, Yang couldn't exactly refuse. He had never heard of Count Mariendorf, but he wasn't exactly well versed in the who's-who of the Imperial nobility. If there was any subject that Yang found less interesting, Yang had yet to find it.
 
@@ -441,12 +405,6 @@ Reuenthal smiled and handed Yang another glass of wine.
 “Prosit,” Yang said. 
 
 The band at the front of the room struck up in a particularly melancholy sounding rendition of Auld Lang Syne.
-
- 
-
-
-
-
 
 *January, 476 IC, Odin*
 

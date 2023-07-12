@@ -8,8 +8,6 @@ He knew that there would be no communications with Hilde and Kircheis as soon as
 
 He had one task to complete while he was waiting, and although it distracted him from the agony of waiting for Hilde and Kircheis to reappear, it was itself a delicate task that he did not expect to enjoy. As he sat on the bridge, Yang wrote out a letter, one that would be sent as soon as he destroyed the Artemis Necklace.
 
- 
-
 *Your Majesty Friedrich IV,*
 
 *Although I remember very clearly the conversation that we had on the day of Count Marbach’s funeral, where I realized that I, being a member of Duke Braunschweig’s staff, no longer could consider myself as having Your Majesty’s favor, I am writing you now asking for special consideration for my actions. I know that this is strange, and even quite impertinent, but if there was ever any small friendship between Your Majesty and this humble servant, please do consider what I have to say.*
@@ -33,8 +31,6 @@ He had one task to complete while he was waiting, and although it distracted him
 *A humble servant of the Empire’s people,*
 
 *Captain Hank von Leigh*
-
- 
 
 Letter written, Yang settled in to wait.
 

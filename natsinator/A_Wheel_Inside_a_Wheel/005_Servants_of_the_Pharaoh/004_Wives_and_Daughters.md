@@ -252,10 +252,6 @@ Hilde laughed, too, some of the somber mood broken. “Okay, Hank.”
 
 “Oh, yes!” She moved back to her own side of the table, and with slightly shaky hands poured both of them some more tea. “School is going perfectly this year,” she said.
 
- 
-
- 
-
 The count came back not too much later, finding Yang and Hilde deep in a discussion that had started out about Hilde’s time at her girls’ school and eventually meandered back to Yang talking about the SW class at the IOA. He was demonstrating how the game worked with again a pen and a piece of paper, illustrating with the help of one of the count’s books how a specific battle might have been played out by two opponents in the game. Hilde was enraptured by the idea, and she wanted to play, but unfortunately there was no one for her to play against, so she had to be content with drawing out diagrams with Yang.
 
 “You look like you’ve been busy plotting a war,” the count said as he came in, leaning on the door. “Am I interrupting something?”
@@ -479,10 +475,6 @@ Yang fiddled with his by now empty glass. “I was just thinking,” he said, �
 Franz laughed. “Leigh, you should be more aware of your own talents.”
 
 “If you say so, sir.”
-
- 
-
- 
 
 *December 479 IC, Odin*
 

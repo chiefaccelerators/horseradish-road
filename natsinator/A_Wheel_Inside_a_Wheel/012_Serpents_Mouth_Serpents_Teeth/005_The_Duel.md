@@ -134,10 +134,6 @@ Ansbach let out something that might have been a laugh. “You’re usually blun
 
 Ansbach scoffed, but returned to a businesslike tone as he gestured with the portfolio. “I’ll pass this along. If he needs to speak with you about it, it will be on Friday.”
 
- 
-
- 
-
 *July 487 I.C., Odin*
 
 Yang got his scout ships in the corridor, traveling out with one of Braunschweig’s fleets to perform a fake training exercise, then peeling off to perform their secret duties. This paid dividends far faster than anyone expected, including Yang. It was a scant month and a half later, on a sweltering early July day, that the news reached him that an Alliance supply ship had been followed through a meandering offshoot branch of the corridor, towards an inhospitable little ball of dirt: the third planet orbiting a nondescript star. 
@@ -290,11 +286,7 @@ Yang wandered back over to Braunschweig and stood at his elbow, which he ignored
 
 His phone buzzed in his pocket, and Yang pulled it out to look.
 
- 
-
 Ansbach: hurry
-
- 
 
 “Sir,” Yang said, finally trying to get a word in edgewise, “Captain Ansbach says you’re needed in the main entrance right away.”
 
@@ -350,10 +342,6 @@ Braunschweig tried to grab him again, but Littenheim was swiftly walking down th
 
 Braunschweig scowled, and Ansbach finally made it the rest of the way down the hallway. “I will write a formal challenge, sir,” Ansbach said. “And contact your hired duelist.” 
 
- 
-
- 
-
 The duel, though it was not announced in any of the papers what it was about, was the talk of the capital for the week or so leading up to it. The sums being bet were astronomical, according to Magdalena, who was listening in to all the gossip.
 
 “You’re going to it, right?” she asked on Thursday night, voice crackling over the phone. She was driving— he could tell because the wind blasting through her open-top convertible made her hard to hear, despite her practically yelling into the phone. It was quite late, so he wondered where she was going to or from. Probably some party. It didn’t matter— he was happy to talk to her on her drive. He was in bed, his phone on the pillow beside him, staring up into the dark ceiling of his bedroom.
@@ -405,10 +393,6 @@ The anxiety about the future fed his loneliness, and the loneliness fed his anxi
 If Reuenthal were here on Odin, he wouldn’t have to stand here drinking to fall asleep, that was certain. But for Reuenthal’s sake, he was glad he was off on Iserlohn with Mittermeyer. Yang made himself content with that knowledge. 
 
 So, he would stand here and drink a beer or two more, until his thoughts stopped twisting round like snakes in his mind, and he stumbled his way back through his too-hot apartment and draped himself across his bed.
-
- 
-
- 
 
 The day of the duel was sweltering. Yang wore his uniform, because he had come as part of Braunschweig’s cohort of officers, but the black fabric trapped the heat next to his body, and it was a wonder that he didn’t pass out under the hard glare of the sun’s beady eye. Magdalena fluttered her fan at his face as they sat in the stands, and Yang wasn’t sure if she was trying to be comedic or actually trying to help. In her light blue summer dress, she was far more suited to the weather than he was.
 
@@ -568,10 +552,6 @@ The crowd was silent for a second, then rose into loud jeers and cheers. Below, 
 
 Yang finished his beer. “Let’s get out of here, before everybody trying to collect on their bets starts a stampede.”
 
- 
-
- 
-
 After winning the duel, as fairly as such a thing could be won, Braunschweig was given the charter to form a small outpost and mine on Cahokia-III. He was inordinately elated about this, more so than Yang had expected, given that it was an outlay of resources that Braunschweig might have been annoyed about previously. But it seemed that winning something over Littenheim had buoyed his spirits, and when he called Yang to his office to discuss the actual taking of the planet, he was practically jovial, leaning forward on his elbows and smiling broadly.
 
 “I understand that this is a complete plan of attack,” Braunschweig said, tapping on the sheaf of papers that Yang had put on his desk in front of him. “Has Ansbach seen it?”
@@ -617,10 +597,6 @@ Ansbach and Yang both saluted, and they headed out of the office.
 “If your plan gets us both killed—” He cut himself off, shaking his head, as he marched down the hall of Braunschweig’s estate.
 
 “It’s very funny that you’re worried about me getting you killed,” Yang said, following Ansbach. “I haven’t changed that much in twelve years.” When they reached the door, where Yang was sure they would go separate ways, he tacked on, “I have to hope that you have.”
-
- 
-
- 
 
 “You don’t think he is going to kill you, do you?” Magdalena asked. Yang had stopped by her house after his day in the office was over, and in the cool of the evening, they were reclining on lawn chairs beneath her pavilion in her garden. The heady scent of flowers drifted through the air, and lightning bugs dotted the grass and sky, just now starting to light up as the sun finally descended below the treeline. He had finally needed to confess to her at least part of what was going on, since he was being sent off planet. She could be trusted to keep the secret.
 
