@@ -5,6 +5,9 @@
 ## ao3_parse.py
 
 Parses AO3 HTML fics to a folder structure ending in 1 markdown file per chapter.
+```
+python ao3_parse.py source/*
+```
 
 ## /source
 
