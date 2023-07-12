@@ -17,7 +17,8 @@ def snakey(name):
 # smh windows
 ILLEGAL_CHAR_PATTERN = re.compile(r"[<>:\"\/\\\|\?\*]")
 safe_fd = partial(ILLEGAL_CHAR_PATTERN.sub, "")
-MD_ESCAPE_PATTERN = re.compile(r"([\\\`\*\_\{\}\[\]\(\)\#\+\-\.\!\|])")
+# leave out . and _ to mostly avoid escaping urls
+MD_ESCAPE_PATTERN = re.compile(r"([\\\`\*\{\}\[\]\(\)\#\+\-\!\|])")
 escape_md = partial(MD_ESCAPE_PATTERN.sub, r"\\\1")
 
 
@@ -40,6 +41,7 @@ def html_to_md(tag):
         return ""
     if tag.name == "p":
         contents_text += "\n\n"
+    # TODO: do smth about multiple consecutive blocks of bold/italics
     if tag.name in ("strong", "b"):
         contents_text = f"**{contents_text.strip()}**"
     if tag.name in ("em", "i"):
