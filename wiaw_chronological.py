@@ -7,7 +7,9 @@ SOURCE_TSV = "wiaw timeline - Sheet1.tsv"
 TARGET_EN = "series-A Wheel Inside a Wheel"
 TARGET_ZH = "series-【授翻】轮中之轮"
 
-next_format = "---\n[Next Chronological Chapter]({link})"
+NEXT_LABEL_EN = "[Next Chronological Chapter]"
+NEXT_LABEL_ZH = "[下一章（时间顺序）]"
+NEXT_FORMAT = "---\n{label}({link})"
 
 
 def zh_idx(en_idx):
@@ -16,7 +18,7 @@ def zh_idx(en_idx):
     return en_idx - 1
 
 
-def append_next_chapter_links(filename_list, replace_str):
+def append_next_chapter_links(filename_list, next_label, replace_str):
     for idx, filename in enumerate(filename_list[:-1]):
         filesize = os.stat(filename).st_size
         print(filename)
@@ -24,14 +26,14 @@ def append_next_chapter_links(filename_list, replace_str):
             # slow lazy impl
             file_lines = chapter_fn.read().splitlines()
             final_line = file_lines[-1]
-            if final_line.startswith("[Next Chronological Chapter]"):
+            if final_line.startswith(next_label):
                 write_from = filesize - (len(file_lines[-3]) + len(file_lines[-2]) + len(file_lines[-1]) + 2)
             else:
                 write_from = filesize
             chapter_fn.seek(write_from)
             chapter_fn.truncate(write_from)
             next_filename = filename_list[idx + 1].replace(replace_str, "..")
-            chapter_fn.write(next_format.format(link=urllib.parse.quote(next_filename)))
+            chapter_fn.write(NEXT_FORMAT.format(label=next_label, link=urllib.parse.quote(next_filename)))
             chapter_fn.write("\n")
 
 
@@ -75,8 +77,8 @@ def main():
         except IndexError:
             continue
 
-    append_next_chapter_links(filenames_list_en, TARGET_EN)
-    append_next_chapter_links(filenames_list_zh, TARGET_ZH)
+    append_next_chapter_links(filenames_list_en, NEXT_LABEL_EN, TARGET_EN)
+    append_next_chapter_links(filenames_list_zh, NEXT_LABEL_ZH, TARGET_ZH)
 
 
 if __name__ == "__main__":
