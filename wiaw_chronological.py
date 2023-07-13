@@ -16,6 +16,25 @@ def zh_idx(en_idx):
     return en_idx - 1
 
 
+def append_next_chapter_links(filename_list):
+    for idx, filename in enumerate(filename_list[:-1]):
+        filesize = os.stat(filename).st_size
+        print(filename)
+        with open(filename, "r+") as chapter_fn:
+            # slow lazy impl
+            file_lines = chapter_fn.read().splitlines()
+            final_line = file_lines[-1]
+            if final_line.startswith("[Next Chronological Chapter]"):
+                write_from = filesize - (len(file_lines[-3]) + len(file_lines[-2]) + len(file_lines[-1]) + 2)
+            else:
+                write_from = filesize
+            chapter_fn.seek(write_from)
+            chapter_fn.truncate(write_from)
+            next_filename = filename_list[idx + 1].replace(TARGET_EN, "..")
+            chapter_fn.write(next_format.format(link=urllib.parse.quote(next_filename)))
+            chapter_fn.write("\n")
+
+
 def main():
     # read the source csv file
     keys = None
@@ -31,7 +50,8 @@ def main():
     # TODO: implement partial chapters once given some kind of search string for where to anchor link
     # for now only take first entry
     dedupe = set()
-    filenames_list = []
+    filenames_list_en = []
+    filenames_list_zh = []
     for entry in data:
         book = entry["Book"]
         try:
@@ -44,25 +64,19 @@ def main():
         # en
         try:
             filename = glob.glob(f"{TARGET_EN}/*-{book}/{chapter:03}*")[0]
+            filenames_list_en.append(filename)
         except IndexError:
             continue
-        filenames_list.append(filename)
-    for idx, filename in enumerate(filenames_list[:-1]):
-        filesize = os.stat(filename).st_size
-        print(filename)
-        with open(filename, "r+") as chapter_fn:
-            # slow lazy impl
-            file_lines = chapter_fn.read().splitlines()
-            final_line = file_lines[-1]
-            if final_line.startswith('[<div style="text-align: right">Next Chronological Chapter</div>]'):
-                write_from = filesize - (len(file_lines[-3]) + len(file_lines[-2]) + len(file_lines[-1]) + 2)
-            else:
-                write_from = filesize
-            chapter_fn.seek(write_from)
-            chapter_fn.truncate(write_from)
-            next_filename = filenames_list[idx + 1].replace(TARGET_EN, "..")
-            chapter_fn.write(next_format.format(link=urllib.parse.quote(next_filename)))
-            chapter_fn.write("\n")
+        # zh
+        index = int(filename.split("/")[1].split("-")[0])
+        try:
+            filename = glob.glob(f"{TARGET_ZH}/{zh_idx(index):03}-*/{chapter:03}*")[0]
+            filenames_list_zh.append(filename)
+        except IndexError:
+            continue
+
+    append_next_chapter_links(filenames_list_en)
+    append_next_chapter_links(filenames_list_zh)
 
 
 if __name__ == "__main__":
