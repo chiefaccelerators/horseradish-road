@@ -16,7 +16,7 @@ def zh_idx(en_idx):
     return en_idx - 1
 
 
-def append_next_chapter_links(filename_list):
+def append_next_chapter_links(filename_list, replace_str):
     for idx, filename in enumerate(filename_list[:-1]):
         filesize = os.stat(filename).st_size
         print(filename)
@@ -30,7 +30,7 @@ def append_next_chapter_links(filename_list):
                 write_from = filesize
             chapter_fn.seek(write_from)
             chapter_fn.truncate(write_from)
-            next_filename = filename_list[idx + 1].replace(TARGET_EN, "..")
+            next_filename = filename_list[idx + 1].replace(replace_str, "..")
             chapter_fn.write(next_format.format(link=urllib.parse.quote(next_filename)))
             chapter_fn.write("\n")
 
@@ -75,8 +75,8 @@ def main():
         except IndexError:
             continue
 
-    append_next_chapter_links(filenames_list_en)
-    append_next_chapter_links(filenames_list_zh)
+    append_next_chapter_links(filenames_list_en, TARGET_EN)
+    append_next_chapter_links(filenames_list_zh, TARGET_ZH)
 
 
 if __name__ == "__main__":
