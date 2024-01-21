@@ -244,6 +244,8 @@ With an attempt at his usual dry tone, trying to clear the tension, Reuenthal sa
 
 Hilde pulled herself out of Yang’s grasp and ran to Reuenthal, wrapping her arms around him and burying her face in his shirt. Like the hug he had once received from Yang, the touch startled him, but he attempted to comfort the sniffling girl. He was glad she hadn’t gotten hurt. “I’m sorry you had to see that, Fraulein.” When that didn’t calm her, he tried to pat her shoulder. “It’s okay.”
 
+---
+
 Lunch with Count Mariendorf was an awkward affair, but he was kind enough not to bring up whatever had caused Hilde to clutch Reuenthal’s sleeve on the way out of the dorm rooms and rub her red eyes with her other hand. He had asked if the three of them were alright, and when everyone had responded in the affirmative, he had nodded and given Reuenthal a look that made Reuenthal look away.
 
 After that meal, Yang walked around campus with the Mariendorfs for a while, and Reuenthal returned to his room.
@@ -448,6 +450,8 @@ Yang’s breath caught. “What are you saying?”
 
 “Yes,” Yang whispered. “It is.”
 
+---
+
 *June 479 I.C., Iserlohn Corridor*
 
 Reuenthal had one luxury as the most junior officer on board his assigned ship, and that was a tiny cabin of his own. He shared the head with three other officers, but his bed and desk were surrounded by four walls and not a stack of other beds. He didn’t have much, but he did have a photograph of all his friends from the IOA taped above his desk, and hanging on the wall above his bed was his sword. If the ship was ever struck while he was sleeping, it would fall down onto him, but Reuenthal decided that would be the least of all his problems.
@@ -487,8 +491,6 @@ Outside the observation window, the stars seemed to smear out as the ship began 
 The stars felt like steel swords, frozen and rushing all at once, the ship crashing through the fabric of space to meet them. He decided he wouldn’t mind if something cold and distant and beautiful like that was what killed him eventually. There were worse things to be pierced by than a sword made of stars.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 i don't think i'm completely satisfied with the way this ends so tbh i might just cut the last scene. but i wanted to make this not quite a copy/paste from SiT so... i suppose this is the danger of "rewrite the story from the other perspective" lol. you can be the judge on if i succeeded or failed in making this engaging.
 

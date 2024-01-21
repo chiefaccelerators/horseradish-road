@@ -102,6 +102,8 @@ Konev rolled his eyes, though Yang, with his hat pulled down over his face, coul
 
 Konev just smirked.
 
+---
+
 And so, the next Saturday, Yang was reluctantly dragged along to a building owned by the Imperial embassy on Phezzan, where he and Konev joined the long line of other young men milling around, waiting to go in and take the exam. Konev blended right in, being blonde and bold, but Yang looked nothing like any of the other prospective students and felt extremely awkward as he leaned against the wall and read the book he had brought.
 
 Everyone filed in one at a time, speaking to a bored clerk.
@@ -153,6 +155,8 @@ He had, as he saw it, two choices: write what his actual thoughts were about thi
 *Did you simply tell a story that you yourself felt was believable?*
 
 *Well, I would say more, but I've spent so much time picking through your evidence and writing what I thought you might want to see that I've run out of time. I suppose I should thank you for the challenge, if nothing else.*
+
+---
 
 Yang met up with Konev as soon as they were released from the testing area for lunch. There was a small courtyard where most people were milling around, eating whatever they brought or bought from the street vendor outside. Yang was in that latter category, and devoured his pita wrap before he could say anything to Konev, who seemed to be in the depths of despair. Konev was so down that he didn't notice that the other students were watching them, some suspicious looks on their faces. Yang tried to ignore them.
 
@@ -323,8 +327,6 @@ Heirmark scowled, sizing up Konev and deciding that he wouldn’t win in a fight
 Yang, still slightly out of breath from being punched, nodded, gave a goodbye shrug to the rest of the onlooking test takers, then followed Konev out towards the street.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Hope you enjoyed chapter 1, which is essentially "Yang takes the APUSH exam for funsies."
 

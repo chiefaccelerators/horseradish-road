@@ -128,6 +128,8 @@ They were pulling into the parking lot of the medical center now. “I won’t s
 
 She had no idea what he meant by that.
 
+---
+
 The doctors at the medical center took one look at Ingrid and declared that she was not going anywhere, with anyone, for any reason, until her condition improved. Annerose couldn’t exactly argue with that, since Ingrid had barely been able to breathe, in a way that scared her. Her fingertips had been blue, and she had been unable to sleep.
 
 Still, Annerose felt bad about leaving her with the doctors, especially since Ingrid looked at her with such a sad expression on her face when Annerose explained to her, translating for the doctor, that Ingrid had to stay, while Annerose had to leave. 
@@ -394,6 +396,8 @@ She ate the ice cream sandwich, the cold giving her something to focus on, somet
 
 “Thanks,” Annerose said, and it was actually a relief.
 
+---
+
 Ingrid stayed at the medical center for over a week. Annerose visited her daily, and Ingrid’s eyes always lit up when she came. Being trapped in the medical area was clearly not doing Ingrid any good, for all that she was being treated well and given plenty of books to read and tv to watch in the imperial language. 
 
 Annerose was on her way into the medical center, after her duty hours at work were over, bearing a small box containing a fruit tart for Ingrid. She was stopped in the hallway before she arrived at Ingrid’s room, though, by one of the Rosenritter guards, Spaceman Leitner.
@@ -481,6 +485,8 @@ He paused. “Of course.” His smile was sickening.
 “Not a problem,” Trunicht said. “You let me know if there’s anything I can do for you, Ms. von Müsel.”
 
 Lieutenant Commander, Annerose thought, but Trunicht had already shut the car door in her face, and was starting the engine, a loud, roaring thing. She watched him drive away, then turned to go back in to talk to Ingrid, feeling disgusted and bitter with the world and herself.
+
+---
 
 Technically, Ingrid had her own apartment. Annerose brought her to it and they stood in it for a minute, the sink dripping a little in the kitchen, the sound echoing cavernously around the completely unfurnished rooms and bare walls. Ingrid looked around, shoulders slumping a little bit, and Annerose ran her finger over the dust accumulated on the windowsill, looking down about ten floors to the street outside.
 
@@ -823,8 +829,6 @@ He smiled. “I’ll see you tomorrow, then, Annerose.”
 “Yeah,” she said. “Tomorrow.”
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Not a ton happens in this chapter but that’s ok haha. Annerose, like many of the protagonists of this fanfiction, is a person with many problems lmao.
 

@@ -92,6 +92,8 @@ Sid was frowning, but asked, “So, what are the actual odds?”
 
 “I don’t know precisely,” Yan lied. “Look them up yourself before the ship jumps.”
 
+---
+
 Dinner that night with the crew of the *Sky Boat* was a slightly awkward affair. Captain Lida was nowhere to be seen, which left her first officer, her son Joun, to do his best approximation of entertaining the important guests during the meal.
 
 The mess hall was so like the one aboard the *Iron Dreams*, complete with large window out into the darkness of space, showing the stars slipping by as the ring rotated. The opposite wall was covered in photographs and memorabilia of the Migollen family, all neatly arranged, smiling redheads. The room was filled with long tables and benches, and everyone got their own food on trays from the serving station that looked into the hot industrial kitchen. One of the tables was just long enough to fit all of the apprentices’ party, plus Joun, who kept sneaking amused glances across the room at some of his family members, who Yan suspected were gossiping about their guests.
@@ -141,6 +143,8 @@ Joun chuckled. “No? You don’t think that someone could put a price on your p
 “They wouldn’t dare,” Sid said.
 
 Yan certainly hoped that was the case.
+
+---
 
 After seven days aboard the *Sky Boat*, Yan was both feeling better about the crew and their journey, and feeling the first touches of stir\-craziness, the kind that only came from not having any tasks to do. If she had been on her family’s ship, she would have been working shifts around the ship, doing something useful. If she had been at work on Emerri, she would have had a full schedule with new and interesting things to do every day. But here, no matter how she lurked near the greenhouse and asked if anyone might like a hand, or stuck her head in the kitchen and offered to wash some dishes, or wandered down to the workshops and tried to offer her assistance with maintenance tasks, everyone very politely rejected her help. She suspected that they were laughing behind her back. 
 
@@ -461,8 +465,6 @@ The animosity coming from Joun’s family members was thick in the air. Yan just
 As they passed through the cold halls of the *Sky Boat*, Yan realized that nobody had mentioned that her family would hear about her behavior. She wasn’t even enough of a spacer for her family to be made ashamed of her.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 *speed bonnie boat like a bird on the wing / onward, the sailors cry / carry the lad who's born to be king / over the sea to skye*
 

@@ -80,8 +80,6 @@ Yang answered the call immediately, and the image of Kircheis flickered onto the
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 a very short chapter, but we had to get yang's part out of the way lol
 
 i admittedly do love when canon hands me a fun little technical puzzle and asks me how I would solve it. this is one, iserlohn is another, you know. thank you mr tanaka. i do love a brain teaser :3c though probably i'm leaning a little bit hard on "the artemis necklace is not very well designed \(or is intentionally poorly designed\)" but all of this is extrapolations from what is seen in the OVA\-\- it is in a rock cloud after all, and not constantly firing on those rocks. so it has to have some kind of target discrimination, unless it's actively tracking every tiny piece of debris in the planet's orbit,which seems... not that feasible :p

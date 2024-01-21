@@ -138,6 +138,8 @@ Bucock shook his head. “With communications so limited, I will need you to bri
 
 Reinhard saluted and went.
 
+---
+
 Reinhard’s initial report to Trunicht ended up being very perfunctory. Since there was still no information about the status of the operation of the ground, he could only report the successes they had had prior to the destruction of the space elevator, and the problems that had begun after it. Reinhard sketched out what he thought their most critical needs would be, and Trunicht had been extremely non\-committal about the idea of providing more resources. He kept pivoting the conversation back to a list of things that had gone according to plan, and told Reinhard that was plenty to work with for now.
 
 “Has Rubinsky surrendered?” Trunicht asked. “I’d like to be able to say that with a smiling face when I speak to the public.”
@@ -284,6 +286,8 @@ Reinhard’s expression hardened, and he snapped his tone back to businesslike. 
 
 “They should put your sister in the frame,” Dominique said. “She’s extremely photogenic.”
 
+---
+
 It was another several hours before good news made its way up from the surface of Phezzan, and this was, in fact, good news. A shuttle carrying the status of Captain Schenkopp’s team and the first recovered pieces of data from the Navigation Office’s computers arrived first, and Reinhard’s voice was on the border between triumphant and relieved when he passed that news off to Secretary Trunicht. Even if it was only a partial recovery of data, since the Navigation Office had been trying to wipe all of their computers even as Schenkopp stormed the building, that was enough to get Admiral Greenhill’s ships moving faster through the corridor, and to Odin.
 
 The second shuttle arrived not too long afterwards, and this one carried passengers, if unwilling ones. The captured members of the Imperial embassy were brought to the flagship and held. Since they were the only prisoners worth speaking of \(any members of the Phezzani government were being held on Phezzan itself, and would be released as soon as Kesselink signed the planet’s surrender\), they were given prompt medical treatment and a hot meal, though all of them were locked in one of the holding rooms with guards on the door.
@@ -418,6 +422,8 @@ Reinhard raised his eyebrows. “What changed your mind?”
 
 They shook on it.
 
+---
+
 Two weeks later, the situation around Phezzan remained the kind of semi\-organized chaos that made everyone feel their lack of sleep acutely. Admiral Bucock had gone down to the surface of Phezzan, along with all of the remaining ground troops, in order to keep the peace on the planet. With the space elevator destroyed, various supply shortages were quickly becoming dire, though Bucock, in his letters reporting his status couriered up on shuttles daily, said things were progressing about as well as expected. Reinhard believed him; he wasn’t the type to lie. Still, it was his responsibility to massage the news to Trunicht and the High Council, in order to be able to report a positive situation to the rest of the Alliance, to justify the invasion, while simultaneously making it clear exactly what Bucock needed to *keep* things going as smoothly as possible on Phezzan.
 
 Only time would tell if Reinhard’s efforts on that front would really bear fruit. Things tended to move slowly in the High Council, where money was concerned, anyway, and Reinhard was asking for a lot of money. And with Phezzan’s elevator destroyed, taking control of their economy had done less to help the Alliance’s immediate financial burden than everyone had been hoping.
@@ -538,11 +544,11 @@ Dusty just rolled his eyes. “When you actually outrank me, I’ll cry.”
 
 “I look forward to it.”
 
+---
+
 Four days later, scouts reported a fleet of Imperial ships moving at top speed through the Alliance side of the Phezzan corridor.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 well... here we are. over a year later, we've finally made it to the end of this part of noodle's wild ride haha. 
 

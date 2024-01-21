@@ -68,8 +68,6 @@ She smiled at him, but he just nodded and turned back inside, shutting the door 
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 i know the poor downton abbey reader is probably like "noodle, why the fuck have you introduced a new and unknown character in the epilogue, of all things". and i'm sorry. but i love hilde so i thought it was fun to get to sneak her in here.
 
 anyway, i hope you have enjoyed reading this story <33 it's been very entertaining to write. i know that it was a bit of a silly premise from the getgo, but i hope that regardless of which side of the canons you came in from, that you've had a good time reading.

@@ -188,8 +188,6 @@ Iserlohn fortress had been captured, and the Embassy’s new orders were, regard
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 boy i wonder what phezzan's up to :p
 
 i hope my "muller regurgitates a half remembered rein blog post to infodump phezzan's economics" is a\) not boring and b\) at least makes a /little/ sense lol. i try. i'm not an economics expert unfortunately 😅 why i have written a series that foregrounds it, i couldn't really tell you lol. b/c i have terminal "i need to explain how things work" hard sf writer brain ig. the unholy lovechild of victor hugo and kim stanley robinson that lives in my brain and rattles the bars of its cage occasionally

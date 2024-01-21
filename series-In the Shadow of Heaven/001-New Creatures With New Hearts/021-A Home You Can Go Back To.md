@@ -326,6 +326,8 @@ Yan thought of sprinkling Sylva back, but the thought left her mind as Sylva’s
 
 Yan could have stayed like that forever, but instead she shuffled slightly sideways, so that she was between Sylva’s knees on the counter, and she mirrored the touch on Sylva’s cheek. It would have been very easy for her to say something to Sylva through the power, but there wasn’t really anything else to say, and then Sylva was leaning forward, bumping her nose on Yan’s, almost falling off the counter except for the fact that Yan was there to keep her upright, and kissing her.
 
+---
+
 It was much later that Yan left Sylva’s house. The sun was going down, and Iri was still waiting in the car. She smirked at Yan as she got in the car. “Have a good time?”
 
 “If I had stayed all night, you wouldn’t be laughing.”
@@ -377,8 +379,6 @@ There was a momentary silence on the end of the line, and Yan heard the telltale
 “Stay where you are,” Iri said.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 only one more chapter\! whooo
 

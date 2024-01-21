@@ -144,6 +144,8 @@ Reinhard shook his head, almost laughing a little. Hadn’t he used almost that 
 
 Reinhard didn’t have a response to that, so he just nodded, and then turned and left before anyone else could trap him in conversation.
 
+---
+
 While his visit to the Earth Church had been interesting, to say the least,  it hadn’t really given Reinhard that much insight into how they operated, aside from giving him a sense of how devoted the church’s followers were. They seemed *very* devoted. He wondered exactly how much theological liberties each of the little churches took— were they united under a strict common doctrine? How much room was there for personal interpretation when delivering a sermon? Although he was curious, he was not inclined to continue attending Earth Church services until that question was answered.
 
 Instead, he wanted to focus on the task at hand: finding out what the Earth Church was trying to gain by sending Ingrid to the Alliance specifically. He needed to know what their overall plan was within the Alliance. Even if their main goal was to install a favorable ruler within the Empire, there was no action within the Empire that did not also affect the Alliance, and the other way around. Despite the fact that the two sides were at war, there was a delicate balance within the galaxy, and while the eventual death of the kaiser would disrupt it, the idea of this third power attempting to manipulate the situation for their own gain put a bad taste in Reinhard’s mouth.
@@ -378,6 +380,8 @@ Muller frowned and looked about to say something else, but Reinhard was already 
 
 Reinhard offered his hand to shake. Muller looked at him oddly for a second, and seemed about to refuse, then shook it.
 
+---
+
 More progress came a few days later, when Reinhard’s CO updated him on the situation with Ingrid. They had gotten permission to bring her to the Alliance, but the difficulty was in getting her there. There could be no military ships moving through the Phezzan corridor, aside from the tiny transport that brought new staff to the embassy and High Commissioner’s office, and that was heavily searched by the Phezzan police, for obvious reasons, going in both directions.
 
 “You’ll have to put her on a merchant vessel,” Reinhard said, sitting in Blackwell’s office, eyeing the goldfish swimming around in the tank behind him.
@@ -481,6 +485,8 @@ Reinhard’s smile was thin. “Yes, sir.”
 “You do that,” Blackwell said. “I’m glad you’re so willing to take responsibility for this problem you’ve dropped on our laps.”
 
 Reinhard bit his lip in order to not respond to that.
+
+---
 
 Reinhard thought, very carefully, about how to get the imperial embassy off their scent. Of course, the imperials couldn’t track every ship coming in and out of Phezzan airspace going to the Alliance, there were hundreds, if not thousands, per day. But they would certainly take note of Ingrid the moment she traveled up the space elevator, as that was carefully watched, and since they probably already knew that there was someone trying to defect, they would probably have a ship at the ready. Reinhard would have liked to have put Ingrid on a shuttle and take off from the planet, but Phezzan was highly protective of their air quality, and hated all ships coming and leaving through the atmosphere, even the imperial types, which were designed to descend through the atmosphere.
 
@@ -591,6 +597,8 @@ She nodded. “Go in peace,” she said.
 Reinhard nodded and left, scooting out of the pew and walking back down the aisle of the church. He glanced back at her once, and she hadn’t moved at all, still staring contemplatively up at the altar. He shook his head and turned away.
 
 He didn’t know why the bishop hadn’t come. Perhaps it was manipulation, of some sort. He could probably understand that Reinhard liked Ingrid better than him, and that Reinhard thought Ingrid was a merely a tool and not a dangerous actor in her own right. Removing the bishop from the equation might have Reinhard let his guard down. Reinhard would have agreed that he liked Ingrid significantly more than he liked Bishop Degsby, but he was intelligent enough to be aware that underestimating Ingrid von Roscher could be a fatal mistake. 
+
+---
 
 Reinhard had spoken to Commodore Blackwell, and had gotten permission for this excursion. He didn’t think that Blackwell had gotten permission from anyone, but Reinhard was going to turn a blind eye to that fact. It suited him fine, if the High Commissioner’s office on Phezzan was able to operate a little bit independently.
 
@@ -855,8 +863,6 @@ Reinhard ignored him, and Muller left, the door of the cabin slamming shut in a 
 *Captain Hank von Leigh*
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Sorry for the wait on this one ;\-; idk what happened. probably a combination of factors that’s not worth going into haha. But I’m still here. honestly you can feel free to pester me if it looks like I’m not writing. i guess sometimes the brain needs a break, anyway.
 

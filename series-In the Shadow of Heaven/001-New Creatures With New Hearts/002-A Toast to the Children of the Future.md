@@ -184,7 +184,5 @@ He uncorked the bottle with his power, not bothering with a corkscrew, and poure
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 Thanks to Jade for the beta read.
 

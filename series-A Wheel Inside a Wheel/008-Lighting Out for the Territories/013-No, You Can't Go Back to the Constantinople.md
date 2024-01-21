@@ -172,6 +172,8 @@ That made Dusty smirk. “We couldn’t have that, could we?” He tilted his he
 
 And then the two vanished out of sight.
 
+---
+
 Annerose’s house was the same as he had left it, on the outside, and even standing in the doorway, he could hear Annerose happily chatting with Julian, the sounds drifting out the open window. He had arrived home by taxi, wanting to surprise her. She had known that he was coming back to Heinessen in general, but he hadn’t given a date. When he rang the doorbell, Annerose opened the door and blinked in surprise before wrapping him in the tightest hug she could give. This was rib\-crushing, but he didn’t mind at all.
 
 “Reinhard\! What are you doing here?\!”
@@ -703,8 +705,6 @@ He was grateful that she didn’t bring up the fact that Schenkopp was that much
 She just shook her head again, and they drove in silence the rest of the way.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 as promised, a monday chapter.
 

@@ -188,6 +188,8 @@ From behind them, they could hear hoofbeats approaching\-\- Lady Sybil following
 
 “Of course,” Reinhard said. “There’s no rush.”
 
+---
+
 The sun was well on its way down by the time that Reinhard, Kircheis, and Sybil returned to the house. The sky had filled with thick clouds, and the wind continued to blow. Behind the house, in a firepit, some of the house staff were burning branches and leaves that they had gathered from the pristine lawn, a roaring blaze that sent a hazy cloud of sweet\-smelling smoke driven near\-sideways towards the trees. Rather than go inside, it seemed as though everyone who had returned from the hunt stabled their horses and returned their guns and then stood around the fire, drinking thermoses of coffee that the servants brought out.
 
 Mecklinger and Mittermeyer were spattered completely in mud, but Mittermeyer was cheerful anyway. Reinhard greeted them and asked how their hunt had gone.
@@ -325,8 +327,6 @@ Looking at his uniform, the captain restrained a flinch, then saluted sharply. �
 Sybil looked like she could have wept with relief. “Of course\!” She turned and sprinted across the yard, faster than Reinhard would have thought possible in her skirts. Kircheis followed, and they vanished into the dark stone house.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 noodle can have little a animal symbolism... as a treat. for context, please read Life Out of Balance, Chapter One
 

@@ -42,6 +42,8 @@ N. Rome
 
 Phezzan
 
+---
+
 **About the Author**
 
 Nat Rome is the author of several historical and fantasy novels. Rome received a degree in space engineering from Mittermeyer Polytechnic Institute on Phezzan, and worked as a teacher and engineer before discovering a passion for writing. 

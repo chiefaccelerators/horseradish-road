@@ -64,6 +64,8 @@ That did make him smile. “Even though you think I should be content?” He was
 
 “I’d prefer you to be happy,” she said. “And if it takes making the Secretary of Defense listen to you, so be it.”
 
+---
+
 It didn’t take that much convincing to get Fredrica on board with meeting up. Reinhard didn’t tell her that his intent was to pester Captain Fork, but when she said that the only time that she could possibly spare to see him was lunch on Sunday, but that Fork was meeting her right after, Reinhard said, “Well, why don’t you invite him to lunch, too? I’d love to meet him properly.”
 
 Fredrica agreed.
@@ -318,6 +320,8 @@ As he went, he could hear Fork say, “You always talk about him in such a compl
 
 Reinhard was out of hearing distance before Fredrica could reply.
 
+---
+
 Either Fork had passed along the message, or Trunicht had decided that Reinhard had had enough of his forced stillness, because it was Tuesday when Reinhard received a summons to Trunicht’s office. He presented himself, saluting at the door. The day was cloudy, unlike the last time he had been here, so Trunicht’s face was not so difficult to look at with his back to the window, and the dramatic effect was limited to what was conferred only by the height of the office, looking down at the city below.
 
 “Well, Captain von Müsel,” Trunicht said. He didn’t stand up from his desk, but he steepled his hands in front of his lips. “It’s been a while.”
@@ -494,6 +498,8 @@ Trunicht smiled. “Good. Then I’m glad we understand each other.” He shifte
 
 “No, sir,” Reinhard said. “I hope not.”
 
+---
+
 Reinhard emerged from Bishop Martine’s office with a sick feeling in his gut. He wasn’t normally the type to shy away from action, but his four hour conference with the bishop had slowly made the scale of what they were about to do clearer in his head. He had known on an intellectual level that the Earth Church had its fingers everywhere on Phezzan, that they were getting money from somewhere more than just the pockets of their members, but he hadn’t realized the full scope. During the meeting, Reinhard would say something to Bishop Martine that would need to happen, expecting that it would need to be broken down into smaller pieces, that it would take time, but Martine would simply say, “That can be arranged,” and would make a note. If Reinhard asked the specifics, he was given answers that revealed enough to let him know that the Earth Church was not lying when they described what they could do. And he was sure that this was the Earth Church still hiding some of their true influence.
 
 Phezzan’s government had always been a loose association of hazy financial entities. The planet’s charter, which allowed them to operate somewhat independently of the Empire, did not allow them to form much of an independent government. They circumvented this neatly by offloading most of the functioning of the planet into vast corporations, which regulated themselves and operated with little oversight. The Phezzani government exchanged money, collected sales tax, issued charters, and very little else. The real power on the planet came from every corporation that made its home there, and the Earth Church owned, or at least had a controlling stake, in a sizeable fraction of them.
@@ -610,9 +616,7 @@ Reinhard scowled. “Just don’t tell her, mom.”
 
 ## Chapter End Notes
 
-Chapter End Notes
-
-better late than never on this chapter i suppose >.>
+better late than never on this chapter i suppose \>.\>
 
 reinhard awkwardly inserting himself into fredrica and fork's date was a questionable choice but whatever lol
 

@@ -70,6 +70,8 @@ She laughed at him for that. “You wouldn’t know good taste if it bit you. Bu
 
 Luckily, they were at a stop light, so when Magdalena leaned over to nip at Yang’s earlobe, she didn’t send the car swerving off the road.
 
+---
+
 *November 487 I.C., Odin*
 
 Yang had been to Neue Sanssouci many times, so many that he had lost count, so it wasn’t unfamiliarity that was making him nervous as he waited in the formal hall for the audience with the Kaiser. He had even been to these audiences before, tagging along after Duke Braunschweig a couple times, so he was familiar with the procedure. Every party who had some stake in the business of the day was gathered in the great hall, waiting for the Kaiser to come in and give his judgements or favors or, more rarely, punishments to those he needed to speak to. Lately, because of the Kaiser’s declining health, this duty had often been performed by the prime minister, instead. As Yang stood in the hall, shuffling nervously on his toes, he expected that it would be Lictenlade’s dour figure who emerged from the heavy doors at the end of the room.
@@ -290,6 +292,8 @@ Luckily, Yang’s disappearance from the crowd had allowed the crowd to disperse
 
 Yang shoved the silver scroll into her hands. “Let’s get out of here,” he said.
 
+---
+
 Although Magdalena acted nothing but thrilled about Yang’s change in fortunes, Yang couldn’t bring himself to share her enthusiasm. When she sent him back to his apartment, leaving him alone with his thoughts for the first time that day, Yang could do nothing but pace back and forth in front of the fireplace, occasionally interrupting his tracks around the room to go run over to his desk and scribble a passing thought down on a scrap of paper.
 
 He had no desire to rule, or inherit, or participate in the structure of Imperial society. It was a cruel joke that the Kaiser was playing on him, and the Kaiser had to know that. Friedrich had always appreciated Yang for his complete lack of enthusiasm in the palace’s power games: he wasn’t a crawling status seeker; he was nobody, and wanted to stay nobody. Friedrich probably was amused at Yang’s expense, even if the gift, and talk of friendship, had been genuine. He probably thought that giving Yang status of his own would be a way to protect him after his death, moreso than just being married to Magdalena. 
@@ -352,6 +356,8 @@ Yang laughed. “I can always count on her.” But then he sighed and glanced ou
 
 “I think I will,” Yang said, making his decision. “I really should go see the Mariendorfs.”
 
+---
+
 Although Yang had professed his desire to go visit the Mariendorfs with nothing but an honest heart and good intentions, he procrastinated. He felt, still, perhaps always, like a child who knew they had done something wrong. It was the same feeling that had kept him away from Count Mariendorf after he returned home in disgrace from El Facil. 
 
 So, he waited until Magdalena really snapped at him one day after dinner, while they sat in her living room. She kept asking Yang questions about what his plans were, and she grew more and more frustrated by his complete lack of answers.
@@ -397,6 +403,8 @@ He should have told her his real name— it wouldn’t have cost him anything. B
 “Nevermind,” she said, when he was silent for a moment too long. She seemed to have recovered herself a little bit, and she flipped a switch in her persona, smiling a courtly smile and turning to touch his arm delicately. “I’m being difficult again.You should tell me off when I start being unreasonable.”
 
 “You’re not being unreasonable,” he said. “I think you’re right.”
+
+---
 
 Yang went to the Mariendorf house the next day. Hilde was away, staying late for the day at her university, so it was just the count who was there to speak to him, at least when he arrived. According to her father, she was supposed to be back soon, but Yang had no idea what ‘soon’ meant. And, besides, it was probably for the best that he could speak with the count alone. Hilde would jump far too quickly to Yang’s defense, had she been there.
 
@@ -550,6 +558,8 @@ Yang sighed. “I will write up as comprehensive a directive as I can, and have 
 
 “She covers up my glaring weaknesses pretty well,” Yang said. He thought about their argument of the night before, the image of Maggie twisting the ruby engagement ring around her finger. He reached to refill his glass of whiskey, and the count didn’t object. “She’s too good for me.”
 
+---
+
 On Monday, Yang made his way to the Braunschweig manor. It was ostensibly a trip to discuss with Duke Braunschweig what supplies they needed to put on Cahokia, as well as various bases around the Empire, but Yang also wanted to see Elizabeth. He had a strange feeling about Hilde’s new position, and so he wanted to see what Elizabeth had to say.
 
 Unfortunately, when he arrived at the Braunschweig house, she was nowhere to be seen. The butler said that she was out with her mother, and he led Yang to Braunschweig’s office, where another, even less pleasant, surprise was waiting for him.
@@ -690,8 +700,6 @@ Ansbach rolled his eyes, and dropped the stub of his cigarette. He ground the gl
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 lol there's a bunch to say about this chapter i suppose.
 
 poor yang is truly learning the meaning of "suffering from success" lol.
@@ -714,5 +722,5 @@ i'd love to hear what you all think <3 we're moving swiftly towards the second h
 
 thank you so much as always to em for the beta read\!
 
-you can find me on tumblr @ javert , twitter @ natsinator , gayspaceopera.carrd.co , and on discord  https://discord.gg/2fu49B28nu
+you can find me on tumblr @ javert , twitter @ natsinator , gayspaceopera.carrd.co , and on discord https://discord.gg/2fu49B28nu
 

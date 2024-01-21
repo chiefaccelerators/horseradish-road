@@ -24,6 +24,8 @@ V/r,
 
 Captain Hank von Leigh
 
+---
+
 *February 12, 487 I.C.*
 
 Dear Captain von Leigh,
@@ -43,6 +45,8 @@ Though I hear he’s been sent to the front, if you should happen to see him amo
 Respectfully,
 
 Lt. Cmdr. Neidhart Muller
+
+---
 
 *February 22, 487 I.C.*
 
@@ -70,6 +74,8 @@ I won’t demand that you work for me, but I would like you to write me back any
 
 \-Hank
 
+---
+
 *March 5, 487 I.C.*
 
 Captain Leigh,
@@ -85,6 +91,8 @@ Who killed Prince Ludwig?
 Respectfully,
 
 Neidhart Muller
+
+---
 
 *March 10, 487 I.C.*
 
@@ -106,6 +114,8 @@ That should answer the question to your satisfaction.
 
 P.S. Ignore the letter that you will receive tomorrow, and if you’re going to respond, don’t mention this one. I have gone to a great deal of effort to ensure that my letters to you are only being read by the people who are intended to see them, but the same cannot always be said for your letters to me.
 
+---
+
 *March 11, 487 I.C.*
 
 Muller,
@@ -117,6 +127,8 @@ I don’t know who killed Prince Ludwig. Who benefits most from him being dead? 
 Let the dead bury the dead, Muller.
 
 \-Hank von Leigh
+
+---
 
 *March 15, 487 I.C.*
 
@@ -136,6 +148,8 @@ Respectfully,
 
 Neidhart Muller
 
+---
+
 *March 17, 487 I.C.*
 
 Muller,
@@ -151,6 +165,8 @@ So, I’ll ask you. How much contact do you have with him, anyway? And what’s 
 And, to gather information with a different tack, I assume you are watching the Earth Church? Just to confirm or deny the things he’s saying, at least?
 
 \-Hank
+
+---
 
 *March 22, 487 I.C.*
 
@@ -172,6 +188,8 @@ Respectfully,
 
 Neidhart Muller
 
+---
+
 *April 1, 487 I.C.*
 
 Muller,
@@ -186,6 +204,8 @@ But that’s the thing about belief and hope: they persist regardless of the evi
 
 \-Hank
 
+---
+
 *April 10, 487 I.C.*
 
 Leigh,
@@ -196,6 +216,8 @@ Respectfully,
 
 Neidhart Muller
 
+---
+
 *April 15, 487 I.C.*
 
 Muller,
@@ -203,6 +225,8 @@ Muller,
 Sub\-lieutenant Kircheis is my favorite student. He works in my office. I would appreciate knowing why you’re asking, after all this time.
 
 \-Hank
+
+---
 
 *April 19, 487 I.C.*
 
@@ -219,6 +243,8 @@ See attached for the list of companies he’s visited. He hasn’t posted anythi
 Respectfully,
 
 Neidhart Muller
+
+---
 
 *April 28, 487 I.C.*
 
@@ -240,6 +266,8 @@ You’re in a much better position to research this than I am. Let me know what 
 
 \-Hank
 
+---
+
 *May 7, 486 I.C.*
 
 Leigh,
@@ -255,6 +283,8 @@ This is going to haunt me until I figure it out.
 Respectfully,
 
 Neidhart Muller
+
+---
 
 *May 15, 487 I.C.*
 
@@ -273,8 +303,6 @@ If anything else pops up, do let me know. I could still be wildly off\-base.
 \-Hank
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 reinhard and annerose got an epistolary chapter in Life Out of Balance, so Yang and Muller can have one here lol
 

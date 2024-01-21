@@ -122,6 +122,8 @@ He followed Reuenthal out of the library, and they stood under the roof overhang
 
 Reuenthal glanced at him but said nothing.
 
+---
+
 *October* *476 I.C., Odin*
 
 September slipped away, fall settling over the campus with a sense of routine. By the second half of October, Reuenthal might have sworn that his life had always consisted of classes with Yang, dinners with his friends, and late night studying sessions that often ended with Yang passing out in the lounge while Reuenthal and Mittermeyer quietly worked across from each other, occasionally speaking in low tones.
@@ -489,8 +491,6 @@ Reuenthal’s heart was pounding, and his whole body was on fire as Yang pressed
 The knife gleamed in Reuenthal’s vision, and Yang’s hand burned on his chest. Reuenthal opened his mouth to answer, but no sound came out. They were both frozen there, the knife pressed to the corner of Reuenthal’s blue eye.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 reuenthal’s eyes were already a major symbol in the source text. I have taken it upon myself to play with that symbol a little bit here though. in canon, the black eye is a purely negative symbol that represents reuenthal’s mother’s infidelity and thus every nasty, “anti\-social” \(in the classical sense\) thing about reuenthal, where his blue eye represents, well, you know, rightness. this is such a questionable symbol, esp when it comes to like... ok well he has felix with elfriede, and that’s terrible, but he’s a little blue eyed baby, raised by the blue eyed mittermeyers... ok there’s too much to get into with this because it makes me shriek like a gibbon
 

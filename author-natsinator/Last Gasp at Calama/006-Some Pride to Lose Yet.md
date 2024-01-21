@@ -174,6 +174,8 @@ Siegfried withdrew his hand, and Thomas immediately missed it. “If it goes wel
 
 “Of course,” Siegfried said. “I’m sure you can make it right.”
 
+---
+
 It was dangerous what Thomas was doing, but now that Siegfried had planted the seed in Thomas’s head, he wouldn’t have been able to stop thinking about trying to speak to the duke. In his mind, he replayed the evening, what he had heard of the duke’s conversations at dinner in his head. He hadn’t gotten much of an impression of him, certainly not enough to tell if he would be willing to forgive Thomas, but he had seen the way that the duke looked at Count Lohengramm. The way he looked at Lady Mary, whom he was trying to court, was with a pale shadow of the searching, hungry look he had thrown Count Lohengramm during the dinner. When Thomas had come over to give them both drinks, in the moments before disaster, the duke’s eyes had been trained on the count’s lips.
 
 It all might have meant nothing. After all, Lohengramm was beautiful enough to turn the heads of plenty of people involuntarily\-\- there was enough talk about that in the fleet that it could fill a book. But it was the only thing Thomas had to go off of, and something that he could possibly offer to the duke in exchange for his good word.
@@ -343,8 +345,6 @@ Thomas nodded. “Goodnight, then.”
 “Goodnight.”
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 i was looking forward to writing the conversation with kircheis but now that it's done i'm not entirely sure i like it. i feel like it could have been longer. well maybe i'll fix it someday \[narrator: they did not fix it someday\]
 

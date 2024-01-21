@@ -148,6 +148,8 @@ Reinhard nodded. “That’s at least an honest transaction.”
 
 Again, Konev laughed. “Good luck on Heinessen, kid. You’ll do alright.” He turned around and headed down the hallway before Reinhard could even decide to thank him for the maybe\-compliment.
 
+---
+
 *May 786 UC, Heinessen*
 
 Konev hadn’t been lying when he said that the refugee intake process was a smooth and well understood one. When they approached Heinessen, the captain of the ship declared the ship’s manifest over the radio, including their refugee status, and so when they got down to the ground, there was a tired looking social worker waiting there to meet them.
@@ -203,6 +205,8 @@ Xiao was startled at Reinhard’s sudden taking over of the conversation, but hi
 He did stop, then, but he crossed his arms and leaned back in his chair, still resolute. His mother laid the pamphlet back down on the table and slid it back towards Xiao. “I think we can survive without the money,” she said.
 
 “Your choice, I suppose,” Xiao said, though her eyes were slightly narrowed when she glanced across the trio. “Keep this, just in case you change your mind.”
+
+---
 
 *June\-September 786 UC, Heinessen*
 
@@ -519,8 +523,6 @@ He stood and walked over next to her, leaning his head on her shoulder and wrapp
 “I know.”
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Reinhard is a vicious little gremlin and I love him. 
 

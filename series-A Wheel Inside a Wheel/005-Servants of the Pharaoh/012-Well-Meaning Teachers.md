@@ -58,6 +58,8 @@ Hilde considered this. “Maybe. I don’t know what he thinks about, though. He
 
 Yang just smiled and reached over to tousle Hilde’s hair. “I’m very aware of what that looks like in a person.”
 
+---
+
 The next Tuesday night, Hilde sent Yang a text message.
 
 < Siegfried says he wants to play against me now
@@ -296,6 +298,8 @@ Yang was frozen for a second, then grinned broadly. “I certainly hope so, Kirc
 
 Yang wasn’t sure he had seen Kircheis smile yet, but when he did, the expression was beatific. His eyes crinkled up so much that they practically closed. Kircheis raised his glass of water towards him. “Yes, sir.”
 
+---
+
 *February 483 IC, Odin*
 
 From that point, on, Kircheis was quite friendly towards Yang. They didn’t have much occasion to speak socially during the week\-\- for all that the age difference between them was relatively small, Yang was still Kircheis’s teacher, so he would have felt strange inviting him out drinking. But Kircheis came to Yang’s office hours fairly often, mostly just to talk. They also ended up meeting at the Mariendorf house several times, due to Hilde inviting them both at once.
@@ -389,6 +393,8 @@ Yang looked at him. “Will you forbid him from seeing her?”
 “Maybe I’m wrong,” Franz said, closing the topic, though he hadn’t even said anything. “She’s young, anyway.”
 
 “That is very true. Who can say what the future will hold?”
+
+---
 
 *May 483 IC, Odin*
 
@@ -624,6 +630,8 @@ Yang shook his head. “I know.”
 
 “Okay, sir.” Yang smiled. Bronner waved his hand dismissively, then turned away for good, getting into one of the parked cars. Yang hated the fact that he liked Bronner’s approval, but he liked it nonetheless.
 
+---
+
 A few days later, one of Yang’s landladies handed him an envelope. It had the imperial fleet seal on it, and he thanked her and went upstairs to read it. He stood in front of the window, the light fading, but he didn’t want to turn on the electric light just yet, and it was too warm to light a proper fire, so he held the letter to the light and clumsily ripped it open.
 
 He had neither hoped for, nor expected, a promotion, but there it was, in plain black type. He had made commander within four years of graduating from the IOA, for no reason that he could really comprehend. But when he looked there, down at the bottom of the letter, there was the personal recommendation from Fleet Admiral Muckenburger. 
@@ -645,8 +653,6 @@ Yang turned away from the window into the darkness of his bedroom and fumbled fo
 “Do I have to write Muckenburger a thank you letter?” he asked aloud. “Maybe that would just annoy him.”
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 The ghost of Reuenthal hangs heavy over this chapter as well.
 

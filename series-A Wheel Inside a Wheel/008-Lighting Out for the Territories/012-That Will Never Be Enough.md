@@ -232,6 +232,8 @@ Annerose smiled faintly. “Him, too.” They turned a corner, starting to circl
 
 Reinhard’s knuckles were white as he gripped his locket. Annerose wrapped her arm around his shoulder and pulled him close.
 
+---
+
 Trunicht’s office was not difficult to find. When Reinhard presented himself at the lobby to get his visitor’s pass, he was escorted directly to it, though he was made to wait outside as Trunicht finished some phone call. He was finally let in to the office, and Reinhard got a quick look around before his eyes settled on Trunicht sitting at his desk.
 
 The office was unpleasantly ostentatious, with a large painting of Trunicht on the right wall, and several official looking awards and plaques clustered around it. Trunicht’s desk was situated in such a way that anyone coming to speak with him in the afternoon, as Reinhard was, would be nearly blinded from the glare coming in through the large window directly behind him, with a prime view of the statue of Ale Heinessen, with his outstretched arms. They framed Trunicht’s head like horns or a halo, depending on the angle.
@@ -367,6 +369,8 @@ Reinhard stiffened, and it was an act of sheer will to resist reaching for his l
 Reinhad nodded, and understood he was being dismissed.
 
 Transfer orders arrived for him the next day, sending him to the front.
+
+---
 
 Despite having asked for it, Reinhard couldn’t help but feel a little mellow as he packed his bags to head out, not even having much to pack. When he had first broken the news to Annerose, she had been stiff and silent, and that night he had heard her crying through the thin wall that separated his bedroom from the master bedroom. Ingrid had murmured indistinct condolences.
 
@@ -613,8 +617,6 @@ She shook her head, and he couldn’t see her face well enough in the darkness t
 “Yeah, goodnight.”
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 this is a bit of a transition chapter. we're basically going to timeskip a year until kaiser death lol. let's pretend like he lives longer than he should in this universe because annerose wasn't around to kill him ;\) anyway lol reinhard can't stay a lieutenant commander forever, so i'm going to ship him off to just become a slightly more important person
 

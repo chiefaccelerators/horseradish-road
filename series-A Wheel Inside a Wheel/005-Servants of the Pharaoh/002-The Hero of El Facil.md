@@ -394,6 +394,8 @@ Yang silently nodded.
 
 “Yes, sir,” Yang said. He stood, saluted sharply, and left, leaving Merkatz alone in the dark.
 
+---
+
 *November, 479 IC, Iserlohn Fortress*
 
 The return to Iserlohn was anticlimactic. Even after recovering enough from his concussion to return to active duty, Merkatz didn’t speak much to Yang. He let Warrensburg drill the remaining ships on positioning as soon as they were back in the relative safety of the corridor, having left El Facil, now occupied by a true ground force, far behind. Yang couldn’t say he was sad to see it go. 
@@ -474,15 +476,13 @@ Oberstein didn’t flinch from Yang’s gaze. “There are many sacrifices that 
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 I'm sorry to everyone who last chapter was like "aw I'm glad Merkatz is Yang's mentor, that's really fun". I wanted to say lol that's not going to last very long. But that would have been spoilers :p
 
 Anyway congratulations to Yang for making it one whole chapter before doing a treason. Good job. Merkatz doesn't want to completely destroy Yang b/c he personally likes him but he's also like "oh my god this man cannot be trusted on the front lines, he needs to go somewhere else until he can learn how to behave". yang wen\-li timeout.
 
 Yang thinks he and Oberstein are operating on the same wavelength, but they absolutely are not lmao. Yang is capable of making friends with like, anybody, but you have to think. has anyone ever actually considered oberstein their friend? lmao. "nice to see a friendly face" yang your standards are on the FLOOR.
 
-none of the numbers on this show make any sense whatsoever. in the gaiden ep abt el facil \(spiral labyrinth \#1\) it looks like there's like 15 ships that evacuate all 3 million people. lol. it don't make no cents luv. anyway, I also moved the date of the el facil incident to be more convenient to me. don't worry about the dates of anything too much >.>
+none of the numbers on this show make any sense whatsoever. in the gaiden ep abt el facil \(spiral labyrinth \#1\) it looks like there's like 15 ships that evacuate all 3 million people. lol. it don't make no cents luv. anyway, I also moved the date of the el facil incident to be more convenient to me. don't worry about the dates of anything too much \>.\>
 
 I tried to hint in part 2 that things on el facil did not go nearly as well for the citizens of the planet in this timeline. sucks to suck if you ended up stuck on the planet, which way more people did here b/c yang wasn't there on the ground to help organize everyone and escape, so it probably ended up turning into riots w/ everyone trying to get onto any ship that would take them. and then people who got left behind... well... not an ideal time, we can say, I suppose
 

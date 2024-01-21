@@ -276,6 +276,8 @@ She nodded. “I am glad that came across.”
 
 “Thank you. Anyway, that just means that I need to get you up to speed on everything that you’ll be responsible for as quickly as possible, just in case I vanish without warning. The nice thing about an assignment like this is that I do get family leave, at least a little.” He woke up the computer on his desk. “Come over here\-\- let me walk you through a few things.”
 
+---
+
 Annerose was always exhausted when she returned from her internship in the evenings. Cazerne was a force of nature, in some respects, and he spent most of his time extremely busy. If he wasn’t at his computer working, he was attending meetings with his superiors and his subordinates, or going between people’s offices with his notebook in hand and Annerose at his heels, arranging the who, what, when, and where of supplying what felt like to Annerose the entire Alliance military. In reality, he was only in charge of coordinating resupply of fleets that had returned to Heinessen from campaign, which was an ever rotating group. 
 
 “If you want to get to know the who’s who around here,” Cazerne had said to Annerose at one point, “you can hardly do better than being with me. Every fleet that passes into the Heinessen starzone needs to go through me for resupply, so I end up knowing almost everyone.”
@@ -284,9 +286,9 @@ She was quite impressed with his memory, his efficiency, and, as she got to know
 
 She loved the work, and often got so tied up in it that she lost track of time completely, and would miss her usual train back to Wrightsville. When that happened, she would send Reinhard a guilty text message.
 
-> please don’t wait on me for dinner
+\> please don’t wait on me for dinner
 
-> I’m working late again
+\> I’m working late again
 
 But he would always wait for her anyway. The first time this had happened, she had felt bad, so she started assuaging her own guilt by picking up dessert from a bakery she passed on her way to the train station, and holding it in her lap on the journey home.
 
@@ -421,6 +423,8 @@ He laughed. “Alright. If that’s how you want to justify it.”
 “I do.”
 
 “I’ll cook something nice tomorrow.” He glanced over at the fridge, where the charge card was supposed to be. Annerose’s eyes narrowed; despite the whole conversation, their mother had walked into her bedroom, carrying her purse and the charge card, and her door was now firmly shut.
+
+---
 
 *February 790 U.C., Heinessen*
 
@@ -754,6 +758,8 @@ At the end of the night, Cazerne offered to drive Reinhard and Annerose back to 
 
 “As always, sir.”
 
+---
+
 On the Wednesday of the last week of her internship, Annerose showed up to Commander Cazerne’s office, knocked on the door as she usually did, and got no response. Figuring he might be out getting himself a cup of coffee, she then unlocked the door with her own key. The office was dark and empty, and Annerose knew immediately that Cazerne had not come in yet this morning. That meant he was either running late, or, more likely, since she had never seen him late to anything, his wife was busy giving birth.
 
 This was, to say the least, inconvenient. He was supposed to have a meeting at ten with the general admiralty of the sixth fleet, to go over, well, basically everything that they would need for their upcoming deployment. Cazerne had prepared Lieutenant Kratow to run the meeting in his absence, in an emergency, but when Annerose went down the hall to Kratow’s office to find him, he was gone. It was a bit of a conundrum. Annerose didn’t have the ability to order anyone else to give the presentation, and besides, nobody else knew anything about it. Annerose had been the one to put together the slide deck, so she was well versed in what the meeting would cover. She sent a message to Cazerne, asking what she should do, but she received no response, which didn’t surprise her.
@@ -926,19 +932,17 @@ It was a picture of Hortense, exhausted looking in a hospital bed, holding the c
 
 <  Charlotte Phyllis Cazerne, born at 2:42pm, 3.9kg, 51cm long
 
-> Congratulations\!\!\!\!
+\> Congratulations\!\!\!\!
 
 < Sorry for abandoning you all day. Please tell me that nothing collapsed in my absence.
 
-> Everything is taken care of, sir.
+\> Everything is taken care of, sir.
 
-> Though you owe Commodore Bucock a favor
+\> Though you owe Commodore Bucock a favor
 
 < From the sound of it, I am sure I owe you one as well
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 This chapter is stupid long. So I... apologize? Is that a thing that one apologizes for?
 

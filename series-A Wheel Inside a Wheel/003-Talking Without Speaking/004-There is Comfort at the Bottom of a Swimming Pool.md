@@ -318,8 +318,6 @@ Reuenthal stopped kicking his legs and let out all of his breath, dropping like 
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 chapter title: https://youtu.be/uRmaIYbLWho
 
 I love characters whose symbolic element is water who cannot swim and have never even been submerged. like yes, your personality is so liquid <3 yes you will drown if you look at the ocean the wrong way <3

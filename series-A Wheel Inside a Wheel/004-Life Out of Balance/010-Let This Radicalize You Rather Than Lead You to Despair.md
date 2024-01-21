@@ -258,6 +258,8 @@ Reinhard didn’t gratify her with a response, instead tucking his arm underneat
 
 EARTH IS MY MOTHER. TERRA IN MY HAND.
 
+---
+
 *August 792 U.C., Heinessen*
 
 Reinhard’s annoyances had mostly calmed down by the time that he returned to school for the spring semester. He could hold grudges for an absurdly long time, it was true, but not against Annerose. He suspected that she had him beat, in that respect.
@@ -428,6 +430,8 @@ Reinhard huffed, suddenly annoyed again at her. “And what would the point of t
 
 As she left, Reinhard found himself still feeling annoyed, though when he interrogated the feeling, he discovered it was directed less at her than it was at himself. He fiddled with his locket as he drank the last few sips of his coffee.
 
+---
+
 Although Greenhill had continued to sit next to Reinhard in their economics class, she didn’t attempt to speak to him again until two weeks later, when they both arrived to class early. She turned to him and smiled. “Hey, Reinhard,” she said.
 
 Reinhard’s surprise that she was speaking to him again was enough to distract him from the slight happiness he felt that she was speaking to him, and he accidentally smiled a little, which in turn made Greenhill’s eyes light up. “Fredrica,” he said.
@@ -488,7 +492,7 @@ They ate lunch together and decided how to divide up the work for the project. I
 
 That weekend, Reinhard texted Greenhill.
 
->I finished my section if you want to look it over.
+\>I finished my section if you want to look it over.
 
 <Great\! I’m done with mine, too
 
@@ -496,7 +500,7 @@ That weekend, Reinhard texted Greenhill.
 
 <We can meet up at lunch on Monday to discuss, if you want
 
->Sure.
+\>Sure.
 
 So, she had finished hers quickly. Had she been waiting for him to send his? The mind game he was playing was simultaneously amusing and stupid. Unfortunately, this would be the end of the mind game, since he doubted that Greenhill would have much to say about his paper, which was boring in the extreme. His blog post on the subject, which he had made several days before, was more entertaining and detailed, but he had stripped most of that out for the paper.
 
@@ -573,6 +577,8 @@ Greenhill still frowned a little though, as she looked down at Reinhard’s pape
 “My prose is fine\!” Reinhard protested. “I’m not trying to win a literary award.”
 
 “Still, one should always take any opportunity for improvement that exists.
+
+---
 
 *December 792 U.C., Heinessen*
 
@@ -903,8 +909,6 @@ She nodded. Reinhard drank the last of his vodka, feeling the effects of it a li
 “It would suit you better to mind your own business,” Reinhard said. 
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 @ fredrica: you're not special for being horny for reinhard. at least while she's at a school with a 12:1 men:women ratio it really should not be that hard to find someone who's actually into her 
 

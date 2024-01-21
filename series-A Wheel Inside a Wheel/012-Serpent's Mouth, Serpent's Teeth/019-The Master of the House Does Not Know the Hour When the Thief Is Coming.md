@@ -164,6 +164,8 @@ Kircheis wasn’t really sure what to say to that, so he was silent. 
 
 The baron opened his eyes. “Shall we go inside?” he asked. “It’s cold.”
 
+---
+
 Magdalena did indeed haul Count Landsberg to the baron’s residence for dinner. The count was a man who gave Kircheis an unpleasant sensation of looking at a warped version of Martin. They were similar in almost every way— skinny frame, hairstyle, mannerisms, penchant for voicing quotations. Only, Count Landsberg was like if Martin had been born a rich man without troubles, and had never had a chance to develop any beliefs whatsoever. Baron Kummel and Magdalena seemed to like him, though, as he was a poet and author.
 
 They sat down to dinner at the long dining table. The baron took the head seat, but he looked so small in his wheelchair that it was almost comical. The fact that the table was almost empty— having only the baron, Count Landsberg, Magdalena, Hilde, and Kircheis at it when it would easily seat fifteen— made the dwarfed sensation stronger. It could have lent a dire feeling to the dinner, but the conversation was cheerful, thanks mostly to Magdalena and the count.
@@ -372,6 +374,8 @@ Hilde laughed. “I’ll let Maggie know the disappointing news.”
 
 Kircheis laughed. “Alright. What she doesn’t know can’t hurt her.”
 
+---
+
 Kircheis didn’t return to the city until the afternoon of the next day, and when he got back to his apartment, he had the sense that something was off before he even opened the door. He didn’t know what gave him that impression— perhaps it was just the fact that he had been on high alert ever since he had entered the city limits and dropped off his borrowed car in its designated space. After spending so much companionable time out in the countryside, and the silent and lonely drive back, the glances of the other passengers on the subway seemed suspicious and hostile, and none of Kircheis’s small polite smiles assuaged the feeling. Even the people who lived in the apartments next door, whom he had walked past hundreds of times, seemed to shuffle out of his way and skirt their gazes around him when he came up the street.
 
 The ominous feeling mounted until Kircheis went to open his door and found it already unlocked, swinging open beneath his hand. 
@@ -518,6 +522,8 @@ Bronner started to go for the door.
 
 “To little Lady Mariendorf, you mean?” Bronner asked. “Why, is she more likely to agree with me?” He smirked, and then was gone out the door. Belatedly, Kircheis realized that he had stolen his spare key.
 
+---
+
 The day that Kircheis went to visit Martin was cold and bright. The trees had lost all of their leaves, and the branches stood out in thin, whip\-like lines across the cloudless blue sky. Martin’s hiding place was way off in the suburbs, in a town that was eerily like the one he and Kircheis had grown up in. The house was normal, too— a two story building with sage green siding, near the far end of a dead\-end road, sitting on a well kept lawn. Kircheis wondered whose family member had died and left it vacant, since it didn’t seem like the kind of place that a rebel group would choose as a base. The house’s property was woody in the back, and it edged up against a forest that belonged to the town, one with a plethora of walking trails. In the aerial view that Bronner had provided, Kircheis could see one of these slim paths branching off from the main trail and heading towards the back of the house. He suspected that many of the members of the group were instructed to approach from that direction if they were coming, since the neighbors would likely find it odd to have a rotating cast of young people coming and going at odd hours of the day. 
 
 Kircheis, however, approached on the main road. He had borrowed the Mariendorf family’s pickup again, but he left it some half a mile away and walked the rest of the way on foot. He didn’t want to scare Martin by leaving an unfamiliar vehicle parked on the street outside the house, though his presence would probably do enough harm on that front.
@@ -579,8 +585,6 @@ Martin nodded, and Kircheis dropped his hand and walked away.
 Three days later, in his mailbox, he found an unmarked letter, one that was heavier than usual. He pulled it out with some trepidation, and discovered that it was just a single address. His heart would have soared to think that the letter had been sent by Martin, but to the back of it, he found taped the spare key to his house.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 \[American Psycho voice\] Very nice. Now let's see Nat Rome's takes on Art.
 

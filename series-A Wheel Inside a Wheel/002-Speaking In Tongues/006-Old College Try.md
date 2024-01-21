@@ -116,6 +116,8 @@ Reuenthal smiled at him. “Don’t worry about it.” In a voice that was a cle
 
 “Thank you,” said Yang with genuine emotion. 
 
+---
+
 *May, 476 IC, Odin*
 
 It was the last week of classes before finals, which meant it was the last Wednesday practicum of the year. As Yang trooped into the building, Bittenfeld came up behind him and leaned his elbows heavily on Yang’s shoulders. “Guess what?” Bittenfeld asked.
@@ -431,8 +433,6 @@ The second letter, unsurprisingly, was addressed to Yang.
 *Countess Amelie Mariendorf*
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 IN THE WAY THOSE EYES I'VE ALWAYS LOVED ILLUMINATE THIS PLACE: LIKE A TRASHCAN FIRE IN A PRISON CELL, LIKE THE SEARCHLIGHTS IN THE PARKING LOTS OF HELL. I WILL WALK DOWN TO THE END WITH YOU IF YOU WILL COME ALL THE WAY DOWN WITH ME.
 

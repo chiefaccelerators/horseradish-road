@@ -200,11 +200,11 @@ The Rosenritters scrambled to obey, but the mine workers complained vociferously
 
 The ride back to the base was as fast as they could make it, but even so, it took a long time. As they finally pulled in to the base, Annerose typed a private message to the Rosenritters in the car with her, and showed it to them.
 
-> do not let the mine workers leave or speak with anyone
+\> do not let the mine workers leave or speak with anyone
 
-> they could start a riot
+\> they could start a riot
 
-> and not a word of this to anyone else, understood?
+\> and not a word of this to anyone else, understood?
 
 She made sure her group understood, and slipped out of the car as Groteschele forced the waiting mine workers to fill out a long and tedious log about how their car had broken down.
 
@@ -743,8 +743,6 @@ He stopped and turned, looking at her. Her face felt like it was on fire, but sh
 He was so close to her, and he really did look good, and she was feeling crazy and wild and tired and energetic all at once. She hooked her fingers underneath the breastplate of his suit and pulled him into her room. 
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 I’m sorry it took approximately nine million years for us to get here, but I hope you like it haha. The Annerose/Schenkopp drama didn’t last that long b/c making people have weird misunderstanding fights is not actually that fun for me to write.
 

@@ -204,6 +204,8 @@ They stood silently for a moment, Aymon simply enjoying Halen’s presence. Ther
 
 “Some.” Aymon tilted his head up, asking with his eyes for Halen to bend down and kiss him, which he did.
 
+---
+
 Halen was gone from Aymon’s bed the next morning when Aymon woke up, which was the way things usually went, though it never ceased to cause him mild annoyance. One of his vices was the enjoyment of a luxurious morning in bed, and another was that his taste in lovers ran towards those who could not bear to linger while there was work to be done. Aymon wasn’t lazy\-\- far from it\-\- but there was something to be said for the simple pleasure of not getting up until he wanted to get up. And if Halen had remained there in bed with him, that may have been far later than the duties of the day allowed for. 
 
 Still, he pictured the moment that Halen had woken, perhaps just as the sun was beginning to stain the horizon red. Had Halen laid there and watched him sleep, for just a second? Aymon envied him the pleasure. It was exceedingly rare that the roles were reversed, and Aymon got to watch Halen sleep; the few times it happened were perfect beacons in his memory.
@@ -399,8 +401,6 @@ Yan looked away.
 Aymon laughed, and Yan was clearly startled, but she cracked a bit of a smile. Aymon considered telling Yan that if he had wanted Ungarti to be dead, he would have done a far better job of it, but then he decided that she did not need that piece of commentary from him.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Bit of a shorter chapter, but Aymon POV is worth having I think.
 

@@ -264,8 +264,6 @@ The clearing of the fog lasted until Mittermeyer was in his own rooms, until aft
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 From "September 1, 1939" by W.H. Auden
 
 Faces along the bar

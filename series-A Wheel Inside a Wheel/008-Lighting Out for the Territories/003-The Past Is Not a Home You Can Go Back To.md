@@ -150,6 +150,8 @@ He nodded. “Swear him to secrecy, though, will you?”
 
 “I will, thank you, sir.”
 
+---
+
 Annerose found Schenkopp at the gym later that day, after both of their official duty hours were over. He was alone, idly taking shots with a basketball from the three\-point line, his uniform jacket tied around his waist, leaving him in only his undershirt. Annerose walked underneath the hoop and caught the ball when he sunk it. She tossed it back to him and he grinned at her. “Want to play?”
 
 “I’m terrible at it, but sure.”
@@ -272,6 +274,8 @@ He smiled at her. “Hm?”
 
 He gave her a bit of a jaunty wave as he headed off towards his own car.
 
+---
+
 *February 796 UC, Heinessen*
 
 Annerose was packing a suitcase for the upcoming trip to Phezzan. Since she and the tiny group of Rosenritter she would be leading would all be in disguise, she had to pack her civilian clothing, and was hemming and hawing over what would be the most practical, easy to move in, and inconspicuous. Julian sat on her bed, watching her pick through her closet, his chin on his hands and his elbows on his knees, legs crossed.
@@ -383,6 +387,8 @@ Julian nodded solemnly. “Okay. I will. I promise.”
 Annerose smiled, actually a little relieved, some of the worry that she hadn’t known was lurking beneath the surface of her heart assuaged for a moment. “Be careful, though. Don’t let yourself get dragged into anything.”
 
 “Yes, ma’am.”
+
+---
 
 *February 796 UC, Phezzan Corridor*
 
@@ -556,23 +562,23 @@ Annerose’s lips curled up. Despite the seriousness of the situation, it was fu
 
 She couldn’t call Reinhard, now that they were in public, but she texted him, while keeping an eye on her surroundings and a hand on Ingrid’s arm.
 
-> Muller was at the elevator. I just saw him.
+\> Muller was at the elevator. I just saw him.
 
 < That bastard.
 
-> What is his deal? He didn’t do anything, but was acting very strangely.
+\> What is his deal? He didn’t do anything, but was acting very strangely.
 
 < Like I said, he’s probably trying to decide if you’re worth sending a ship after. The one they have in orbit hasn’t moved.
 
 < What do you mean by strangely?
 
-> I think he thought I was you for a second.
+\> I think he thought I was you for a second.
 
-> Then he recognized us as RR.
+\> Then he recognized us as RR.
 
 < Good. You’re a good deterrent. I doubt they’re going to do anything more than watch you, at this point.
 
-> Hope you’re right.
+\> Hope you’re right.
 
 < There isn’t going to be a shootout in the middle of the Phezzan spaceport.
 
@@ -793,8 +799,6 @@ Annerose relented, though it hadn’t taken that much convincing. She pitied Ing
 “It can be,” Annerose said. “I promise.”
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 The mental image of relatively little Annerose leading around like 20 rosenritter hunks is /so/ funny to me. I hope you also enjoy it.
 

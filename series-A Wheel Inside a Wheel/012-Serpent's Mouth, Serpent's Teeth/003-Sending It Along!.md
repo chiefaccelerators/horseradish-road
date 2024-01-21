@@ -174,6 +174,8 @@ When he eventually fell asleep, he felt a mix of guilt and elation to dream of R
 
 Again, Kircheis had no answer that he could give.
 
+---
+
 That weekend, Kircheis visited Hilde at her house. This was not unusual for him; she invited him over for lunch or dinner at least twice a month, and she stopped by his and Martin’s apartment after her schoolday ended more often than that. It was a sunny Saturday, and the snow had frozen into a hard shell over the ground. The light reflecting off of it made strange patterns on the ceiling of Hilde’s parlor. 
 
 She and Kircheis sat across from each other on the couches, mugs of coffee in hand and a plate of cookies on the table between them. Her father had been home, but had needed to leave immediately following lunch to deal with some sort of urgent matter at Neue Sanssouci, so it was just the two of them. Over lunch, they had spoken about little of substance, but now that they were alone, Hilde was looking at him expectantly, knowing that he had something on his mind.
@@ -342,6 +344,8 @@ It was funny. Leigh would probably go out of his way to make sure Kircheis didn�
 
 He nodded. “You’re right.”
 
+---
+
 Kircheis found Leigh in his office on Monday morning. Leigh was half asleep still, his thermos of tea tilting dangerously in his hand as he looked at something on his computer with bleary eyes. He didn’t greet Kircheis with any formality when he came in, just waved at him to sit, and Kircheis did, silently, until Leigh seemed to come to his senses enough to recognize that it was Kircheis sitting there in front of him, and that he ought to do something about that.
 
 “Did you need something, Kircheis?” he yawned.
@@ -397,8 +401,6 @@ Leigh smiled at him, an expression that made it all the way to his eyes. “I’
 Kircheis wasn’t sure how to respond to that. “Yes, sir.” He wished he hadn’t said anything.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 happy birthday kircheis? lol
 

@@ -176,6 +176,8 @@ They were silent for a minute, just breathing.
 
 The power flitted across the boundary between their skins, and Yan felt the softness of Sid’s thoughts, the slippery, weightless feeling of the drug taking hold. He wavered into and out of consciousness for a while, and Yan’s mind followed his, clinging on to the warm blankness that the vena offered him.
 
+---
+
 The rest of the journey to Olar passed in a blur. Yan and Sid did not leave their rooms, and Sid spent much of his time sedated. When Hernan or Iri came by to check on them, Yan covered for Sid and said that he was sleeping. Both minders expressed a degree of skepticism in their tones and expressions, but Sid’s slumped form in the bed behind Yan as she stood in the doorway at least reassured them that Sid was alive and present. 
 
 The *Sky Boat*docked at the top of Olar’s space elevator, which was otherwise devoid of ships. 
@@ -233,6 +235,8 @@ The image of Sylva, so removed from all of the recent horror in Yan’s life, wa
 “I don’t want to talk about it, Iri,” Yan said.
 
 “Of course,” Iri said. “I’m just putting it on the table.”
+
+---
 
 Whoever had scheduled their trip had been thoughtful enough to give them time to get acclimated before they met with anyone important. Yan and Sid were cocooned from the various Olar officials who led their group from the spaceport to their hotel. Yan only had to say a few perfunctory words of greeting, to be politie, and then Iri stepped in and began to rapid\-fire discuss logistics, which left Yan free to take out her phone and stare listlessly at it, half\-typing a message addressed to no one, and then deleting it as she figured that she had nothing good to say. Sid was in a similar situation.
 
@@ -377,8 +381,6 @@ She was transfixed by it, and felt stripped bare in its ruddy iron\-light. Her v
 When it did rise out of view, the loss of its light made her dark hotel room feel even darker, and Yan shuddered and hastened to bed. 
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 someday i'll figure out how to write formal verse for real for real, and then you'll all be in trouble. 
 

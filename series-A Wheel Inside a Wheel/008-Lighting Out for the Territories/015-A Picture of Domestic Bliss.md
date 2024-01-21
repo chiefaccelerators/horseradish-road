@@ -334,6 +334,8 @@ Jessica actually laughed. “Trust me, I have been,” she said.
 
 “No, I know you wouldn’t.”
 
+---
+
 It seemed that everyone wanted Annerose to investigate what Reinhard was doing with Job Trunicht, but the idea of finding out had never felt less appealing. It wasn’t that she needed to work up the nerve to talk to Reinhard\-\- that wasn’t quite it. When she thought about why she was so hesitant to find out what the plans for the future of the galaxy were, the thought was like sticking her tongue into a hole left by a missing tooth: a slimy emptiness where something should have been, or would be soon. She imagined she could taste blood.
 
 She resolved to do it the next morning, while Reinhard was getting ready for work and before Ingrid and Julian got up. They would have the house to themselves, and Reinhard would have an excuse to leave if he couldn’t\-\- or didn’t want to\-\- tell Annerose for some reason. She wouldn’t press him too hard. 
@@ -391,6 +393,8 @@ There was a moment of silence, then Ingrid said, tentatively, “If you want to 
 Annerose rolled onto her side, away from Ingrid. There were half formed, blurry pictures in her mind of other women: Janie of Earth, and Magdalena from the Empire, people who Ingrid mentioned in passing occasionally. Never bitterly, but always sad. Hadn’t they loved her more? And hadn’t they left Ingrid alone? She buried her head in her pillow.
 
 Ingrid touched her arm, her touch feather light. Annerose tried to relax, but was stiff as a board, and couldn’t sleep for a long time.
+
+---
 
 Annerose woke up already exhausted, but she could hear Reinhard’s alarm going off in the next room, so she pulled herself out of bed, taking one long look at Ingrid, still asleep in the darkness. Her arms were wrapped tight around her own chest, knees pulled up and in. Annerose tugged the blanket up over her, then shuffled out of her bedroom and downstairs.
 
@@ -537,6 +541,8 @@ Some of the humor left Reinhard’s voice. “The official orders will be on his
 “Yeah, go, don’t be late,” Annerose said, waving him off and picking up his empty coffee cup to bring to the sink.
 
 “Thanks,” he said, but she wasn’t sure what he was thanking her for.
+
+---
 
 Julian picked up on Annerose’s change in posture immediately. Now that the wheels had started moving, she had something to focus on, and it took her mind off of the melancholy that had settled over the country. She caught herself taking up the same posture that she had seen in Reinhard: staring into space while she was sitting on the couch with Julian, her embroidery completely forgotten on her lap as she consulted a hazy mental map of Phezzan’s capital and tried to estimate how many tanks they’d be able to send in each squad through the streets. Or she would sit at dinner, Julian narrowing his eyes at her, and draw out incomprehensible figures in her smear of mashed potatoes and gravy. Perhaps that was part of why Reinhard had avoided eating with them, coming home late aside.
 
@@ -701,8 +707,6 @@ Julian nodded, deadly serious. “I promise,” he said. “I won’t let anythi
 Annerose smiled. “Thank you.” But as she picked up the laundry basket and headed back upstairs, Julian at her heels, the basement’s chill didn’t leave her skin.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 could i explain why this chapter took so long? no. but here it is so I hope you enjoy it haha
 

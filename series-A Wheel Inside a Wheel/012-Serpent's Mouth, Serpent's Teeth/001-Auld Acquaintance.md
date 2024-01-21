@@ -492,8 +492,6 @@ Leigh opened his mouth to say something, then closed it again. Hilde knew what h
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 I'm so glad to be back... it's been about a million years \(six months? something like that\). Thank you for sticking around during my hiatus from this story. If you haven't, go check out some of the stuff I've written in the interim \(*Last Gasp at Calama*, *Every Hateful Instrument*, and various other short fics\)
 
 This story is titled after a couple different things. First, it's from the Mountain Goats song "Rain in Soho"
@@ -509,7 +507,7 @@ You can't cross the same river twice*
 
 JD is actually misquoting King Lear here \("How sharper than a serpent's tooth it is to have a thankless child"\)
 
-second, it's named after\-\- ok, hear me out here\-\- one of my fic writing inspirations is the absolutely stupidly long HP fic series *The Sacrifices Arc*, the second book of which is called *No Mouth But Some Serpent's*. the thing is 3 million words long and i've read it cover to cover twice >.>
+second, it's named after\-\- ok, hear me out here\-\- one of my fic writing inspirations is the absolutely stupidly long HP fic series *The Sacrifices Arc*, the second book of which is called *No Mouth But Some Serpent's*. the thing is 3 million words long and i've read it cover to cover twice \>.\>
 
 third, of course, yang's side of the story has a running imagery about speaking/silence, while reinhard's side has light imagery \(we've got a "sound and vision" theme going on lol\-\- in case you weren't aware, the next two books will be named "silent spiral" and "lightless labyrinth" respectively\). i also thought the assonance between "servants" and "serpents" was just really good\-\- much like "life" and "light" gets on the other side.
 

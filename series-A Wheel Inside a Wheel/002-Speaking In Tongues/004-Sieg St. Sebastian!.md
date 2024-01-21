@@ -54,7 +54,7 @@ Saturday came, and with it, the low blustery winds of October in this part of Od
 
 Yang wanted to know if Eisenach was here, so he texted his mentor, then looked around to see if anyone pulled out their phone to respond.
 
-> are you here?
+\> are you here?
 
 Eisenach responded immediately.
 
@@ -216,6 +216,8 @@ Reuenthal looked at Yang, then gave a sharp nod. Wahlen narrowed his eyes, but d
 
 Wahlen’s phone rang in his pocket. He answered it. Yang tried to listen to what was being said, but his vision was growing greyer and fuzzier around the edges, and the canteen slipped from his fingers and fell to the ground. He slid back involuntarily, directly onto Reuenthal’s chest, and from there lost consciousness at last.
 
+---
+
 Yang woke up feeling jostled, but in significantly less pain than he had been in before he passed out. He was in an ambulance, he thought, and his leg was cold\-\- someone had cut his pants off above the arrow wound. His arm felt suspiciously cold, as well, and he discovered that his jacket had been removed, his sleeve rolled up, and there was an IV in his arm. He looked around as the car bumped away from Neue Sanssouci, back towards the city proper. Reuenthal was sitting next to him, arms crossed and leaning against the wall, and there was a doctor with the Goldenbaum crest on his jacket, and several nurses.
 
 “Hnng,” Yang managed to say, to let everyone know he was conscious.
@@ -229,8 +231,6 @@ Yang woke up feeling jostled, but in significantly less pain than he had been in
 “Fine.” If Reuenthal wasn’t going to be helpful, Yang was going to ignore him. He pressed his head back into the pillow, then covered his eyes with his free arm, draping it over his face. He might have been imagining it, but he thought that he heard Reuenthal chuckle.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 People who have seen the entire OVA will probably find this chapter darkly amusing for several reasons.
 

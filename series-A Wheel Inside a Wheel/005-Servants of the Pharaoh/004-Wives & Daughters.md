@@ -252,6 +252,8 @@ Hilde laughed, too, some of the somber mood broken. “Okay, Hank.”
 
 “Oh, yes\!” She moved back to her own side of the table, and with slightly shaky hands poured both of them some more tea. “School is going perfectly this year,” she said.
 
+---
+
 The count came back not too much later, finding Yang and Hilde deep in a discussion that had started out about Hilde’s time at her girls’ school and eventually meandered back to Yang talking about the SW class at the IOA. He was demonstrating how the game worked with again a pen and a piece of paper, illustrating with the help of one of the count’s books how a specific battle might have been played out by two opponents in the game. Hilde was enraptured by the idea, and she wanted to play, but unfortunately there was no one for her to play against, so she had to be content with drawing out diagrams with Yang.
 
 “You look like you’ve been busy plotting a war,” the count said as he came in, leaning on the door. “Am I interrupting something?”
@@ -475,6 +477,8 @@ Yang fiddled with his by now empty glass. “I was just thinking,” he said, �
 Franz laughed. “Leigh, you should be more aware of your own talents.”
 
 “If you say so, sir.”
+
+---
 
 *December 479 IC, Odin*
 
@@ -908,6 +912,8 @@ Eventually, she broke it off. “You kiss okay, but your hands are like dead lit
 
 “Come on,” she said. “I guess we should go back.” She offered him her hand to stand him up out of the chair, and he hesitated before taking it. She was surprisingly strong as she hoisted him to his feet.
 
+---
+
 Hilde seemed distracted on the car ride back to her house. She had her head pressed to the window, and she was watching the snow covered streets appear and vanish in the cones of light cast by the streetlamps, her fingers twisting and pulling at her bow tie. Yang noticed this agitation, and asked, “Did you enjoy the party, Fraulein Hilde?”
 
 “Mmm\-hmm,” she said, but it was a non\-committal half agreement.
@@ -959,8 +965,6 @@ Snow was falling heavily by time Yang made it back to his boarding house room. H
 The fire crackled in the hearth, and Yang fell asleep in his chair, feeling both that nothing had been resolved, and that his strange problems were impossible to articulate in the first place.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 telling your only other friend, who is eleven, to do thought crimes \(or real crimes\). good idea.
 

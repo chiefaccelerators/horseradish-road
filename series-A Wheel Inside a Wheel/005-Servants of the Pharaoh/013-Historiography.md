@@ -96,6 +96,8 @@ Staden raised an eyebrow. “Now that, I’d like to see.”
 
 Staden laughed. “You and all your friends, Leigh.”
 
+---
+
 Yang was sitting outside in the garden behind his boarding house, gloomily reading a book on strategy in preparation for his eventual takeover of the SW practicum, when his phone rang. The weather was fabulously warm, the perfect kind of late\-spring evening, and aside from the fact that his peaceful tenure as a history professor would soon be over, he was enjoying the end of the semester very much.
 
 He was tempted to ignore the ringing phone, but it kept on buzzing and jingling, so he fished it out of his pocket and looked at the name on the caller ID. He was very surprised to see who it was, and he answered immediately.
@@ -249,6 +251,8 @@ Hesitantly, not sure if he would appreciate the gesture, Yang reached over and w
 “How do you put up with me, Leigh?” Mittermeyer asked, almost too quiet to hear.
 
 Yang knew the answer to that question, and it involved carefully stuffing all of his own selfish thoughts down into the deepest recesses of his heart, but he wasn’t going to say that, so he said, “Because you’re my friend,” which was also true.
+
+---
 
 By some miracle the next morning, that miracle being his alarm clock, Yang woke up before Mittermeyer. As Yang stumbled around his apartment in his pyjamas, travelling from bedroom to bathroom to shower, he saw Mittermeyer still soundly asleep on his couch, blanket tossed onto the floor, one leg dangling off the edge of the couch, Mittermeyer’s head on his arm, and the pillow clutched to his bare chest. He seemed peaceful there, in the early morning light streaming through the window. Yang watched him breathe for a second, hearing the occasional soft snore, then shook his head and went to shower.
 
@@ -490,6 +494,8 @@ Yang glanced at Mittermeyer, amused as they walked. “I highly doubt\-\-”
 
 Mittermeyer laughed at him and they entered the bar. By the time next morning rolled around, Yang could barely remember Mittermeyer’s misgivings over the splitting headache he acquired.
 
+---
+
 *July 483 IC, Odin*
 
 It was the hottest summer in living memory on that part of Odin. Yang’s boarding house room was not air conditioned, and with the window open, everything felt humid and sticky, with every paper lying limp on the table and Yang’s hair sticking to his face with perspiration that did nothing but make him miserable. There was the hope of relief with thick clouds forming up on the horizon, promising the kind of summer thunderstorm that everyone looked forward to as collective and private catharsis. 
@@ -512,9 +518,9 @@ His phone buzzed and Yang almost dropped it, so quickly did he try to look at hi
 
 And he attached an address. 
 
-> of course
+\> of course
 
-> be there in about 45 mins
+\> be there in about 45 mins
 
 Yang scrambled to find his shoes and check himself in the mirror, debating if he should change into his uniform, then deciding against it. There was no way he could even remotely pretend that he was going to see Reuenthal on business. 
 
@@ -703,8 +709,6 @@ Yang thought his knees might give out, but he somehow remained standing as Reuen
 “Yeah,” Yang mumbled, somewhat incoherent as his hand raked through the back of Reuenthal’s hair. “So have I.”
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 RIP to Yang's mental health\-\- I think dealing with the SW program is far more annoying than teaching history. He just has to tell himself "It's just GMing, your favorite part of the game, all of the time :\)\)\) " lol
 

@@ -8,11 +8,11 @@ He checked on the intranet to see the class lists of each of his courses. As the
 
 If he couldn't ask the registrar, he could at least ask his mentor. This first question would at least serve as a test for if Eisenach was going to be prejudiced against him or not. He tapped out a question.
 
->hi Eisenach, this is Leigh, your mentee
+\>hi Eisenach, this is Leigh, your mentee
 
->I've been given a double course load \(all strat classes \+ all history classes\)
+\>I've been given a double course load \(all strat classes \+ all history classes\)
 
->do I have to be worried about the strat classes? Are they difficult?
+\>do I have to be worried about the strat classes? Are they difficult?
 
 To Yang's surprise, Eisenach responded almost immediately.
 
@@ -24,7 +24,7 @@ To Yang's surprise, Eisenach responded almost immediately.
 
 < why did you sign up for that anyway?
 
->history is what I want to study
+\>history is what I want to study
 
 < interesting
 
@@ -36,7 +36,7 @@ To Yang's surprise, Eisenach responded almost immediately.
 
 < well. I don't want to be gauche.
 
->I see.
+\>I see.
 
 < you and I have something in common, herr von leigh
 
@@ -46,7 +46,7 @@ To Yang's surprise, Eisenach responded almost immediately.
 
 < and it would be shameful for me for my mentee to crash and burn immediately
 
->I'm not here to play power games
+\>I'm not here to play power games
 
 < even if you don't want to, you are
 
@@ -287,8 +287,6 @@ Yang shrugged. "I had already lost at that point. You could have wiped out my ta
 "You should decide what level you're playing the game on, von Leigh." And then Reuenthal was off, headed down the hallway, leaving Yang feeling much more confused than he had been when he started.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 If you think I'm being stupid when writing strategy shit. That's totally possible. Feel free to yell at me.
 

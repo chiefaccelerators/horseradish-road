@@ -346,6 +346,8 @@ After a few seconds, Reuenthal tugged on Mittermeyer’s hair to get him off. �
 
 Mittermeyer made a choked laugh, or something— Reuenthal couldn’t really tell— and rolled off of him, ending up on his back in the snow. Reuenthal missed the warmth of his body immediately. He stood and offered Mittermeyer a hand, then hoisted him back to his feet. They headed back towards the base, brushing snow off themselves as they went, chased by the cold wind.
 
+---
+
 *January 485 IC, Odin*
 
 The practicalities of arriving back on Odin needed to be taken care of before anything else. Reuenthal’s time on Kapche\-Lanka had been shorter than he, and everyone else, had expected, so he was rather regretting the fact that he had broken his lease and needed to find a new apartment. He theoretically could have stayed with Yang during this time, but he didn’t even tell Yang that he was back on Odin until he had gotten a new place, which took several days.
@@ -354,9 +356,9 @@ He didn’t see Mittermeyer after the point that the two of them had walked off 
 
 So, it was a while before he texted Yang.
 
-> I’m back on Odin.
+\> I’m back on Odin.
 
-> Would you care to get dinner with me and see my new apartment?
+\> Would you care to get dinner with me and see my new apartment?
 
 < dinner? sure
 
@@ -364,9 +366,9 @@ So, it was a while before he texted Yang.
 
 < we can get takeout
 
-> Oh?
+\> Oh?
 
-> Too lazy to make the trip all the way into the capital on a school night?
+\> Too lazy to make the trip all the way into the capital on a school night?
 
 < maybe
 
@@ -376,7 +378,7 @@ So, it was a while before he texted Yang.
 
 < i would prefer to do it in the comfort of my own home
 
-> Bad news?
+\> Bad news?
 
 < i have always been on speaking terms with mittermeyer, you know
 
@@ -781,8 +783,6 @@ Without opening his eyes, and with a slightly grumpy tone in his voice, Yang sai
 “You wound me,” Reuenthal said, but he reached his other hand towards Yang’s cheek. Yang smiled, a little wanly, and did not seem surprised when Reuenthal leaned in to kiss him.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 And here we are at the end of this little side story haha. I hope that you have enjoyed reading it\!
 

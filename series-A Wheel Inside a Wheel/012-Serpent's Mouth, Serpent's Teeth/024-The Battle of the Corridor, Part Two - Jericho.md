@@ -508,8 +508,6 @@ Yang should have felt pleased. But looking at the hole in Iserlohn’s side, he 
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 sorry this one took so long 😔 hopefully it's exciting enough to make up for it
 
 writing battle sequences is so hard for a wide variety of reasons\-\- i was doing my usual whining over on tumblr about the reasons why. i think the main one is that things that make a battle sequence entertaining to read about or watch in an anime often do not feel remotely realistic to me, and so i struggle to walk the line of something feeling plausible enough that i don't feel like it's TOTALLY cheating to write it, and actually succeeds at my goal of being an entertaining milSF novel lol. this whole series would feel a lot different if the battle sequences were "harder" sf i think. anyway.
@@ -518,7 +516,7 @@ it is weird also to have yang be like straight up winning with military force ra
 
 shipping cleanliness fans beware the yang/ansbach subtext :p
 
-joshua fit the battle of jericho  / where them walls come a'tumblin down
+joshua fit the battle of jericho / where them walls come a'tumblin down
 
 thank you so much as always to em for the beta read 💙💙
 

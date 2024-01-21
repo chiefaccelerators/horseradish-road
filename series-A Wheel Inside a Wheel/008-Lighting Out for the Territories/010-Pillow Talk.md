@@ -124,8 +124,6 @@ This relaxed Ingrid, who let go of her wrist. “Better stop Julian before he ma
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 This is certainly the last chapter I'll post before the New Year, and I just wanted to take this opportunity to say thank you all so very, very much. Writing this series has given me something to look forward to during some of the stupidest, shittiest parts of this year. I've been working on it since like, early February, so it really has been almost a whole year of writing A Wheel Inside a Wheel, and if I did not have this to give me some sort of purpose and direction, I really have no idea what I would be doing with myself. 
 
 Every day I'm astounded and honored that you all are willing to spend your valuable time and attention here on my silly AU. It's very hard for me to express just how grateful I am that you all read this story. I treasure every comment that you guys give to me, and I'm so very ;0; at all the people who have made fanart for this story. Hearing that some of you have read parts of this story more than once, that you've recommended it to friends, or that it's made you just plain happy is like... it's the greatest honor that I can have as a creative person.

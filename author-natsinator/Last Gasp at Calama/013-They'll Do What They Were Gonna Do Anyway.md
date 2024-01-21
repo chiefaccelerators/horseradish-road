@@ -140,6 +140,8 @@ The duke looked down into the fire. “Did you know that there is no fortune for
 
 But the duke just shook his head, and strode across the grass towards his approaching driver, leaving Thomas alone before the dying fire.
 
+---
+
 The inside of the house was massively chaotic when Thomas finally slipped back inside. There were uniformed MPs rushing every which way, and Lord Grantham was standing in the foyer with a look of utter despair on his face, shoulders slumped. Beside him, Lady Sybil was chewing her nails. Lady Grantham was following the captain in charge of the MPs around, an indignant response on her tongue for everything he said, even orders to his own men. Lady Edith and Lady Mary were nowhere to be found. 
 
 The only people who appeared even remotely calm were Count Lohengramm and his men, distinguishable from the military police easily by their different uniforms, the sleek silver across the chest and shoulders that marked him as an admiral standing out against the drab plain black of the MPs. Count Lohengramm stood in the foyer in front of Lord Grantham, and whenever any of the MPs looked about to approach and say something, Count Lohengramm’s presence seemed to ward them off. 
@@ -188,6 +190,8 @@ Inside the room, Lady Mary was at least dressed, but she was completely dishevel
 
 Carson ordered them all to leave and make themselves useful. Thomas got out of there in a hurry.
 
+---
+
 The search of the house lasted until well past midnight. Every inch of the place was turned over, with the MPs growing bolder and more desperate to uncover anything the longer the search went on. Thomas was sure that they were going to snatch one of the servants up at random, make an accusation just to have someone to take away and make an example of, but in the end, they found nothing, and with Count Lohengramm’s watchful eye upon them, they were taking fewer risks.
 
 It was almost certain that they would be back, someday soon. Or maybe long enough from today that the household had relaxed, and the terror of the search would be fresh again.
@@ -223,8 +227,6 @@ A deadly silence stretched across the foyer. Thomas resisted the urge to look at
 “Lord and Lady Grantham, as well as the young ladies, will be staying in the capital with Lady Rosamund for the next several days while we return this house to the proper order.” He finally said. Although his face was still red with anger, the false normalcy in his voice was worse. “We will begin early.”
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 when i started planning out this story, i had a whole laundry list of themes and ideas that I wanted this fic to be About, like "what does it feel like to live in a totally decaying empire" and "uh oh there's gender in there" and "jesus every able man in this country for the past more than a hundred years has been conscripted into an endless, horrific, unwinnable war that exists solely to grind people up and spit them back out, everybody must have just absolutely fucking awful PTSD, if they survive" and various other things. but while some of those have been nodded at, what this fic has really ended up being about, more than anything else, is class. 
 

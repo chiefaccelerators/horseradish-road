@@ -216,6 +216,8 @@ It should have been the *Iron Dreams*, probably, but what Yan’s mind went to w
 
 Before Yan could figure out what Iri meant by that, Iri was gathering up her computer and heading back out of the room, leaving Yan alone with her thoughts.
 
+---
+
 Surprisingly, Yan slept better that night. Perhaps it a built up exhaustion, or perhaps it was the feeling that she was committed to a course, in more ways than one. Politically, she and Sid would have to follow through on the threats that Sid had made, if Governor Cresas wouldn’t agree to the Guild’s terms. And, in her personal life, even if her conversation with her uncle had been difficult, acknowledging her station in a way that she hadn’t before was freeing. She would try not to go into the meeting with Apprentice Olms thinking of herself as a spacer— she was there as First Sandreas’s representative, after all. It would be detrimental to try to be anything more or less than that.
 
 When Yan met with Sid the next morning, however, he looked worse than he had the morning before, which was saying something. He ate his breakfast with his eyes half closed, and he didn’t even see Yan waving at him to get his attention until she reached over and tugged the sleeve of his cassock. He flinched when she did, and Yan signed a quick, “Sorry.”
@@ -465,8 +467,6 @@ Olms touched Yan’s arm lightly. “Well, it hardly matters,” she said. “Go
 “Goodbye,” Yan said. She watched Olms get into the taxi and head off, feeling very strange.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 this chapter is a little bit beating you over the head with "yan is an unreliable narrator and cannot be trusted to think about other people in a way that is true in any objective sense" lol. hopefully it's fun to read though and not just deeply frustrating. i mean sometimes i do want to shake yan and be like "yan...my darling... your uncle loves you maybe even more than he loves his own kids... stop feeling so weird about this" but of course she can't. it's not /entirely/ her fault\-\- as is discussed somewhat, later in the conversation with the guild, the academy and taking children away from their families is explicitly done to break family ties. this has done a number on yan in particular.
 

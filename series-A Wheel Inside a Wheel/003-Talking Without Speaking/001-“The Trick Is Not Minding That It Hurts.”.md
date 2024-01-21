@@ -212,6 +212,8 @@ Reuenthal nodded. “I hope you enjoy *Das Rheingold.*”
 
 She waved her hand, but was smiling. “Oh, I’ve seen it a hundred times.”
 
+---
+
 Reuenthal took the long way back to his father’s house, avoiding the highway and driving on the backroads the entire route. He drove slowly, though not out of caution for the slick, snowy roads. He just wanted to prolong the trip. He didn’t listen to music, just stared into the dark, tree\-lined path in front of him, the hi\-beams of his headlights catching the eerie eyes of deer on the side of the road. He imagined one might dash in front of the car, throw itself under the wheels, but none did, and he drove past them and they vanished into the darkness.
 
 The house was quiet when he got back, but the light in the library was on, which meant that his father was awake, which was a bad sign. It was about ten at night. Reuenthal probably should have stayed out longer, but he had had nowhere to go after leaving the Mariendorf house, and he wasn’t going to linger there. 
@@ -307,8 +309,6 @@ Reuenthal held his teeth together so that he didn’t bite his tongue and scrunc
 “Yes, sir,” Reuenthal said through gritted teeth, though he had entirely forgotten what understanding his father was trying to extract out of him.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 The chapter title is from one of the opening scenes of Lawrence of Arabia. You can see it here https://youtu.be/TvQViPBAvPk
 

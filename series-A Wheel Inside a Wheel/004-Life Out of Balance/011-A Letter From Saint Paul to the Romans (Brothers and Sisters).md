@@ -18,6 +18,8 @@ Your friend,
 
 Reinhard von Müsel
 
+---
+
 *January 793 U.C.*
 
 Dear Annerose,
@@ -52,6 +54,8 @@ Your brother,
 
 Reinhard
 
+---
+
 *January 793 U.C.*
 
 Dear Walter,
@@ -78,6 +82,8 @@ Sincerely,
 
 Annerose
 
+---
+
 *April 793 U.C.*
 
 Dear Dusty,
@@ -97,6 +103,8 @@ I hope that we can meet up soon. Please stay safe until then.
 Your friend,
 
 Annerose
+
+---
 
 *September 793 U.C.*
 
@@ -126,6 +134,8 @@ Followed by dinner and dancing.
 
 ANNEROSE\! Thank you so much for the scheduling advice. I hope that everyone will be able to make it. What was I thinking when I made friends with people scattered halfway across the galaxy? Jean is in even worse of a position than I am, in that respect. I should come visit you up in the capital sometime before then. Love, Jessica
 
+---
+
 *February 794 U.C.*
 
 Dear Fredrica,
@@ -152,6 +162,8 @@ Your friend,
 
 Reinhard
 
+---
+
 *September 794 U.C.*
 
 Walter,
@@ -165,6 +177,8 @@ I see that the Rosen Ritter are due to be recalled to Heinessen soon. I look for
 Sincerely,
 
 Annerose
+
+---
 
 *January 795 U.C.*
 
@@ -189,8 +203,6 @@ Love,
 Reinhard
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 PER MY PREVIOUS EMAIL
 

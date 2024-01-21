@@ -140,6 +140,8 @@ Muller chuckled. “I look forward to it. All your rebel drinks are cheap and di
 
 “Pity,” Muller said. “A whole half of the galaxy, consigned to drinking terrible booze.”
 
+---
+
 *October 796 U.C., Phezzan Dominion*
 
 In early October, the Castrop affair came home to roost. Reinhard learned about it without the newspapers, and without Muller: their eyes on the navigation office noticed a request for a direct route from Castrop’s planet to Phezzan. This matter appeared on Reinhard’s desk, and he escalated it up the chain to Blackwell.
@@ -171,6 +173,8 @@ Blackwell drummed his fingers on his desk. The goldfish swam placidly around in 
 “Thank you, sir,” Reinhard said, relieved.
 
 “Yeah, yeah,” Blackwell said.
+
+---
 
 Castrop’s ship was huge, opulent, and garishly yellow. It sat unassumingly in the docks at the top of the elevator. Reinhard had gone up to meet it as it came in, accompanied by staff from the High Commissioner’s office who would be checking the ship from top to bottom. The ship had arrived ahead of schedule, which meant that Reinhard was late when he reached the top of the elevator, and it had been up to a few rather put\-out Phezzan Port Authority workers to explain to Castrop that all his passengers would need to exit the ship so that it could be searched. Castrop, predictably, had not taken this well, and so when Reinhard arrived, there was an argument in progress between the disgruntled port chief and one of Castrop’s retainers, a cowed looking man whose fashion looked out of place despite the outlandishness of some Phezzani garb: he was wearing a toga.
 
@@ -582,6 +586,8 @@ Hilde laughed at that. “It was a pleasure to meet you, Lieutenant Commander. I
 
 She smiled. “I would like that very much.”
 
+---
+
 About two weeks later, Blackwell called Reinhard into his office. He didn’t look happy, his lips pinched in a way that Reinhard had never seen before. 
 
 “Take a seat, Müsel,” Blackwell said, gesturing to the chair in front of his desk.
@@ -651,8 +657,6 @@ Reinhard tried to relax his shoulders. “Thank you, sir,” he said through gri
 “The merchant ship *Belorussia*is departing in three days. I’ll arrange your passage.” 
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 As you can /probably/ tell, this is actually the conclusion to a \(hopefully exciting\) arc that mainly takes place on the other side of this story. The fact that the timelines are starting to converge is fun, but it also makes things slightly messy, because I’m not writing the imperial section right now \(though I want to be haha. I think it will be fun\). I hope that having this resolution written beforehand does not remove /too/ much of the tension from the other half of the story when it finally gets written.
 

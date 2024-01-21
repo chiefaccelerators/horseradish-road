@@ -92,6 +92,8 @@ Talu considered her. “That’s a dangerous way of phrasing things.”
 
 “I apologize for misspeaking.”
 
+---
+
 Annerose spoke with Reinhard about this over dinner, wondering what he would say. He was taller than she was, now, having hit the late childhood growth spurt, but not the final stretch of his teenage years. He was a sophomore this year. Reinhard had wanted to jump up another grade level, but Annerose had convinced him not to, saying that it might make it harder for him to find a career right out of school, if he was too young. He was already going to be dangerously young, she thought, to get into the Officers’ school when he graduated. 
 
 He liked the idea that he would go there, when she reported almost word for word the conversation she had had with her guidance counselor. 
@@ -189,6 +191,8 @@ She laughed. “I shouldn’t have asked, then.”
 “I worry that you’re blinded by the lids of your own eyes,” she said. “You might find there are better people in the world than I, if you were willing to look.”
 
 “Somehow, I doubt it.”
+
+---
 
 *April, 789 UC, Heinessen*
 
@@ -294,6 +298,8 @@ They heard the apartment door open; Reinhard had returned. He stuck his head in 
 
 Caribelle shooed her up and off the bed anyway.
 
+---
+
 It was good that Annerose didn’t bring very much with her to school, because she didn't have very much space to put it in. She shared a tiny room with three other girls, a kind of enforced camaraderie, where each had only a desk, a bed, and a trunk in which to keep their belongings. The one closet, for hanging their uniforms, was communal.
 
 Annerose introduced herself to her three roommates. The first was the tallest woman Annerose had ever met, with brown skin and close cropped hair, who introduced herself as Yan BarCarran. The second was a short, pale and freckled, chubby girl with auburn hair coiled up around her ears named Sylva Calor. The third girl, Kino Mejia, had tanned skin and wore her hair in long black braids down by her ears.
@@ -393,6 +399,8 @@ She heard the voices of her roommates, and found them in the dark. “Touch my h
 “Oh, Annerose\!” Sylva seemed excited to see her. “Let me pet your head.”
 
 But before Annerose could approve or deny this request, the whole mass of students started moving again, maybe ushered along by some signal that Annerose had missed, and they were running, back the way they had come, back towards the school, the wind rushing over their newly bare heads, all the same in the darkness.
+
+---
 
 Annerose had expected that that would be the end of it, that one midnight ritual, but she had been wrong. During the day she went to her beginning classes with all the rest of the newly bald freshmen, but during the night, every night for a week, there was that same nighttime chaos, and some new humiliation, always starting and ending with a run that felt longer and worse than the night before. One night, they had all been made to strip and swim across an ice cold river. Another, they had been forced to crawl through odd tunnels, slimy, disgusting, wet up to elbows and knees, getting filthy liquid in their mouths, unable to see, hearing nothing but the labored breathing of the person before them. They fumbled around in the dark, single file, bumping into someone ahead, pressed on by the crush of terrified people behind them even when they felt like they could go no further, feeling like they might drown or be trapped in these narrowing pipes, until they emerged, gasping and blinking, onto the outside ground, and had no time to rest or wait, but were told to start running again, go, go, go.
 
@@ -573,8 +581,6 @@ He laughed. “I thought you were having a good time.”
 “I’m afraid I run my mouth altogether too much.” He waved at her. “Some other time, then, Ms. von Müsel.”
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Schenkopp gives Annerose the coronavirus. 
 

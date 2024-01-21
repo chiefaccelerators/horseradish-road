@@ -386,8 +386,6 @@ Annerose was still on the ground next to Leigh. Kircheis looked her in the eyes 
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 hiiiiii annerose <3 my beloved. the equivalent chapter on the other side of the story \(lighting out for the territories ch6\) is fun b/c when yang and kircheis show up the reader gets to be like omg it's yang and kircheis. but here you get to be omg it's annerose. go girl do axe murder
 
 it's hilarious that annerose and kircheis have their baby's first murder on the same day lol. same hat.

@@ -326,6 +326,8 @@ This angered Reinhard, and he hissed, “I’m not weak.”
 
 But he didn’t respond, and just stalked off, leaving her behind at the edge of the party.
 
+---
+
 Reinhard found Annerose the next day, at lunch in the dining hall. She was sitting with a few senior women, and she waved him over, scooting over so that he could drag up a chair next to her. She introduced him to the women, who were members of the women’s society, and they were vaguely patronising to him, which he tolerated for his sister’s sake. He stopped short of allowing them to pet his shorn head, though.
 
 He rarely saw this side of her, the one where she was the vivacious leader of a group, but he rather liked to see it. She directed the flow of the conversation, in complete control, and he felt, for a moment, at least, fine to follow in her shadow. 
@@ -382,6 +384,8 @@ She smiled. “I’m glad you’ll at least think about it.”
 
 They talked about other, less consequential, things then, until Annerose had to go, since she was going to a student government funding meeting, to submit the women’s society’s proposed budget for the upcoming year.
 
+---
+
 Several weeks later, Reinhard felt as though he had settled into his life at the Officers’ Academy fairly well. He wasn’t friends with his roommates, but he thought that they realized that it would be mutually beneficial to not cause trouble for each other, since they were going to have to live together for the rest of the year. If it was any consolation to Annerose, he wasn’t the only source of tension; the entire group of four was mildly antagonistic in every direction. 
 
 He was doing well in all of his classes, and enjoyed thoroughly trouncing his classmates any time there was any sort of competition to be had, whether it was in the computer simulation strategy games or in the physical fitness classes. Class rank wasn’t public, but Reinhard felt fairly sure that he was at the top. He would have to wait until the end of the semester grades calculated to find out if that was true, but he suspected it was, and he went about his days with a confidence that matched his assumed place in life.
@@ -396,13 +400,13 @@ One night, she texted him.
 
 < You will be in attendance.
 
-> I don’t like parties
+\> I don’t like parties
 
 < It’s not a request; it’s a demand.
 
 < :\)
 
-> Since when do you get to boss me around?
+\> Since when do you get to boss me around?
 
 < Since always.
 
@@ -410,7 +414,7 @@ One night, she texted him.
 
 < There’s someone I want you to meet.
 
-> Who?
+\> Who?
 
 But he didn’t get a response to that question. He was annoyed at the demand, but he wasn’t going to directly refuse his sister. Grudgingly, he admitted that she might be right that he could use some friends, and he trusted her taste, at least a little. 
 
@@ -775,8 +779,6 @@ Reinhard raised an eyebrow, then raised his arm to spin Greenhill around. “May
 “Perhaps.” He smiled a little, then looked around the sides of the dance floor, observing everyone else in the room. He caught his sister watching them, a pleased expression on her face. “Look, there’s Annerose. Pretend like you’re having fun.”
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Reinhard has been the POV character for 5 chapters, and in 4 of those, he has gotten into some kind of physical fight with somebody over something. \(That's not even counting the chapter 1 deer lol.\) This is because in part 1, we got to read all about Yang having fun strategy games, and here we get to see Reinhard just going ham. They're foils to eachother, or something.
 

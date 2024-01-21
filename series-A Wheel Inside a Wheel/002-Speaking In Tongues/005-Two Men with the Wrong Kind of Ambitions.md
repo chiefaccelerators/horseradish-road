@@ -94,6 +94,8 @@ Reuenthal was silent for a half second. "Maybe some other time, von Leigh," he s
 
 "Sure. See you." Reuenthal strode off down the hallway, Yang watching him go before he closed the door.
 
+---
+
 The next day, at dinner, Yang was eating alone, stirring his tomato soup absentmindedly as he flipped through one of his history texts, jotting down notes for an essay that was due on Friday. He wasn't paying any attention to the room, and so when Reuenthal stood across the table from him and asked, "May I sit here?" Yang jumped.
 
 "Oh, yeah, of course." He leaned over pulled some of his belongings out of the way so that there was space for Reuenthal to put his tray down. He also glanced around the room to see if anyone was watching what was happening, but, for once, no one seemed to be paying attention.
@@ -156,6 +158,8 @@ When Reuenthal didn't say anything in response, Yang returned to his reading, th
 
 Yang didn't look up to meet Reuenthal's eyes, but he gave a quick nod.
 
+---
+
 *December, 475 IC, Odin*
 
 Yang's leg healed, and now that he had something approaching a friendship with Reuenthal, his life at the IOA took on a slightly different shape. Because Reuenthal was \(for some reason\) willing to be seen with him in public, that meant that the portion of the class who had already looked up to or liked Reuenthal now accepted Yang as an awkward attache to their dark haired number one. If it was odd that the number one and number two students were friends instead of fierce rivals, no one commented on it in his hearing. 
@@ -172,9 +176,9 @@ Once, Eisenach, Yang's confusing mentor, had even shown up for dinner, sitting h
 
 < and don't let him drag you into things you don't want
 
-> are you vetting my friends now?
+\> are you vetting my friends now?
 
-> and i told you, I don't care about rank
+\> and i told you, I don't care about rank
 
 < just looking out for my mentee
 
@@ -202,15 +206,15 @@ His life settled into this satisfying rhythm as the temperatures dropped and win
 
 < Do you want to come?
 
-> do you want me to come?
+\> do you want me to come?
 
 < I wouldn't invite you if I didn't
 
-> do I have to dress up?
+\> do I have to dress up?
 
 < You can wear your dress uniform
 
-> are any unpleasant people going to be there?
+\> are any unpleasant people going to be there?
 
 < Almost certainly
 
@@ -218,9 +222,9 @@ His life settled into this satisfying rhythm as the temperatures dropped and win
 
 < I would hope to enjoy your company as well
 
- > you flatter me.
+ \> you flatter me.
 
-> I'm sure my presence would cause a scene
+\> I'm sure my presence would cause a scene
 
 < If you're going to graduate from the IOA, people are going to have to get used to you eventually
 
@@ -406,6 +410,8 @@ Reuenthal smiled and handed Yang another glass of wine.
 
 The band at the front of the room struck up in a particularly melancholy sounding rendition of Auld Lang Syne.
 
+---
+
 *January, 476 IC, Odin*
 
 They escaped the party a bit later. Yang was not what could be called sober at that point. He didn’t know how drunk Reuenthal was, but at least the car drove itself, so they weren’t going to crash on the way.
@@ -457,8 +463,6 @@ One of his legs was still dangling down from the side of the bed. Reuenthal lift
 Reuenthal looked around the messy room, grabbed the half\-empty wine bottle from the floor, turned off the light, and left.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 This whole story is in some ways meant to be a commentary on like, how people communicate information when they can't quite say it out loud. The conversation where Reuenthal and Yang are talking about Alexander the Great is a great example of how things can go wrong\-\- Reuenthal is talking about how Alexander the Great can be read as being a little bit gay \(well. if you do a gay reading of Alexander the Great's life, you end up with the conclusion that he was 'a lot gay'\). Yang is not picking up on that hinting whatsoever. And when they're talking about their types of ambitions\-\- Reuenthal thinks that Yang is talking about being gay, but he's actually talking about being a republican. It's a whole mess. Can of worms.
 

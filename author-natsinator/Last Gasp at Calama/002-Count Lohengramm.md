@@ -262,6 +262,8 @@ Magdalena stood, looked at him for a second, and then embraced him. “Goodnight
 
 She laughed. “I’ll tell my cook that you enjoyed it.”
 
+---
+
 Their rented flat on Linbergstrasse was quiet and cozy, with the fire low in the hearth. Their landladies were well asleep by the time that Reinhard and Kircheis returned, sneaking up the stairs back into their own domain.
 
 “Honestly, I do not know what my sister sees in that woman,” Reinhard said as he divested himself of his jacket. “She does not know how to stay out of other people’s business.”
@@ -311,6 +313,8 @@ Kircheis’s answer was to wrap his arms around Reinhard, bury his nose in Reinh
 Reinhard turned, difficult still enclosed in Kircheis’s arms. “Damn Muckenburger,” he said.
 
 Kircheis smiled, his eyes crinkling shut, and Reinhard tugged on his curly red hair, bringing his head down so that they could kiss, his back against the window.
+
+---
 
 A few days later, Reinhard met the lawyer that Magdalena had recommended in his office. It was a well kept place, bustling with activity, and the receptionist was very obsequious to Reinhard when he arrived at the door in his uniform, saying he had an appointment.
 
@@ -415,8 +419,6 @@ Reinhard stood. “I’m very sorry to have held you up.”
 “Likewise, Admiral.”
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 i think the conversation with magdalena might be a tad long in the tooth, but i love magdalena, and i think that for the poor lost downton abbey readers, it's probably best to give more rather than less context, even if you are somewhat dropped in the middle of it. i hope that it's comprehensible to you what the situation is, even if you're not familiar with this cast haha. please let me know if you're confused\! i'm very happy to add more context to these chapters if needed.
 

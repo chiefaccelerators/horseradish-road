@@ -234,6 +234,8 @@ Truthfully, Reinhard wouldn’t have minded staying on this ship and assisting i
 
 “Yes, sir,” one of the other suited men said. They formed around Reinhard and Fredrica in a protective bubble. Reinhard was tempted to roll his eyes. He and Fredrica had seized the whole ship; he hardly thought he needed an escort. But he didn’t protest, and he bid a reluctant mental goodbye to the Falke, which he had grown both familiar with and attached to over the past few days, even if it had been under weird circumstances. His fingers brushed the door frame as he walked off the bridge. The sentimental part of him hoped the ship wouldn’t be destroyed for scrap.
 
+---
+
 They were given rooms on the Minnesota, after they had both briefly spoken to the rear admiral. He hadn’t been that interested in talking to them, and had mostly suggested that Reinhard and Fredrica both write down accounts of what they had done and what had happened. Reinhard didn’t know what they were going to use this kind of evidence for \(and he suspected that a lot of it didn’t actually look good for him, even if it had had a good end result\) but he wasn’t going to lie in an official record, so he resolved to do it as truthfully and carefully as he could, when he got the chance.
 
 He spent a long time in the shower, getting days worth of filth and blood off of himself. His back was burned, worse than a bad sunburn but not enough to require medical treatment, so the cool water of the shower had been both painful and a relief. He didn’t think it would scar, but it was already blistering. He put on the clothes that had been given to him. There weren’t any cadet uniforms around, and he wasn’t technically a soldier at all, but they gave them each a regular Alliance uniform, just without a rank pin. There were worse clothes that he could be wearing, he supposed. 
@@ -331,6 +333,8 @@ So Reinhard told her the story of how he had almost shot his own father, how hol
 “How I feel shouldn’t make any difference. But not really, no.” He saw her face crumple a little. “I’m not saying that you feeling bad is wrong\-\- I don’t think you’re worse for it\-\- I’m sorry.” He didn’t know what to say to comfort her, and everything he did say seemed to be coming out just slightly wrong, or was being interpreted wrong, because her face kept twitching, and in the dim bedroom light, tears were visibly sparkling on her eyes.
 
 She was sniffling a little at this point, and he wasn’t sure what to do. So he switched seats to be next to her on the bed, and tentatively wrapped his arm around her shoulder. They had just spent four days in very enforced closeness, often with one of them falling asleep on the shoulder of the other as they sat on the floor of their closet hideout, but this was different and strange in its intentionality. Fredrica didn’t seem to notice his hesitation, and she leaned forward into him and sobbed onto his shoulder as he rubbed her back.
+
+---
 
 Their arrival back on Heinessen was, to put it mildly, odd. They came in to the military spaceport and were hustled onto shuttles down to the ground in a weirdly secretive manner. Reinhard hadn’t even been allowed to call Annerose \(or his mother\) and he was feeling deeply annoyed about that. It was as though they were existing in an information blackout bubble, as Reinhard and Fredrica had also been kept away from the news that would have come in to the ship as soon as they were within decent radio distance of Heinessen.
 
@@ -463,8 +467,6 @@ Reinhard nodded. “Thank you, sir.”
 “Indeed. Goodbye, Cadet.” He let Reinhard out of his office, where there were other soldiers waiting to escort him to Annerose.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Didn't leave you hanging for too long haha. I hope you enjoy the end of the action\! I really am not confident writing action scenes \(and yet I end up having so many of them\). Hopefully the tension here was right and everything makes enough sense :\)
 

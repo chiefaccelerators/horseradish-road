@@ -290,8 +290,6 @@ Yan nodded, but when she went into her hotel room, she didn’t get into bed. In
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 chapter title from mr Yeats' poem Easter 1916, from which I will probably quote from again at some point \("O when may it suffice? That is Heaven's part"\)
 
 i was originally going to cut the tattoo scene from this book\! but multiple people said that it was one of their favorite scenes from the OG act 1, so of course with that ringing endorsement, I had to leave it in. I hope I succeeded in making it perform as a progression of various character arcs and not just as "lol sid gets a tattoo" 😅

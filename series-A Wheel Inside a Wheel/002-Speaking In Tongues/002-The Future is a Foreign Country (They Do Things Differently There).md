@@ -64,6 +64,8 @@ The words and instructions came out of him almost unbidden, coming from a calm a
 
 His hands shook as he activated the shuttle's radio and began sending out his distress call.
 
+---
+
 *April, 783 UC, Phezzan Dominion*
 
 Yang stayed at Konev's house on Phezzan for a few days, which was maybe the reason why the debt collectors weren't able to track him down until he appeared in public for the funeral.
@@ -214,6 +216,8 @@ After a long moment, Yang asked, "How would I even get to Odin?"
 
 Konev grinned in triumph. "I'm sure my mother can find someone to give you a ride." 
 
+---
+
 *August, 475 IC, Odin*
 
 That summer, a very out of place looking young man arrived on Odin, marched himself up to the Imperial Officers' Academy, presented himself, and received a room and a uniform and a class schedule. Considering that a home, things more than the clothes on his back, and some regularity in his life were all things that Yang Wen\-li had been missing since he had fled Phezzan, he found himself uncomfortably grateful to the Imperials.
@@ -329,8 +333,6 @@ Yang raised his glass half\-heartedly, mumbled, "Prosit," under his breath. 
 Across from him, Reuenthal had a tiny smirk on his face. "Prosit\!" he said to no one in particular, then drank.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 I made the executive decision to make everybody go to officer school here from ages 16\-20ish, b/c it was "close enough" to whatever mess of ages looks like, and also "close enough" to people being normal college age. Every time I think about how it's canon that Reinhard has less than a high school level education \(he left school at 15?\!?\!\) I lose my FUCKING marbles. Anyway, it's college.
 

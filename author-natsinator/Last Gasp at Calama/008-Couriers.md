@@ -86,6 +86,8 @@ Carson just shook his head and left.
 
 “I’m glad I can be useful to the household in some way that other people can’t be,” Thomas said, not even bothering to keep the smugness out of his tone. He finished hemming the pants and stood up to put them away.
 
+---
+
 Thomas felt very, very good when he drove away from the Grantham estate the next morning, dressed not in his usual livery but in a nicer suit that Carson had found for him, perched proudly in the driver’s seat of a car that was far fancier than he would ever normally have the opportunity to drive. As soon as he was away from the estate enough that no one would see him do it, he rolled the windows down and let the fall breeze flutter across his face. The sunlight danced on the yellow leaves that scattered beneath his tires.
 
 The freedom of escaping the Crawley household, at least for the day, made Thomas resolve to buy a motorbike as soon as he could. He wouldn’t be able to keep a whole car while he was working for the Crawley family, but something small he could probably find a way to tuck inside the garage, or behind an outbuilding, without anyone making too much of a fuss. And it would give him freedom to go places on his day off. He had come to Odin looking for some measure of freedom, so he should do what he could to claim it.
@@ -186,6 +188,8 @@ With some regret, Thomas finished his tea. “Will you accompany Count Lohengram
 
 “Whatever Lord Reinhard needs from me,” Siegfried said.
 
+---
+
 On the long drive to the Duke of Crowsburg’s residence, Thomas couldn’t stop thinking about Count Lohengramm and Siegfried. He couldn’t help but be jealous. It was clear that even if Siegfried was performing the duties of a valet or a man\-of\-all\-work, he was also much more than that. Even if it had just been the casual trust that the count had in him—opening his mail\!—Thomas probably would have been jealous. Certainly Bates didn’t open Lord Grantham’s mail for him. But it was undoubtedly more than that, and Siegfried didn’t mind that Thomas knew that it was more.
 
 Although he tried to keep his attention on the road, his imagination kept wandering to Count Lohengramm and Siegfried alone in their apartment. Perhaps in the evenings, Count Lohengramm would sit on the couch before the fire, and Siegfried would sit at his feet. He pictured Siegfried dressing Count Lohengramm, running his hands down his side to clear wrinkles in his pristine admiral’s uniform. Maybe Count Lohengramm allowed him to brush his golden hair. 
@@ -264,6 +268,8 @@ Although Thomas hadn’t even broached the question, he felt like he was already
 
 “Don’t pout, Thomas” he said. “I will see you soon, and we’ll have all the time in the world. Besides, you should know that I keep my promises.”
 
+---
+
 Although it was a long drive back to the Grantham estate, Thomas had no desire to make it go any faster. The day had been a change in his drudging routine, and he didn’t want it to end. Driving the car around was enough to briefly entertain visions of stealing it and driving off into the night, never to be seen again, but this was a less entertaining thought than picturing Sunday, and his promised meeting with the duke.
 
 As an excuse to himself for prolonging his trip, Thomas decided to make sure he knew where the hotel he was supposed to meet the duke at was actually located. He was going to have to get there by train and by foot, but even having a general sense of the area would help. He was still not very familiar with the city, and he wanted to be.
@@ -301,8 +307,6 @@ And Bates replied, “He’s paranoid, that one. I wouldn’t pay him any mind.�
 Thomas scowled and went to check Tom’s room. He wasn’t there. He stuffed the car keys back in his pocket. He could ask Tom where he was tomorrow morning when he returned them. Maybe that could be useful information.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 if these scenes don't follow the screenwriting maxim of "start late", they at least do follow the second half: "leave early" lol
 

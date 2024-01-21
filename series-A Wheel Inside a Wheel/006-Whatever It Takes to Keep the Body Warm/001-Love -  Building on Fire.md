@@ -232,13 +232,13 @@ Yang was staring at it with an inscrutable expression on his face. “This is Am
 
 “Yes,” he said, with no further elaboration. Reuenthal leaned on Yang’s shoulder to watch him clumsily type out a message on his phone, fingers clearly stiff from the cold night air. The message was to Yang’s former CO, Commodore Bronner.
 
-> is there a reason the earth church headquarters is on fire right now
+\> is there a reason the earth church headquarters is on fire right now
 
 The reply was almost immediate.
 
 < Is there a reason you’re asking me this question?
 
-> because i’m standing here watching it burn down
+\> because i’m standing here watching it burn down
 
 < Is there a reason you’re so far from home tonight?
 
@@ -318,6 +318,8 @@ Reuenthal shook himself out of his momentary trance, getting up on his knees to 
 
 Yang reached up to put his hand on the back of Reuenthal’s neck, his smile deceptively calm and relaxed. He tugged Reuenthal down towards him, and Reuenthal nestled his nose for a moment in Yang’s hair. It still smelled like smoke.
 
+---
+
 Later, Reuenthal and Yang were in bed, the muted light of a snowy night coming in through the bedroom window the only source of illumination. It was very late, and Reuenthal wasn’t sure what had woken him up until he turned towards Yang, who had his eyes open and his arms underneath his head, looking up at the ceiling.
 
 “Can’t sleep?” Reuenthal asked, mouth dry and sticky from just waking up.
@@ -395,6 +397,8 @@ Yang was silent for a long time, and Reuenthal wondered if he had perhaps fallen
 “All I’m saying is\-\- if you do see him\-\- it would give me peace of mind to think that you’re… doing what makes you happy.”
 
 Reuenthal hooked his leg around Yang’s under the sheets. “I am.”
+
+---
 
 *December 484 IC, Iserlohn Fortress*
 
@@ -511,8 +515,6 @@ Reuenthal smiled grimly. “And you say this out of some kind of affection, Comm
 Oberstein nodded at him, and then slipped out of the restaurant, walking stiffly with his hands behind his back.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 none of you people know how to communicate and it makes you all miserable
 

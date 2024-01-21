@@ -188,6 +188,8 @@ Blackwell narrowed his eyes. “Yes.”
 
 “I’ll keep that in mind next time you become convinced that someone is leaving you coded messages,” Blackwell said.
 
+---
+
 *July 796 U.C., Phezzan*
 
 A week or so after he had mentioned the matter to Blackwell, the commodore pulled Reinhard aside and said, “I looked into that matter you mentioned. You were correct. I shouldn’t need to tell you to be careful with that information.” And that was approximately the end of the conversation.
@@ -392,6 +394,8 @@ Muller made a face.
 
 “As you said, we are still enemies.”
 
+---
+
 Reinhard reported to Blackwell’s office the next afternoon, a folded newspaper tucked under his arm, this time one of the Phezzani ones.
 
 “What’s the urgent issue, Lieutenant Commander?” Blackwell asked.
@@ -449,8 +453,6 @@ Reinhard scowled. “What fleet is on standby?”
 “Thank you, sir,” Reinhard said.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 first order of business: if you haven’t read talking without speaking or  towards the tail\-end of an age that’s almost finished , you should go read and enjoy those stories, since that’s where I’ve been this past month lol
 

@@ -128,6 +128,8 @@ Oberstein nodded. “I will do my best with it.”
 
 “All right,” Yang said with a smile. 
 
+---
+
 *March 481 IC, Odin*
 
 Magdalena wanted to have lunch with him on Saturday. Yang had been planning on spending the day with the Mariendorfs, but Magdalena was insistent, so Yang postponed his visit and made his way to the Westpfale estate, wearing civilian clothing. One of the footmen led him into Magdalena’s drawing room, though she wasn’t there. Yang wandered over to the window while he waited for her, staring out at the carefully manicured lawn that had not yet come back to full green from the harshness of the winter, though all the snow was long gone. There were birds swooping and chasing each other in the sky just above a little copse of trees, and Yang watched them, trying to predict how they would move, as though they were ships on the battlefield. While he was watching this, Magdalena came up behind him.
@@ -323,6 +325,8 @@ She smiled at him. “I can be a petulant creature. I apologize.”
 She laughed. “There will be a thousand people there, maybe more. I doubt you’ll make much of an impression.”
 
 “I certainly hope not,” Yang said.
+
+---
 
 *April 481 IC, Odin*
 
@@ -713,8 +717,6 @@ That was a dismissal. Yang stood and bowed. “If it pleases Your Majesty, then 
 Yang nodded and walked off, feeling like his heart was going to beat its way out of his throat.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 I chime in with a "haven't you people ever heard of closing the god damn door?" Or really, locking it as the case may be :p sending you all directly back to the mid 2000s, want it or not lmao. Anyway it seemed appropriate for this chapter in particular.
 

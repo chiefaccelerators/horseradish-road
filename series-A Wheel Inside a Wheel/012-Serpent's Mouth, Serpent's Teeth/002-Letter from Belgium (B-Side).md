@@ -324,8 +324,6 @@ Kircheis met his eyes. Yang wasn’t sure what he saw in them, but it was earnes
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 i know that some of you have been waiting for this particular event for a while 
 
 this is simultaneously the perfect job for yang and also yang's literal nightmare hell job. sorry yang. we'll get to see more about yang's civil war planning as things progress, but for now we've got kircheis drama lol. i hope this plot point does not feel /too/ abrupt for people who have only been reading the empire side of the story\! this was a whole thing on reinhard's side. for those of you who haven't read that half yet, i don't want to spoil what happens in it, but there's /significant/ crossover plot points between the two story halves. i want to talk about it but I'll restrain myself :p

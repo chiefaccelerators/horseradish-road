@@ -66,6 +66,8 @@ Martin shook his head, and Kircheis squeezed his eyes shut, and pulled Martin cl
 
 “I won’t.”
 
+---
+
 When Kircheis returned home to his and Martin’s shared apartment after work on Friday, he found the place cold and empty. Although he had expected that Martin would not be there, he could tell something was different immediately. From the instant he stepped into the door, he had the sensation that something vital that had once lived in the house had vanished. He would later realize that the instant sense of foreboding was from his subconscious processing of the scene; both Martin’s hiking boots and daily shoes were missing from their usual place near the door.
 
 Kircheis took off his uniform jacket and hung it up on the hook near the entrance, taking just a minute to forestall any discovery that might lay further in. Nothing was awry in the kitchen, save for the dripping sink that their landlord had yet to fix, but when Kircheis walked into the bedroom, he found that the closet door was open, and all of Martin’s clothes were missing. The dresser, too, had been emptied. All that remained were Martin’s various trinkets on top of the bureau— his collection of miniature ancient statues, which he had made a habit of purchasing whenever he went to Odin’s national art museum. On the wall, there had once hung a picture of both of them and Hilde, taken at the Mariendorf house, but that photo had been removed, and only the frame was still there, sitting propped against the wall on the floor. In the living room, most of his books remained, but there were a few exceptions— the slender books of ancient poetry had vanished from their usual place of honor stacked on the top shelf. His toiletries were missing from the bathroom, and Kircheis’s toothbrush looked pathetic alone in its cup by the side of the sink.
@@ -228,6 +230,8 @@ He did, but that wasn’t the issue at hand. “Hilde— if I’m chasing Martin
 
 “You should ask for his help,” she said firmly. “He’d want to help you.”
 
+---
+
 *June 488 I.C., Odin*
 
 Kircheis waited until the beginning of the next month to ask Leigh for help. He did some poking on his own, and he might have continued to do so, except for the fact that on June 5th, military police showed up at his apartment door, looking for Martin.
@@ -307,6 +311,8 @@ The other man finished his cursory and destructive search of Kircheis’s room, 
 They saluted Kircheis again, who saluted back, and he showed them out of his apartment. When they had gone, he slumped against the door. His heart rate, which had been calm and under control when they were talking to him, spiked, all of the panic he had been suppressing coming up at once.
 
 He gazed at his apartment—  something sacrosanct had been violated by the MPs coming in and looking through his belongings. There were so many things that were out of place. When he was able to move again, he went through and fixed them all, feeling slimy. Last of all, he stood in his kitchen, looking at the card on the fridge. It hardened his resolve to find Martin. He would talk to Commodore Leigh at his next opportunity.
+
+---
 
 Commodore Leigh’s office was in the same state of disarray that it always was when Kircheis came to see him the next day. Leigh was looking out the window, chair tilted all the way back with his legs on his desk, so his view was up to the sky, where puffy white clouds were scuttling along, chased by the wind that whistled down the street. When Kircheis knocked and announced himself, Leigh rolled his head to look at him.
 
@@ -458,6 +464,8 @@ It seemed like Leigh had something else to say to him, so Kircheis waited a mome
 
 “Thank you, sir.”
 
+---
+
 The next night, Kircheis dressed in dark clothing, tucked his distinctive hair beneath a cap, donned a large pair of reading glasses purchased from the drug store, and walked through the center of the city, a can of spray paint tucked into the satchel that swung at his side. He had a destination in mind, though he was open to alternate possibilities if any occurred to him on the way. 
 
 He was almost waylaid by the Earth Church headquarters, the one that had burnt down several years ago, and had now been reconstructed on the same spot with a smooth concrete facade, something so unlike the usual Imperial architectural style that it was a wonder they had ever gotten a building permit. But eyeing the security cameras that dotted the corners of the building conspicuously, Kircheis moved on.
@@ -477,6 +485,8 @@ On the wall, in an unfamiliar script, Kircheis carefully wrote a fragment of a p
 ἢ τὰ Λύδων ἄρματα κἀν ὄπλοισι
 
 πεσδομάχεντας.
+
+---
 
 It was a week later that a postcard appeared in Kircheis’s mailbox. The front was a picture of birds flying over the ocean, with a picturesque sailboat cresting a wave beneath them— it was the kind of postcard that one could get in a tourist shop near any of the beaches about an hour’s drive from the capital. This one bore the name of what Kircheis presumed was a bar in the corner: The Captain’s Lounge. The back was scrawled in Martin’s undisguised handwriting.
 
@@ -666,6 +676,8 @@ Martin scuffed the ground with his toe. “I don’t want to listen to you beggi
 
 That was the best Kircheis was going to get, so he nodded. Martin looked at him for a second longer, then scrambled up the side of the dune and slid down the other side, headed back to the beach. Kircheis leaned back into the stiff grass and looked up at the sky, watching the birds wheel overhead.
 
+---
+
 *October 488 I.C., Odin*
 
 Kircheis was asleep in his empty apartment when his phone rang. After months, he had gotten used to sleeping by himself in the queen bed, but he still sometimes woke up disoriented when he got tangled in the sheets, reaching for a body that wasn’t there. There was that moment of disorientation now, as the phone buzzed and jangled on his nightstand, and Kircheis sat up in a thrashing panic.
@@ -749,8 +761,6 @@ Kircheis knew that the reason Leigh had told him to go to the Mariendorf house w
 “I will.” He hung up as the taxi pulled up to the curb in front of him.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 hope you enjoyed yang getting married. the fun times are over.
 

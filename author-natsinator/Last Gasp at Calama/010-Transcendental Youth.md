@@ -508,13 +508,11 @@ Siegfried held out his hand, and she dropped her phone into it. Thomas looked ov
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 well haha this is in fact the chapter that i built most of the fic around trying to get to, though i'm not sure if i did justice to what i originally envisioned. though of course one never does, and it's always that the product that exists supersedes whatever perfect thing exists in your imagination. i hope this is an interesting chapter for you anyway
 
 i'm like fully obsessed with the concept of people pretending to be someone who they're not. and i also just thought that having thomas go to a party like this would be a fun concept haha
 
-astute readers will recognize that this is the dancing scene described in THE CHILDRmEN OF THIS WORLD... >:^\) welcome to the noodle cinematic universe baybee
+astute readers will recognize that this is the dancing scene described in THE CHILDRmEN OF THIS WORLD... \>:^\) welcome to the noodle cinematic universe baybee
 
 magdalena is absolutely just. addicted to pot stirring. i love her so much. 
 

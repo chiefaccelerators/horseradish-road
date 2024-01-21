@@ -88,6 +88,8 @@ Reuenthal crossed his arms. “We’ll see.”
 
 Reuenthal smiled a little. “We’ll see.”
 
+---
+
 *June, 476 IC, Odin*
 
 Yang arrived at the Mariendorf household with his few possessions and rang their doorbell. The butler greeted him and showed him into a little reception room. Yang stood in it alone, stiffly, looking at the colorful upholstered furniture and the decorative plaster on the walls. After a minute or so, the countess swept in, wearing a much less formal dress than she had been the last time Yang had seen her. Yang was dressed in the Imperial fashion for the first time\-\- he had needed to scramble to find clothes that weren’t his school uniform\-\- and he didn’t exactly like the crushed velvet waistcoat and jacket that he was wearing. 
@@ -171,6 +173,8 @@ He felt distinctly uncomfortable, then. “Of course.”
 Yang didn’t know exactly what to say. Now, he wanted to escape. “Er, I don’t… Alright.”
 
 His awkwardness broke the pall that was hanging over Amelie. “You’re too young to be thinking about such things, I suppose,” she said with a smile. “Don’t worry about it.”
+
+---
 
 *July, 476 IC, Odin*
 
@@ -304,6 +308,8 @@ Yang didn’t know how to say what he needed to say, feeling like he was droppin
 
 “No,” the count said. He shook his head. “You should stay. For Hilde, at least.”
 
+---
+
 *July, 476 IC, Odin*
 
 Yang stayed. Much like Boris Konev had helped him wade through the death of his father, Yang provided what he could to the Mariendorf family. He distracted Hilde. He offered a listening ear to the count. He helped the staff arrange for the funeral. He disappeared when he sensed that he needed to disappear. He was a steady presence when he needed to be present.
@@ -339,8 +345,6 @@ He could try to be cool and detached all he wanted, but it wasn’t working.
 Yang didn’t say anything, just held him for a long few seconds, until Reuenthal dropped his arms and detached himself. They walked out of the trees and back to the house in silence. Yang knew that they probably wouldn’t speak of this again, so he tucked the moment away into a corner of his heart.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Sorry, little Hilde. Your mother is dead in canon so dead in fanfic she probably will also be. 
 

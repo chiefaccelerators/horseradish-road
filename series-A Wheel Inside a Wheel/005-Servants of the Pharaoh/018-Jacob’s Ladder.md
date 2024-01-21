@@ -262,6 +262,8 @@ Yang smiled. “I’m not usually wrong about things like that.”
 
 “Oh, jeeze,” Yang said. “She just was reminding me how she behaved very badly at a party, once. Don’t worry about it.”
 
+---
+
 *May 486, Odin*
 
 Yang learned about the trouble on Barbarasturm long after it happened, through several different channels.
@@ -576,6 +578,8 @@ Yang tilted his head. “And why would Martin know anyone on the frontier of fro
 
 Kircheis nodded, then turned to go.
 
+---
+
 The next morning, Yang woke to one piece of news from a very unexpected source.
 
 *Commander von Leigh,*
@@ -772,6 +776,8 @@ Reuenthal nodded. “I’ll find out where he is.”
 
 “Don’t do anything stupid,” Yang said. “Please.”
 
+---
+
 Princess Amarie and Duke Braunschweig lived on a vast and beautiful estate, but the heavy rain clouds that had been filling the sky since the night before made the scene gloomy in a way that seemed unpleasantly foreboding. Yang walked up the pebbled path to the front door, with Evangeline at his side. He had thought about bringing Magdalena, but the fact that Magdalena was still slightly in disgrace made that a fraught proposition, so it was just Yang and Evangeline, her wearing her nicest but most staid outfit, and Yang clutching in his hands a thick folder of all the evidence that he and Reuenthal had been able to gather. 
 
 One of the family servants let them into the house. Evangeline couldn’t help but be awed somewhat by the size and grandeur of it \(it was an order of magnitude more ostentatious than Magdalena’s estate\), but Yang had been in plenty of noble houses, and was far too distracted by the task at hand to appreciate the architecture and decor. He was so distracted, in fact, that Evangeline had to steer him out of the way of a side table, when they were let into some sort of sitting room. 
@@ -933,6 +939,8 @@ Amarie’s voice was dry. “It will not be without consequence, I’m afraid. M
 “Better to ask forgiveness than permission,” Yang said.
 
 “Is it?” Amarie asked, raising an eyebrow. “Well, no matter. We shall see what those consequences are in time, I suppose.” She stood. “Come. We will go find your friend. I’m sure it won’t take very long.”
+
+---
 
 They didn’t make it to the prison. 
 
@@ -1115,6 +1123,8 @@ Yang shook his head and said, “You might not, but Mittermeyer does.” Amarie 
 “About half a kilometer,” Reuenthal said.
 
 “Hmph.” Amarie hiked her skirts up a little and began walking. “Let’s move. The prison might not be pleasant, but at least it won’t be so wet.”
+
+---
 
 The officials inside the prison were weirdly cagey when they saw who had shown up, and on account of what prisoner. Yang realized he had been right to try to get Amarie on his side, because she brought the full force of her personality and rank down on the prison administration. Yang had originally accompanied her into the rooms with the prison staff, but when Amarie saw the dirty looks that he was consistently getting, she had asked him to wait in the hallway with Reuenthal and Evangeline. Reuenthal was ignoring Evangeline, but Evangeline seemed to be reappraising him.
 
@@ -1375,8 +1385,6 @@ And yet he was here, offering to aid in the continuation of that power, the pass
 As he trudged down the path, away from the house, towards the street, Yang couldn’t stop turning all of it over in his head. Every step he took felt like another rung on the ladder of bones. 
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 We’ve made it. We’re finally here. I hope you’ve enjoyed your trip on noodle’s wild ride. \(Or perhaps you are all saying, “Let me off of noodle’s wild ride\!”\)
 

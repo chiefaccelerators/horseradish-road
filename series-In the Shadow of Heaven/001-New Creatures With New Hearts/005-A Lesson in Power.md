@@ -304,7 +304,5 @@ Aymon smiled at Halen, tapped his wrist to indicate the time. Halen smiled back,
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 Thanks to Jade for the beta read.
 

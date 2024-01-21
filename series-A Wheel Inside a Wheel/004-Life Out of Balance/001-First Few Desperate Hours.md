@@ -114,6 +114,8 @@ Reinhard looked at where the boy had vanished to, then looked at his sister and 
 
 “Come back over here,” Annerose said. “I could use your help, I suppose.” So Reinhard clambered back over the fence and followed his sister inside, slopping water from the heavy, over\-full bucket onto his shoes on the way.
 
+---
+
 *473\- October 477 IC, Odin*
 
 Although Reinhard had somewhat assumed that Kircheis running away meant that he would not see the boy again, and that they were not actually friends as he had proclaimed them to be, that turned out not to be the case. Kircheis hovered around the edges of Reinhard’s life, always seeming to appear at the fence when Reinhard stepped out of his house. When Annerose released him from helping her with various tasks \(“Because little boys should have time to play outside,” she said\) he would always see Kircheis look up at the sound of the heavy front door opening.
@@ -425,8 +427,6 @@ Kircheis touched his own lips with his fingers, as though confirming by some oth
 “No,” Kircheis said.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Annerose can have little a personality. As a treat.
 

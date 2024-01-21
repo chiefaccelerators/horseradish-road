@@ -330,6 +330,8 @@ Yang ran his hand through his hair. “A distraction?”
 
 “Just let me think about it, okay?”
 
+---
+
 *December, 478 IC, Odin*
 
 In the end, Yang did end up respectfully declining the Mariendorfs’ invitation to stay with them over winter break, though he expressed his sincere regret while doing so, and said that he would spend at least a day visiting with them. He did like the count, and he adored the now nine year old Hildegarde, though he couldn’t understand what either of them saw in him to make them continue to invite him around for summer and winter breaks. But Mittermeyer had asked him so pleadingly that Yang couldn’t help but acquiesce to his friend’s demand.
@@ -460,6 +462,8 @@ When it got late, Mittermeyer showed Yang to the guest bedroom, and loitered in 
 
 “I’ve never\-\-” Yang said, but Mittermeyer just smiled broadly and walked away.
 
+---
+
 They did go ice skating the next day, on a frozen lake about a kilometer away from Mittermeyer’s house. Yang accessorized his warmest outfit \(his cadet uniform\) with a borrowed red scarf. He ended up borrowing Mittermeyer’s skates \(since they wore the same size shoe\), and Mittermeyer wore his dad’s, stuffing an extra pair of socks down in the too\-long toes.
 
 “I’ll make that sacrifice,” Mittermeyer said. “Since you’ve apparently never been skating before.”
@@ -565,8 +569,6 @@ Evangeline sighed and shook her head. “You’re funny, Herr von Leigh.”
 “Sure, Herr von Leigh.” He tried to get to his feet in his skates, and ended up having to lean on her arm, which made her laugh.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 You are humbly invited to compare and contrast the home lives of our three main characters. 
 

@@ -124,6 +124,8 @@ Reuenthal wrote ‘Admiral August Samuel Wahlen’ on the board beneath Yang’s
 
 “You’ll have first pick from anyone we bring in, then,” Reuenthal said to Yang. “I’m sure you’ll exercise good judgement.”
 
+---
+
 *March 477 I.C., Odin*
 
 The informal club that they had founded expanded in number to about fifteen people, encompassing a few of the top students from each of the four years. It was entertaining, Reuenthal supposed, to enlarge his social circle somewhat, though he doubted that he would ever get as close with some of the new members like Bayerlein or Fahrenheit as he was with the original group, and even moreso, Yang and Mittermeyer.
@@ -224,6 +226,8 @@ Eisenach thought for a second, then nodded, slowly.
 
 Reuenthal smiled a cold smile. “I’ll get you the numbers you need to run the game.”
 
+---
+
 Getting a list of all the ships operating off of Phezzan was not particularly difficult. All it involved was combing through the past couple years of newspapers and publicly\-available port call information, to see what the usual traffic on and off the planet was.
 
 For just being one planet, out of the hundreds that the Empire and Free Planets’ Alliance both had as part of their territories, Phezzan saw a shocking amount of ship traffic. Perhaps that shouldn’t have been surprising, since it was the only route between the two main areas of the galaxy, but Reuenthal had never come up with exact numbers like this before, so he had not quite grasped the scale.
@@ -307,6 +311,8 @@ Mittermeyer looked at him with a warm expression, and hooked the key onto his ow
 “We need to make his fight in the corridor as miserable as possible,” Reuenthal said. “Eiesenach told me that I could organize some kind of Phezzani merchant fleet defense, but that will only be able to hold out for so long. After that, you’ll be in position to at least block the corridor. You might have time to set up a minefield.”
 
 “I like that thought.”
+
+---
 
 The next Saturday rolled around. The tension of their game had felt like a low pressure front rolling through the sophomore class, making even friendly conversations between Yang and Reuenthal charged with an undercurrent of excitement. This competition was something new, for the both of them. Yang was stepping out of his comfort zone, and Reuenthal wondered if that would be the thing that finally allowed him to take victory over Yang.
 
@@ -478,6 +484,8 @@ Yang shook his head, then looked at Eisenach. “Is he out of the game?” he as
 
 That did make Mittermeyer smile a little, and he took Yang’s offered hand. “Yeah, I did.”
 
+---
+
 *April 477 I.C., Odin*
 
 After the initial excitement of Yang’s invasion through Phezzan, things calmed down a little bit. Localized, smaller conflicts as Yang sought to seize planets en route to Odin and protect his own supply line were more interesting and easier to handle, because as Yang delegated these tasks to his subordinates, there was an opportunity for him to actually lose. Bit by bit, Yang’s invading fleet was being knocked down, and he was having trouble getting enough ships through the Phezzan corridor to reinforce himself.
@@ -600,13 +608,11 @@ Mittermeyer looked between Yang and Reuenthal, obvious conflict on his face, the
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 Been a while since I posted one of these lol. i figured that in order to make TWS worth actually reading, instead of just reading SiT again, I should include some new material. I think I need to go back and change like one or two paragraphs of continuity in SiT about Eisenach controlling the Phezzan defense, but that's nbd
 
 this is what happens when you slightly retcon your previous work in order to make an untold half of the narrative more interesting
 
-I hope it's interesting, anyway haha. I feel like this story is a totally different mindset than like everything else that I've been working on, or at least this chapter is. so idk how well i did with it. >.> 
+I hope it's interesting, anyway haha. I feel like this story is a totally different mindset than like everything else that I've been working on, or at least this chapter is. so idk how well i did with it. \>.\> 
 
 anyway, I want to get this story finished so it can stop haunting me.
 

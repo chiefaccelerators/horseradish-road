@@ -88,6 +88,8 @@ Yang smiled. His expression was soft but his voice was wry. “You know, of all 
 
 Mittermeyer laughed at that, lightening the mood significantly. “Nevermind, Wen\-li, I don’t understand you at all.”
 
+---
+
 *August 487 I.C., Iserlohn Fortress*
 
 It never ceased to be a joy to return to sub\-light speeds in the area around Iserlohn, and to watch its glittering soap bubble come into focus. From far away, its perfect, dark roundness against the backdrop of stars made it almost appear like a black hole, too close for comfort. As the ships approached, more and more reflected starlight appeared in the silvery liquid metal shell. 
@@ -203,6 +205,8 @@ Yang was quiet for a moment. “Will you help me?” he asked. “Find a way thr
 “Yes.” He put his mechanical eye back in. “Whatever you require of me, you will have.”
 
 “Thank you.”
+
+---
 
 Oberstein eventually had to leave to start his next shift, and Yang spent some more time wandering alone through the Iserlohn gardens, trying to shake off the strange feeling that had settled over him. Although Oberstein hated it, Yang couldn’t bring himself to dislike the eerie unnaturalness that Iserlohn represented. The gardens calmed him, in exactly the way they were designed to do.
 
@@ -520,7 +524,7 @@ Mittermeyer had never been good at keeping his feelings from his face. His mouth
 
 ## Chapter End Notes
 
-Chapter End Notes
+fyi, there's an extra scene that takes place at the end of this chapter... lol
 
 This Action Will Have Consequences
 

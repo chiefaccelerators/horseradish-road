@@ -112,6 +112,8 @@ There was something in her voice that made Yang change his mind immediately, but
 
 She nodded, and that was a dismissal. He slipped out of the library.
 
+---
+
 Yang ended up caught in the flurry of activity around the Braunschweig manor for quite some time. He had texted his various allies who remained on Odin during his car ride to the Braunschweig house, but since he was sending warning messages to so many people, he hadn’t had a chance to call anyone other than Kircheis. Yang slipped away from where Duke Braunschweig was surveying the scene from the front hall, sneaking down the back of the house and out towards the yard where he had once spoken with Ansbach, down near the servants’ hall. There was no one there, since all of the servants were hurriedly engaged in getting the house ready to leave, and so Yang had some privacy there in the very early hours of the October morning. He stood beneath the lip of the roof, and the bulk of the house made sure the wind didn’t toss the drops at him.
 
 He shivered in the cold, and rubbed his hands together before he pulled his phone from his pocket and dialed Reuenthal’s number with shaky hands. The adrenaline from having woken up in the middle of the night had long since worn off, and it was tiredness that quavered Yang’s limbs now. Reuenthal picked up on the second ring.
@@ -201,6 +203,8 @@ He could hear Reuenthal breathing. “Isn’t your phone still tapped, Hank?”
 Yang smiled, despite everything. “I don’t think I care anymore.”
 
 “Then goodbye, Wen\-li,” Reuenthal said, almost quietly enough that Yang couldn’t make out the name. He felt an overwhelming warmth in his heart, enough to make it hard to speak through the choke of emotion rising up through his throat. By the time he had figured out what he wanted to say to Reuenthal, he had hung up.
+
+---
 
 The journey to Geiersburg Fortress was not particularly long. The fortress was about halfway between Duke Braunschweig’s owned territory and the capital, further back into the heartland of the Empire, away from the Iserlohn and Phezzan corridors. Throughout the journey, Duke Braunschweig was in very high spirits, and this was a contagious feeling for some of his family members. Baron Flegel seemed cheerful, anyway. Of the two women on board, Princess Amarie and Kaserin Elizabeth, it was impossible to tell if their smiles and laughter in the presence of the duke were sincere. Both of them were very good actors.
 
@@ -371,6 +375,8 @@ Ansbach was silent for a moment. “And you think this will work?”
 Yang let out a huff of a laugh. “When should he have resigned, then?”
 
 “Probably when I refused his queen trade,” Ansbach said. “But he never resigns. It’s not like him.”
+
+---
 
 Yang explained his alternate plans to Merkatz, who quickly dispatched a few ships to find and gather a suitable asteroid for their purposes. Although on a map, it appeared that Geiersburg was in the middle of empty space, it was situated along one of the major routes that ships could use to travel faster\-than\-light through the Empire, where the strings of gravity formed channels for ships’ engines to cut their ways through. Long ago— many billions of years, Yang supposed— this part of the galaxy had held a star system, or something that might have tried to form a star system. Now there was only cold rubble, sparse through space, but it was massive enough to draw those invisible lines of force closer together. And it was plentiful enough that it was easy to find a suitable chunk of rock, one that even two strikes from Geiersburg’s main gun wouldn’t be able to vaporize entirely.
 
@@ -562,6 +568,8 @@ As glow faded behind Yang’s eyelids, he still took a moment before he opened t
 
 He stumbled past Elizabeth and ran out of the room.
 
+---
+
 Even though it was chaotic on the bridge, Yang was relieved beyond words to find out that Merkatz was still alive and was coordinating the retreat. The fleet was in disarray, which meant that it took too long to get all the ships moving again. It almost took the full ten minutes of Geiersburg’s recharge time on its beam cannon, and, as they retreated, they were fired on again, a second shot that wiped out one of the straggling sections of their fleet. At least this time they kept moving out of range without needing to turn.
 
 They finally made it well out of Geiersburg’s firing distance, and then there was time to regroup. In all, they had only lost one hundred ships —a tenth of their fleet— to Geiersburg’s attack, due to how thinly they had been spread out. It was far less of a blow than they had any right to expect, but Yang couldn’t feel happy about that loss of life. He felt guilty—he should have pushed harder for some alternate plan, one that didn’t involve charging headlong into Geiersburg’s range.
@@ -605,6 +613,8 @@ This was probably true, but Yang didn’t like it. “We should warn them anyway
 “No,” Braunschweig said. “This is war, Leigh.”
 
 Yang couldn’t reasonably object more, so he just slid back in his seat.
+
+---
 
 This time, Yang stayed on the bridge to watch the action. It was uniquely terrible to see the huge rock on the monitors, pushed by four empty ships, their engines flaring red. With the magnification up so high, the jutting, craggy rock was visible in a horrid clarity. As their cameras tracked it, filling the whole screen at the front of the bridge, it didn’t even seem like it was moving—the only indication of its motion were the specks of stars that flashed past the edge of the video feed. It was traveling far too fast for the human eye to follow, even if it had been close enough to see. It was maybe only a hundredth of Geiersburg’s mass, probably even less, but it was dense, and that density would protect most of its mass from the beam. It was oblong, too, and the pushing ships were at the far end. The beam would have to eat through more than two kilometers of solid rock to completely vaporize it.
 
@@ -787,8 +797,6 @@ Although Yang fixed his eyes on Elizabeth, who watched the scene with her lips s
 The soldier did, falling quickly to knees before the throne, staining his hands and pants with blood.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 it's my birthday :3 so i will give you a chapter
 

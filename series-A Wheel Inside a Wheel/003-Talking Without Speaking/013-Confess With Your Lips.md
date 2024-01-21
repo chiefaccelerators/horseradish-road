@@ -308,8 +308,6 @@ Mittermeyer looked at him and smiled, that wide, open, tender expression, that e
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 Although I knew what I wanted to say in that last conversation, it was still a little difficult to write lol.
 
 ok one more chapter and then this book can stop haunting me haha

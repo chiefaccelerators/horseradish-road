@@ -136,6 +136,8 @@ Reuenthal had succeeded in making them both miserable, it seemed. This was what 
 
 “I’m not— I’m just being realistic.”
 
+---
+
 *December 487 I.C., Odin*
 
 Reuenthal settled himself back in his home on Odin without the least bit of fanfare. He wanted to see Yang, but this seemed to involve passing through a gauntlet by the name of Magdalena, who, having learned through Mittermeyer’s wife that Reuenthal was back on the planet, invited Reuenthal to dinner with herself and Yang before Reuenthal could get a chance to speak to Yang on his own. On some level, it was his fault for having the bad habit of always trying to sneak back onto the planet— but he blamed Magdalena for the annoyance nonetheless.
@@ -275,6 +277,8 @@ Yang was silent.
 “I see.” Duty— that was all.
 
 Yang was silent again for a long time. “And I’m a very selfish person,” he said. His head was pressed against the glass of the window, and his eyes were closed.
+
+---
 
 The solstice party in Neue Sanssouci was one that Reuenthal thought that he shouldn’t have had an invitation to, but on paper, there was no reason for him not to get one. Every flag officer in the capital who was part of the *Reichsflotte*— not belonging to a private noble’s fleet— had been invited, along with sundry nobility and other court functionaries who Prime Minister Lichtenlade considered to be harmless enough. It seemed ridiculous that he and Mittermeyer had been invited, since they had just been kicked out of Iserlohn for their associations with Duke Braunschweig, via Yang, and Reuenthal wished that someone had realized this and scrubbed his name from the invite list. He had no desire to be here, but it was mandatory.
 
@@ -545,8 +549,6 @@ She opened her mouth enough to bare her teeth, and Reuenthal let go of her chin 
 And she smiled, knowing that she had won.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 "With friends like these, who needs enemies?"
 

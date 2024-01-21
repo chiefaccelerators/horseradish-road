@@ -432,8 +432,6 @@ Mittermeyer did kiss Yang’s hand, then.
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 we are about to enter the most exciting string of chapters in this story yet lol. i don't think i've been this excited to write something since the end of itsoh act 2 lol. i love it when all the dominoes i've spent so long setting up finally get to start falling\-\- it makes the writing way easier b/c all the tools i need are at hand and it's payoff all the way down haha. anyway no one has yet guessed what is going to happen next chapter even though i've set it up in a /very/ obvious in hindsight way so i have to imagine you all are going to be very surprised lol. we're headed back to the horrible girl house next chapter :3
 
 anyway... um well the title of this chapter is from the book of david and belshazzar's feast. it's maybe a /little/ on the nose but i've wanted to name a chapter this for aaages so here it is haha

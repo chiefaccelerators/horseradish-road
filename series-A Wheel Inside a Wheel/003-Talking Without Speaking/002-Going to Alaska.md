@@ -52,6 +52,8 @@ His father shook his head. “Don’t make a fool out of yourself,” he said, t
 
 The taxi was pulling up outside.
 
+---
+
 It took very little effort for Reuenthal to unpack his belongings in his new dorm room, since he had so little. This left him with plenty of time to familiarize himself with his class schedule and walk around the campus to find all the buildings.
 
 He liked his new uniform. It was nicer than the one his high school had assigned. He enjoyed the relative anonymity of walking around the campus and strolling through the freshman dormitories, reading the names off of the little brass tags on the doors, scoping out who lived where.
@@ -105,6 +107,8 @@ Reuenthal barely paid any attention to the sonorous speech. Instead, he watched 
 At last, Chancellor von Steger raised his own wine glass. “To your future as students, and to the Empire\! Sieg Kaiser\! Prosit\!”
 
 Across from him, the mumbled “Prosit” that Leigh gave could not have been less enthusiastic. Reuenthal found it amusing that Leigh so clearly did not want to be here, but was second in the class. He raised his own glass, gave a “Prosit” of his own in Leigh’s general direction, then drank. The wine was cheap, but he didn’t mind at all.
+
+---
 
 Reuenthal spent his first few days of classes mostly alone. Although he had no problems with the other students, per se, he had no real use for them. He wasn’t the most social of people under the best of circumstances, and the competitive atmosphere of the IOA made him suspect that most people who would want to be his friend here would turn around and stab him in the back without a moment’s hesitation, should the opportunity arise.
 
@@ -160,7 +164,7 @@ All at once, it was like a switch had been flipped. As soon as his opponent real
 
 < Your opponent has announced a retreat. You have the option to end the game. Do you take it?
 
-> Yes. 
+\> Yes. 
 
 The computer screen went black as his little simulation ended. Reuenthal stared at his reflection in the blank screen for a moment, then stood and stretched. He realized that he was the last person in the classroom. Even the TA who had been sitting at the front of the room had left. His opponent and GMs must have been sitting in different classrooms, and he had gone past the end of class time, playing out this game. He took his time gathering his belongings, not in any rush to get back to his dorm.
 
@@ -193,8 +197,6 @@ Reuenthal was surprised that Leigh thought that he had lost. It was true that Re
 “You should decide what level you’re playing the game on, von Leigh.” Reuenthal had no desire to start giving Leigh real tips on how to beat him next time, so instead of saying anything else, he gave a curt nod and headed off down the hallway. He could feel Leigh watching him as he left.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Chapter title is from a mountain goats song. https://youtu.be/XErY0ZueBEQ
 

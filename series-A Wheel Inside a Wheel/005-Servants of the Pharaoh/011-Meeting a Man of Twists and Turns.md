@@ -56,6 +56,8 @@ Kircheis was silent. His mother’s breathing was ragged. He looked out at the f
 
 He hesitated for a second, then took it. She stepped out of the car, leaving Kircheis alone for a minute. He stared at his reflection in the window, barely visible in the twilight. “What have you done, Siegfried?” he whispered to himself.
 
+---
+
 The next day, Kircheis went to school. It was difficult to pretend like nothing had changed, that nothing was wrong, during his classes. He spoke to the principal briefly and expressed that he would be leaving school early to attend the IOA. The principal was overjoyed, wanting to brag about Kircheis’s acceptance to the rest of the student body, hold up their model student as an example, but Kircheis begged him not to. His acceptance to the IOA felt like a mistake, and his upcoming attendance felt like a shame. He wasn’t looking forward to it.
 
 Martin caught his eye in the cafeteria at lunch, though when he first caught sight of Kircheis he looked as though he had seen a ghost. Kircheis jerked his head and the two of them left the cafeteria, then met up in the hallway. Kircheis, feeling fairly bold, walked swiftly through the empty hallways of the school, towards the entrance to the gym, and then out through the back door towards the woods. There was a spot out there that was easy to escape to, where a lot of students went to skip class and smoke. It was cold out, and neither of them were wearing their jackets, so they couldn’t stay out for long, but all Kircheis wanted to do was have a quick talk in private before lunch ended.
@@ -178,6 +180,8 @@ Martin nodded. “Okay.” Before they pressed through the final bunch of trees 
 
 Kircheis smiled. Perhaps uncomplicated was the wrong word for it, but Martin was a bright spot in his life, perhaps the only one. He glanced around, making sure that they were still invisible from the perspective of the school building, and leaned forward to kiss Martin, running his hand through his hair, feeling his solidity and warmth.
 
+---
+
 *August 482 IC, Odin*
 
 His mother had cried when she had dropped him off at school. Kircheis had felt uncomfortable, but had tried to comfort her as best he could. He thought that maybe she should have been more relieved. After all, she could not possibly have forgotten that this was the least of all punishments he could have possibly gotten. It was hardly a punishment at all. 
@@ -201,6 +205,8 @@ Von Steger’s speech continued. Kircheis couldn’t help but continue to look a
 It didn’t take much longer after that for von Steger to conclude his speech and the whole room to raise glasses in a toast towards the Empire and their future. Kircheis glanced at the staff table once again during the toast, and saw that the odd\-looking lieutenant commander was watching the table where Kircheis was sitting with an odd expression, a tiny, weird smile. In fact, he was looking directly at Kircheis.
 
 Kircheis was confused by the stare, but met the man’s eyes, and, for whatever reason, his smile was suddenly more genuine and wider. Kircheis didn’t smile back, but he did raise his glass in his direction. “Prosit\!” he said along with the crowd.
+
+---
 
 Kircheis’s first day of classes was normal, and he didn’t see the mysterious lieutenant commander again. He was quickly becoming acclimated to the atmosphere of the school, for better or for worse. He could recognize at a glance who were upperclassmen and who were underclassmen, and he was doing his best to put names to faces for the members of the freshmen class. His schedule was full, but thus far his classes had seemed interesting. He had signed up for the strategic warfare program because it had been recommended to him, and apparently that same recommendation had been made to all of the top students of the class, because they followed each other around from class to class in a pack. They hadn’t known each other long enough to form a tight knit group, and there was an obvious feeling of competition between them, so Kircheis had no idea if they were all going to end up as friends. He rather doubted it.
 
@@ -392,6 +398,8 @@ It was at this point that the train began to pull in to the station, and Hilde g
 
 “Nice to meet you as well, Fraulein Mariendorf.” The train hissed to a stop and Hilde got on, waving one last time at Kircheis, who remained on the platform until the train departed.
 
+---
+
 *October 482 IC, Odin*
 
 It became Kircheis’s tradition to meet Hilde at the main gate and walk her in to visit Leigh. The guards on duty didn’t really care, or were mostly amused by Hilde’s self assuredness \(unexpected from such a young lady\) and soothed by Kircheis’s calmness about the situation. Pretending like it was normal somehow allowed it to be so. He wasn’t sure how she had secured permission to skip her regular school, but she showed up without fail after lunch every Tuesday and Friday. Kircheis was rather charmed by her, and she always brought some sort of snack to share with him at the end of class, so he suspected that she liked him, as well. 
@@ -422,49 +430,49 @@ He was friendly to and generally well liked by his classmates, but he wouldn’t
 
 It was in October, when he felt like he had really settled in to his schedule and way of life at the IOA, that he received notice of a slight upcoming disruption. He lay on his bed and texted Martin about it, holding his phone above his head.
 
-> don’t bother coming to see me this weekend
+\> don’t bother coming to see me this weekend
 
 < why?
 
-> I have to go on a school trip
+\> I have to go on a school trip
 
 < to where
 
-> neue sanssouci
+\> neue sanssouci
 
-> for a deer hunt
+\> for a deer hunt
 
 < …
 
 < who will be there?
 
-> top students from each class
+\> top students from each class
 
-> and i assume whatever staff are shepherding us
+\> and i assume whatever staff are shepherding us
 
-> i don’t know if we’ll see anyone at neue sanssouci
+\> i don’t know if we’ll see anyone at neue sanssouci
 
 < stay safe
 
-> i’m sorry that we won’t be able to meet this weekend
+\> i’m sorry that we won’t be able to meet this weekend
 
 < it’s fine, i’m sure i can find some homework to work on
 
-> school still fine?
+\> school still fine?
 
 < worse without you
 
-> i’m sorry :\(
+\> i’m sorry :\(
 
 < it’s ok :\) when I go to ONU we’ll be much closer
 
-> seems like a long time away
+\> seems like a long time away
 
 < not that long. year and a half
 
 < you’re more patient than i am so you should survive
 
-> maybe so
+\> maybe so
 
 Kircheis smiled at his phone, then put it away to sleep. 
 
@@ -725,8 +733,6 @@ Leigh smiled at him. “If there’s any insult here, it’s been my fault. Well
 Before Kircheis could say anything in reply, Leigh was already walking away.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Black lives matter protests continue. If you haven't yet, I urge you to find a bail fund or community organization to donate to. Please stay safe if you are attending any demonstrations in your area.
 

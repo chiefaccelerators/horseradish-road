@@ -122,6 +122,8 @@ She shrugged. 
 
 She shook her head and walked away, short red cape and long black braids flapping behind her as she went. Aymon signaled to one of the guards at the door to make sure she didn’t go wandering too far.
 
+---
+
 Aymon spent most of the day so occupied with Fleet meetings that he barely had time to think about his two distant apprentices. He had always been good at focusing on the task at hand, solving problems that could be solved. It was only at the end of the day, after a grueling formal dinner, that Aymon made his way to the private transmission room to set up an ansible call with his apprentices. It would be the mid\-morning for them, and though he did not have their full schedule on hand, he knew vaguely that they were not going to meet with the Olar governor until the evening, at a private dinner. He wouldn’t be interrupting anything to call now.
 
 He hadn’t told Halen that he would be calling them, but he assumed that Halen would be pleased. This wouldn’t take long.
@@ -262,6 +264,8 @@ Aymon ignored the verses from *Terae’s Song* which flooded into his head, inst
 
 “Yes,” Halen replied.
 
+---
+
 On the last scheduled day on Tyx\-III, Aymon took a plane trip to visit other parts of the front. He left Kino behind, as she had asked to take a tour of the deeper cleared caverns, including some hot springs that were further out. Since she was with her minder and plenty of other guards, and was capable in her own right, Halen deemed it safe enough for her to go, even though communications in the further, deeper part of of the caves away from the base were patchy. 
 
 The flight back to base was exhausting and uncomfortable. It took place in the dark, the sun having set an hour before takeoff, but the onset of night only served to make the constant barrage of wind more disorienting. Without a visual reference to the ground, and with his power unable to reach far enough to feel it, Aymon’s unease grew with every shudder of the fuselage and increasing whine of the engines. Halen was a bulwark against the dark window, his profile lit only by the floor lights in the cabin, which were barely enough to see by. The real lights had been turned off, in case Aymon wished to sleep on the nearly four hour flight, but he found that impossible.
@@ -341,8 +345,6 @@ Lang’s expression was unreadable in the blinking red runway lights. “Yes,”
 Halen stared at her. “Please do not confuse your hopes with an accurate assessment of the facts, General,” he said finally.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 I thought that this chapter would encompass way more of Kino's Stupid Cave Adventure, but this chapter ended up being way more like. weird aymon/halen vignettes. i'm not sure if it like. works? if it doesn't let me know. but ofc you all like my horrid evil husbands so.lol.
 

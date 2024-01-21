@@ -252,7 +252,11 @@ They were both spared the pain of him answering— Kircheis opened the basement 
 
 “Thank you, Lieutenant Kircheis,” Eva said, trying to keep the tears out of her voice.
 
+---
+
 The little blonde girl still felt real in her dreams.
+
+---
 
 Eva stayed in the underground room for several days. She heard reports come in from the soldiers that snuck in and out, and from what crackly things sounded over the radio. She occasionally looked at the careful map that Reuenthal was keeping of the movements of troops within the city, watching as Littenheim’s forces progressed inexorably towards Neue Sanssouci. She didn’t know how Reuenthal could look at them so dispassionately— every street they passed through seemed to her to be someone’s home.
 
@@ -383,8 +387,6 @@ Tentatively, she put her hand on Maggie’s. “It’s kind of you,” she said.
 “To feel compassion for another woman’s son,” she said.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 well if you've been wondering what justification eva has been using about mittermeyer's secret that she absolutely does know about. here it is lol. it's a classic case of fitting the facts to something that you want to be true, rather than actually is true. sorry eva.
 

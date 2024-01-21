@@ -82,6 +82,8 @@ Castrop was silent for a long moment. “Fine,” he said. “If you really beli
 
 “Thank you for the assurance, Lord Castrop. I’m sure that you are a most gracious host.”
 
+---
+
 Since the whole idea for the trip had been conceived and shoved into motion so quickly, Leigh spent the first couple days cloistered in his room, poring over every scrap of material that was available on Lord Castrop. He monopolized the ship’s FTL communications, using them to connect remotely to any data source he had access to. 
 
 Hilde saw him at dinner, and, on the first day, he passed her a stack of scribbled notes to peruse, things that he thought might be useful to her, specifically. These notes contained takeaways that Leigh had gathered about Castrop’s personality, mostly what tacks might be useful in negotiating with him. Hilde looked them over dutifully, and hoped that they would come to good use, but she doubted it. None of the anecdotes in the dossier created an image of a man who liked to negotiate.
@@ -181,6 +183,8 @@ Leigh closed his eyes again. “Don’t apologize. I would ask the same question
 “It’s a good plan, sir,” Kircheis said. “Thank you for putting it all together for us.”
 
 Leigh nodded, and said nothing more.
+
+---
 
 Hilde and Kircheis didn’t bring much in the way of luggage with them in the shuttle down to Castrop’s planet— they had absolutely no intention of staying for any longer than they had to— so all that was packed in the back of their shuttle were minimal supplies. Some of it was disguised as a standard toolkit that any shuttle would have, one for performing repairs on the outside of battleships. They had brought weapons, but those were hidden beneath the metal floor panels of the shuttle, though they would probably be found if the ship was to be searched. They were going to have to be unarmed as they went into Castrop’s estate proper to negotiate, but that couldn’t be helped. And because they were planning to go directly to his estate after landing, Hilde was forced to wear an outfit that had been chosen for her talks with Castrop all the way down onto the planet.
 
@@ -434,6 +438,8 @@ Hilde frowned. “Well, we’ll figure something out.”
 
 He hugged her again, stroking her hair, and they could hear the sound of the guards moving in the hallway.  They had only been allotted a short meeting.
 
+---
+
 Hilde and Kircheis were escorted back to their shuttle. In the flickering light of the torches carried by the guards, their shadows stretched long across the airfield. As they got ready to depart, Hilde looked around the airfield carefully, noting where the few buildings and radars were, where the guards stood, and where Lord Castrop’s ship sat, like a squat, gaudy monstrosity, parked on the edge of the field. It was surely locked tight, and they would need to figure out some way inside it. She and Kircheis hadn’t gotten a chance to speak, but she was suspecting that they were formulating the same plan. She leaned on the side of the shuttle, while Kircheis walked all around it, making a visual inspection to see how much, if any, it had been tampered with, and if it was safe to fly.
 
 He decided that it was safe. This didn’t surprise Hilde, after all, Castrop clearly wanted to demonstrate shooting them down, which he could only do if they were airborne. So they got in. Kircheis also checked the inside of the shuttle for signs of tampering, but all of their supplies appeared exactly where they had been left, and nothing seemed amiss. So, he was confident enough that their shuttle hadn’t been bugged that he was willing to speak aloud.
@@ -495,8 +501,6 @@ This was a practical suggestion, but Hilde found it inexplicably funny, and she 
 As he came up beside her, she gave him a grim smile, and he gave one back, his eyes crinkling up in that endearing way, barely visible in the starlight and Hilde’s flashlight beam that bobbed in front of them along the ground. At least they were here together— even if Hilde had a thousand tools at her disposal, Kircheis’s presence would have been more important than them all.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 tbh i want to be free of the castrop plot lol. it's important for reasons \(mostly on the other side of the story lol\) but i want to hurry up and get to new content.
 

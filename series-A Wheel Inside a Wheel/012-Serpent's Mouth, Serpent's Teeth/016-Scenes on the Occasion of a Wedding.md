@@ -134,6 +134,8 @@ The noise woke Yang up, and he jolted upright, his face beet red, and he looked 
 
 “It’s fine, Leigh,” Mittermeyer said. “If it bothered me, I would have woken you up.”
 
+---
+
 *Reuenthal*
 
 Why he had been convinced to come here tonight, Reuenthal couldn’t explain. The bar that Yang’s bachelor party was being held at was upscale, and a far cry from most of the bars that Yang had preferred to frequent back in the days when he was teaching at the IOA. He was sure that Yang hadn’t picked it, even though it was his event. It must have been suggested to him by his fiancee, or even by someone like Duke Braunschweig. At least everyone else at the gathering seemed to appreciate the venue, probably due to the tab Yang had opened at the bar, on which everyone was putting their drinks.
@@ -434,6 +436,8 @@ Reuenthal turned around, leaning against the railing with his elbows behind him.
 
 “I should go home,” Reuenthal said. “I’ll see you tomorrow, Mittermeyer.”
 
+---
+
 It was pouring rain when Reuenthal arrived home. His car headlights slashed through the haze and illuminated the walls of his house. Even though it was well past midnight, approaching two in the morning, there were lights on in the windows, and he could see Elfriede’s shadow cross the kitchen.
 
 He sat in the car with his lights off and watched her silhouette move across the room. He pretended like she was someone else, but he didn’t know who. When she stopped her pacing around the kitchen and stood in front of the window watching him, Reuenthal finally turned off the car and walked up to the house, splashing through the invisible puddles in the driveway and slamming open the side door.
@@ -545,6 +549,8 @@ He was silent, which made her tug on his hair again, until he slapped her hand a
 Yang did— he knew this, as surely as he knew his own name— but Reuenthal would never say that to Elfriede. “If I didn’t, you wouldn’t be here,” he said.
 
 That was enough to shut her up.
+
+---
 
 *Yang*
 
@@ -879,8 +885,6 @@ Yang understood what Reuenthal was asking for. If he couldn’t live for Yang—
 He didn’t know what to say— refusing would hurt Reuenthal, and he couldn’t bring himself to accept— so instead he rested his head on Reuenthal’s shoulder. “It won’t come down to that,” he said.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 it's literally so late and i have to be up so early doing complicated things tomorrow 😭
 

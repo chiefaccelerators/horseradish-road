@@ -178,6 +178,8 @@ Martin leaned towards him. “We still live in an era of kings, but without grea
 
 “Hmm,” Martin said. “What a conundrum.” He put his hand on Kircheis’s face and the two leaned together to kiss.
 
+---
+
 *February 482 IC, Odin*
 
 His mother was making dinner in the kitchen, but she had called him in to help out. Kircheis was more than willing to set the table, but, as it turned out, his mother had been attempting to corner him in a conversation. Although he was much taller than she was, he was a little shy and deferent around her, never wanting to upset her if he could help it.
@@ -331,6 +333,8 @@ Kircheis hated the direction this conversation had gone in, and he wished he had
 “Alright, alright,” she said. “I simply don’t understand what you see in him.”
 
 “He’s a good person, and a good friend,” Kircheis said. “That’s all.”
+
+---
 
 “What did you want to go into the city for?” Kircheis asked, sitting with Martin on the train, wedged up against the cold window. Martin had his backpack on his lap, and when Kircheis had offered to carry it, he had discovered that it was quite heavy. He had asked what was in it, and Martin had declined to respond.
 
@@ -836,15 +840,13 @@ The judge nodded once, sharply. “I sincerely hope that I do not see you again,
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 Serious things first: You've probably been seeing news about the racist murder of George Floyd, and the ongoing worldwide protests against police brutality. I highly encourage you all, if you haven't already, to go donate to a bail fund, a Black Lives Matter group, or \(where I personally donated to\) split a donation across several different bail funds/relevant charities https://secure.actblue.com/donate/bail_funds_george_floyd . If you are attending a protest in your area, please stay safe. 
 
 On to chattily discussing the chapter: I suspect that some of you are probably very angry right now lmao.
 
 Martin Bufholtz is a man who shows up in one \(1\) gaiden episode \(in HBSHBL\), flirts with Kircheis, insults Reinhard, and then dies offscreen. And yet, I think he's very interesting. Kircheis is experiencing the phenomenon known as "dating the only other gay guy in your high school." 
 
-this plotline was thought up long before racism and police brutality was the biggest item in the news \(I think I was mentioning it to Lydia back before the rona was even A Big Deal here, or maybe it was early into the rona times, either way, it was ages ago\). it's awkward that it's so timely >.>
+this plotline was thought up long before racism and police brutality was the biggest item in the news \(I think I was mentioning it to Lydia back before the rona was even A Big Deal here, or maybe it was early into the rona times, either way, it was ages ago\). it's awkward that it's so timely \>.\>
 
 Kircheis gets off easy because his mother came in to plead his case, had a lot of compelling character evidence \(the IOA admission\), Kircheis hadn't actually done anything and everybody knew that, and when the other people who were arrested were questioned about him they were like "literally who is that kid. bet he's an undercover cop anyway". so he got off easy easy. the others, not so much. except for Martin, who is totally unscathed except for mentally. oh, and also Kircheis's parents hate him even more now. 
 

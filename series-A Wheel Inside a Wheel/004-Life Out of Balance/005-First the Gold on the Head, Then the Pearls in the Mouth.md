@@ -86,6 +86,8 @@ Annerose nodded and turned away, but as she reached the door, Jessica called out
 
 “I will,” Annerose said, then escaped. 
 
+---
+
 When Annerose returned to her room after dinner that night, she found Kino sitting on the floor of the hallway outside.
 
 “Forget your key?” she asked, fishing around in her pockets for her own.
@@ -271,6 +273,8 @@ Annerose laughed. “No.” They made it to the parking lot, where Jessica leane
 “Sure,” Annerose said. “You’ve convinced me.”
 
 “Excellent.”
+
+---
 
 *June, 790 UC, Heinessen*
 
@@ -675,8 +679,6 @@ He laughed at her, then turned and waved behind himself. “Until next time, the
 She did have the pleasure of watching him walk away into the darkness.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Dusty Attenborough chief women respecter. 
 

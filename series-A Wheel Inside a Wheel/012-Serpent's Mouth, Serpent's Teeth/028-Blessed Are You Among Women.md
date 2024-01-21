@@ -96,6 +96,8 @@ Hilde laughed. “Very true. But thank you, really.”
 
 “Of course.” Eva stood. “I should go see if there’s anything I can do to help move dinner along.”
 
+---
+
 Perhaps surprisingly, it was Heinrich that Eva spent the most time with. It might have first been out of pity, although she wouldn’t have admitted that. The man was suffering the winter’s leanness in the most physical way: his seizure medication had run out, and no matter how far and wide anyone looked, there wasn’t any more of it to be found. When one of the resulting seizures caused him to fall out of his wheelchair and fracture his collarbone, his doctor prescribed him an alternative, but it didn’t stop seizures at their source, and instead simply made him so weak that he could barely move. When one of them came over him now, instead of the violent clenching of muscles that had terrified Eva when she had first witnessed it, they were now a kind of vacant shudder that passed over him. His eyes rolled back in his head and his mouth twitched uncontrollably. 
 
 Eva had never before thought much about the way that the brain was an object, and a delicate one. Before coming to Heinrich’s house, she had maintained the vague belief in a soul that came from not thinking much about the idea. For some reason, learning from Reuenthal that Wolf’s secret was not what she had imagined had severely shaken her abstract faith. Watching the way Heinrich ceased to be himself during his seizures impressed on her how fragile and physical the spirit was, to the point where she found she had no faith left at all. She spent quite a lot of time thinking about it now, sitting at Heinrich’s bedside.
@@ -203,6 +205,8 @@ He nodded.
 He turned his head away. “I am angry,” he said. He kept his voice very flat. “But what can I do with that? Could you read to me again, Eva?”
 
 “Of course— of course, Heinrich.”
+
+---
 
 There wasn’t anything to do in the von Kummel house except wait for time to pass. It would have felt maddening, if she had framed it that way to herself, but she just focused on individual moments, and not the larger days that they formed, and weeks on top of that, and then months, January giving way to February. It would soon be March, but she didn’t let herself look forward to spring: that seemed too far away to be real. Eva thought that perhaps she could pass an indefinite amount of time this way, in a spiritual hibernation, except that one day, quite abruptly and without any warning whatsoever, it ended.
 
@@ -493,8 +497,6 @@ Maggie looked at her. “Thank you,” she said. “I’m sorry.”
 “I don’t care,” Eva said. She turned Maggie to face her, looked into her red eyes. “I’ll do it for you. Tell me what I have to do— I’ll do it.”
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 and blessed is the fruit of your womb ;\)
 

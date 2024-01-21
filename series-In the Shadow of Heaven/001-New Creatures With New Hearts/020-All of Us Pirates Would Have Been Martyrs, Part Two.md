@@ -104,6 +104,8 @@ Sandreas raised an eyebrow. “And do you think I give that impression?”
 
 Yan couldn’t suppress her grimace. “You’re going to kill him for that.”
 
+---
+
 The *First Star* was indeed a small ship. Unlike Guild ships, which were often oddly shaped, the *First Star* was perfectly round, like a tiny bauble hanging in space, glistening under its own running lights. Guild ships also had pitted rock surfaces that they inherited from the mined\-out asteroids that they were built from, but this ship’s rock walls were unnaturally, mechanically smooth. Its single rotating ring was also built inside the rock, to give it an extra layer of protection, unlike Guild ships, where the multiple rotating rings banded them from the outside. It still bristled with the usual array of sensors, and its bay doors opened in the familiar camera\-aperture way to let in the shuttles, but it was a very strange looking vessel to Yan’s eyes. There probably wasn’t another like it in the whole universe. Even Guildmaster Vaneik’s ship, which he used for his personal travel, was still a cargo vessel at heart, and not one man’s personal cruiser.
 
 Yan wondered how many crew this ship would even need to operate. Certainly not the more than a hundred family members and assorted contracted spacers who called the *Iron Dreams* their home. Sandreas left the shuttle immediately after it finished docking, which left Iri to give Yan and Sid a quick tour.
@@ -255,6 +257,8 @@ Yan shook her head and stood. “Let’s not predict the future. Maybe it’ll b
 Kino looked up at her, eyes wide and dark, and Yan couldn’t understand what her expression was saying. “I hope you’ll know what to do,” Kino said.
 
 Yan wanted to say that she didn’t even know what to do now, but she just nodded. Kino looked away, back down at the floor, and Yan hurried out of the room.
+
+---
 
 Yan didn’t see Halen or Sandreas all evening, and Yan suspected that while the former was waiting for the opportune moment to ambush her, the latter was just busy with whatever his usual work was. Admittedly, she was glad for a bit of a respite, and tried to get some sleep. Unfortunately for her, the *First Star* being a faster ship meant that its intervals between jumps were shorter than on any other ship Yan had been on, and the feeling of it jumping woke her up in the middle of the night.
 
@@ -433,8 +437,6 @@ Halen laughed. “I don’t know, Yan. But I want you to be.”
 “Yes,” Halen said. “Despite everything, I am.”
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 this chapter could maybe use a thorough edit, but \[shrug emoji\] that is perhaps a problem for future noodle. present noodle is just trying to finish this book before i go on vacation next week. i would love to start with a clean slate, and clear one of my lingering WIPs off my plate lol. anyway, that's why i wrote this chapter in a day. haven't done that in aaages. it was fun though. I should do this more often. But maybe this is one of the Symptoms lol. whatever. if i am manic i am going to ride this as long as possible. because at least when you're manic and getting writing done, you get to take the writing out of the manic episode with you. life hack.
 

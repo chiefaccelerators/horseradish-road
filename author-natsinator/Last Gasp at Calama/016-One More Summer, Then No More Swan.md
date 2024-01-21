@@ -30,6 +30,8 @@ Thomas’s thoughts were sluggish\-\- too many ideas were trying to coexist at o
 
 And, with that, he headed out. Thomas bent his head down to eat his breakfast, ignoring everybody else.
 
+---
+
 Though there were a few staff who had initially gone with the family to take care of their immediate needs during their stay in the city at Lady Rosamund’s house, they reappeared later that day to do some packing. This included Tom, who stayed well out of everyone’s way, though he nodded at Thomas when they passed each other in the hallway; and O’brien, who packed up the remainder of Lady Grantham’s personal belongings as swiftly as she could, and then focused on her own room. Bates, strangely, was nowhere to be seen, though Thomas couldn’t say he minded in the least.
 
 The door between the women’s and men’s sides of the servants hallway in the attic was propped open, to allow people to carry suitcases and things up and down the stairway more easily. This meant that it was easy for Thomas to lean on O’brien’s door as she folded her few outfits into the carpetbag she used every year to pack her whole life up and move between Odin and the Grantham family’s ancestral home.
@@ -67,6 +69,8 @@ Thomas raised his eyebrows. “What for?”
 “I’d like to be assured of that before I sign my life away on a ticket back there.”
 
 “Do what you like,” O’brien said. “I don’t care.”
+
+---
 
 What Thomas really wanted was to see the Duke of Crowsburg. After the first time they met in the hotel, the duke had given him his phone number so that he could let Thomas know if he was going to be in the capital, and so Thomas was able to text him, asking if they could meet. It took a few hours for the duke to respond. Thomas tried not to be impatient and nervous about the delay\-\- the duke was a busy man\-\- but it wore him down regardless. When the response came, saying that the duke would be in his same hotel room tomorrow night, and that Thomas was welcome to come at some late hour, the relief could have knocked him off his feet. 
 
@@ -200,6 +204,8 @@ Thomas suddenly processed exactly what he had just done. He dropped his now empt
 
 He made it about two blocks before the shock, cold, and sadness overcame him. Before his facade crumpled completely, he ducked into an alley and he leaned on a brick wall in between some trash cans, putting his face into his elbow, and breaking out into great, sniffling sobs that were witnessed only by the two tomcats hissing and spitting at each other down near the end of the street.
 
+---
+
 When Thomas finally arrived back at the Grantham residence, he was shocked and horrified to find that the house was not quiet and serene as he had been expecting, but every light was on, and through the windows, he could see people rushing about.
 
 Thomas tried to sneak in through the back door, but when he entered the servants’ hall, he was spotted by Daisy, hanging around the kitchen, who shrieked when she saw him like she’d seen a ghost, dropping the rag she had been using to wipe down the already clean counters with.
@@ -262,6 +268,8 @@ He read the number, then dialed it from the office line. It took several rings f
 
 There was a moment of silence from the end of the line. “Thank you, Thomas. I appreciate it.” And, with that, Matthew hung up.
 
+---
+
 In the confusion that followed, rumors circulated among the staff about what had happened: Lady Sybil and Tom had been arrested by the military police; Tom had kidnapped her to use for ransom money; Lady Sybil had simply been trying to go drive to a party, and Tom had accidentally driven them both off a cliff and no one had identified the bodies; both of them had been taken by terrorists; and ever\-wilder combinations of these ideas, and more. Carson and Frau Hughes tried to stamp this out as best they could, but the talk continued unabated. Thomas tried to stay out of it. He was still on Carson’s bad side for slipping out, though no one had yet pressed him about that.
 
 Despite the chaos, there was one thing that could not change: the family’s departure date from Odin. Lord Grantham had booked his ship, and there would be no changing its schedule by more than a few hours\-\- it was simply too expensive. Thomas had avoided making up his mind about leaving until now, but with the departure looming, he had to make up his mind.
@@ -317,8 +325,6 @@ Thomas spied an opportunity, one that had just landed at his feet. “I was wond
 “Thank you, Your Lordship,” Thomas said. 
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 i realized while writing this chapter that honestly, it would work better as the penultimate chapter rather than the final one. probably in a week or so after everybody who's been following this story has had a chance to read it \(so that no one gets confused\) i'm going to switch this chapter with the previous reinhard one.
 

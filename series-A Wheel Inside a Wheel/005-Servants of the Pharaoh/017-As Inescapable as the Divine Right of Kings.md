@@ -202,6 +202,8 @@ Kircheis was silent, and Bronner stared at him briefly.
 
 “Yes, sir,” Kircheis said. Bronner walked past him and out the door, leaving Kircheis alone in the classroom to think about what had just happened.
 
+---
+
 That Friday night, Kircheis took the train into the capital and walked down the slushy streets towards Martin’s apartment. He made a detour, a small one, to the site of the former Earth Church headquarters. There wasn’t much left of it: the building was a completely empty shell, and the walls themselves had collapsed in places. The whole site was fenced off to stop people from wandering in and getting crushed by debris, so Kircheis hooked his fingers through the cold wires of the chain link fence and just stared at it for a while. 
 
 It was a miserable looking sight.
@@ -327,6 +329,8 @@ Kircheis still hesitated for a second. “I have physicals in the morning.”
 Kircheis followed Martin, then, but that didn’t stop him from worrying. 
 
 The next day, after he returned to the IOA for physicals, he laid on his own bed and stared, first up at the ceiling, then at the picture of Reinhard and Annerose on his desk, feeling more alone than he ever had in his life.
+
+---
 
 *February 486 IC, Odin*
 
@@ -519,6 +523,8 @@ Kircheis didn’t really want to ask Leigh about it, because it felt far too per
 He wished there was someone who could understand this wild feeling welling up inside of him, but there was no one. Although Hilde was his closest friend, he had never directly addressed his homosexual inclinations with her, and he wasn’t sure that this was the moment that he wanted to do so. He couldn’t talk to Martin about it, for obvious reasons. And Leigh, he was going to have to talk to Leigh and just hope that he didn’t give too much away. 
 
 Really, the person Kircheis wanted to talk to in that moment, desperately, was Reinhard himself. He traced his finger over the lock of hair, tucked within the glass of the picture frame. 
+
+---
 
 Kircheis found Leigh during his office hours. He was sitting at his desk, leaned back in his chair with his arm draped over his face to block out the late\-afternoon sunlight streaming in through the window. He said, “Come in,” when Kircheis knocked on his door, but didn’t shift from his position except to lift his arm enough to confirm that it was indeed Kircheis walking in.
 
@@ -735,8 +741,6 @@ And neither would Martin, either, Kircheis knew.
 He felt like he was teetering on a precipice, the yawning chasm of the future. He would be graduating in just a few months, and then he, too, would be one of His Majesty’s servants. And he might even come face to face with Reinhard, that way. And if he did, what would both of them do?
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Ayyy welcome back to this story\! I hope you enjoyed our brief interlude. This chapter is a bit of a bridge to get a few lingering plot points all onto the same page, but hopefully you are entertained by it anyway.
 

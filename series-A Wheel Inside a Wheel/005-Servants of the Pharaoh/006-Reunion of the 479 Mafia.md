@@ -318,6 +318,8 @@ The pair walked outside together. The nasty sleet had stopped while they were in
 
 “Yeah.” Yang started walking, stumbling a little, towards the train station. He kept glancing back over his shoulder, and Reuenthal eventually turned and headed back towards his hotel.
 
+---
+
 That Saturday was one of those days in February that trick everyone into thinking that spring had arrived ahead of schedule. It was so nice out that when Yang woke up \(late\), he texted Reuenthal and asked if he would rather meet somewhere outside, rather than\-\- well, Yang didn’t know where they had been planning to meet. A bar, probably. Though it seemed like a dangerous proposition to spend an entire day in a bar.
 
 Reuenthal agreed, and so rather than going to the center of the capital, Yang took the bus to the closest nature reserve, a place a bit outside the city limits whose main attraction was a long walk around a lake. 
@@ -407,6 +409,8 @@ Although the trio started out right next to each other, it didn’t take very lo
 He tried not to let himself get too far down the trap of thinking that this was unchanging. After all, in a little while, they would finish their solitary walk around the park. In a few weeks, Reuenthal would be back in space. In a few months, Mittermeyer would graduate and end up who\-knows\-where. It was all in a state of flux, and trying to hold on to this one moment like it could say anything about the future was, Yang knew, a mistake. But even though he knew it, he couldn’t help it.
 
 After a while, Mittermeyer turned back towards Yang and told him to stop being so slow, apparently realizing that it was a little rude to have let Yang fall so far behind them. Yang smiled and jogged to catch up. He hadn’t wanted to intrude, but he was happy to be reinvited to the conversation, talking broadly about his and Reuenthal’s work, and how Mittermeyer’s last year of school was going. It was pleasant talk, and it pushed some of the worries and fear that he had been holding onto out of his mind.
+
+---
 
 *March 480 IC, Odin*
 
@@ -725,8 +729,6 @@ When he came out, Magdalena was sitting on the bed, facing the bathroom as thoug
 Yang shook his head and left, not needing any more encouragement.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Idk if I'm completely satisfied with this chapter but it's here anyway haha
 

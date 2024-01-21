@@ -128,6 +128,8 @@ Fourth, and perhaps most importantly, in the absence of ability to communicate w
 
 He stood sharply, holding the printed message in his hand. “Get me Cranz and Halvess in here, and put my battalion on alert.” Cranz and Halvess were the commanders in charge of the other two battalions who had taken this base with him. He was not going to argue with them. He was going to present the movement of his battalion as a foregone conclusion, and that they should remain behind to guard the base. He would leave them no room for contradiction.
 
+---
+
 And so it was, less than two hours later, the remaining strength of Reuenthal’s battalion began the long, long journey towards Mittermeyer’s base. It was two thousand kilometers away, but the terrain was very easy\-\- endless, smooth, featureless plains of ice and snow, which only rose up into mountains near the edges. His tanks could move at one hundred kilometers per hour, and he had taken all the fuel cells from the captured base to use, so they had the driving range to reach Mittermeyer’s base. 
 
 It was a grueling journey, alleviated only somewhat by the tanks’ air filters that brought the atmosphere to Odin\-normal levels of carbon dioxide. Without them, Reuenthal felt that his tank crews might have started murdering each other. As it was, taking turns sleeping in the cramped tanks was unpleasant, and everyone had been looking forward to enjoying the relative peace of occupying the captured base for a few days, rather than charging off into another battle.
@@ -254,6 +256,8 @@ Mittermeyer’s frown deepened. “Do you want me to apologize to you, or someth
 
 “Reuenthal—” Mittermeyer said, but Reuenthal was turning on his heel and heading out of the building, slipping his helmet onto his head as he did.
 
+---
+
 The defense of the base went well for about twelve hours. Reuenthal barely saw Mittermeyer, as he was focused more on keeping his own forces organized and engaged, whereas Mittermeyer stayed on top of the overall defense of the base. Reuenthal did not mind not seeing him.
 
 It was darkly funny, he thought, that they still worked together so well. He would tell one of his lieutenants something like, “Send those tanks with the damaged gun turrets to Mittermeyer. He’ll want them.” His lieutenants would look at him like he was crazy, but sure enough, they would report back that yes, indeed, Mittermeyer had been very happy to receive whatever Reuenthal had sent. And the opposite was also true— Mittermeyer predicted Reuenthal’s movements and supported him without any questions or commentary being necessary.
@@ -319,8 +323,6 @@ Reuenthal was swinging his axe with arms that felt like lead weights when he hea
 From the brink of defeat, surrounded on all sides, they were saved. Reuenthal had the nasty thought that he was actually disappointed by this, but then he realized that he was too tired to actually care.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Long time no see lol. wish I had a coherent explanation for you, but I don’t, so we’ll all just have to accept that this chapter took a stupid long time to write for no good reason and move on with our lives lol. I hope it was worth the wait. I actually do think I know why it took a bit— this chapter is pretty dialogue light, which is always a struggle. Logh is a show about people standing around in rooms talking, and by god, that is what I love to write about lol
 

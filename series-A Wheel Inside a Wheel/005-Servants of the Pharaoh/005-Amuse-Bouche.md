@@ -242,6 +242,8 @@ Yang blanched a little. “Really?”
 
 “You’ll just have to pretend to be a person who doesn’t run their mouth at every possible opportunity. I’d say it shouldn’t be hard for you, but that might be a lie.”
 
+---
+
 *February 480 IC, Odin*
 
 Neue Sanssouci looked about the same as Yang remembered from his few visits during his time at the IOA. The grounds were covered in the odd pile of mostly\-melted snow, and the roads were slushy and disgusting. A chill layer of grey clouds hung over the sky, and the place seemed dour to the extreme. Commodore Bronner seemed relaxed next to him in the carriage, not minding that they were on their way to speak with the chief commander of the space fleet. Yang was tense in the seat next to him, opening and closing repeatedly the thick folder he was holding on his lap, as though compulsively checking that all the papers he had prepared were still there.
@@ -640,19 +642,19 @@ She chuckled at that. “We don’t exactly run in the same social circles.”
 
 “Er. Okay.”
 
+---
+
 When Yang returned to his apartment, he was so mentally exhausted by the events of the day that he flopped onto his bed and fell asleep, despite it only being around two in the afternoon. When he woke, the muted winter daylight had changed to an even murkier winter twilight, and his room was freezing cold. He stumbled out of bed, feeling the kind of nausea that comes from sleeping at the wrong time, and struggled to light a fire in his hearth. When he had done that, and rinsed out his mouth in the sink, and eaten about ten cookies from a dry package he kept for late night consumption, he was feeling alive enough to consider the fact that he was now awake and should do something with his evening.
 
 He sat down in his armchair in front of the fire, stretching out his toes towards it until they became almost unpleasantly hot, then searched in his pockets for his phone.
 
 He discovered that he had one message waiting for him, one that he hadn’t been expecting at all.
 
-> I find myself back on Odin earlier than expected. Are you free this evening?
+\> I find myself back on Odin earlier than expected. Are you free this evening?
 
 Reuenthal.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Yang "sasses his boss at every opportunity" Wenli. Yang "yes I could take iserlohn if I wanted to but why in the world would I want to" Wenli. Yang "godawful sense of self preservation" Wenli.
 

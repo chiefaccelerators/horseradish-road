@@ -48,6 +48,8 @@ Sylva heaved a sigh into her cup of tea. "I guess. Did you tell your family abou
 
 "Yeah."
 
+---
+
 Yan dressed in her nicest uniform for her third and final interview, the mysterious one that had left her painfully distracted. The line between anticipation and fear was a thin one, and she could never tell if she was crossing it; the two emotions jittered her in almost the same way.
 
 The interview was at noon in the nicest building on campus, the one where all the top Academy officials kept their offices. Yan had to sign in and be escorted by a guard into a waiting room.
@@ -281,8 +283,6 @@ Yan was frozen for a second, then she stood rapidly, almost knocking the chair o
 "I'll let you know my answer," Yan said, which was as much of a goodbye as she could muster. It was all she could do to walk, rather than run, out of the room. Sandreas’s impression of her was probably irreparably damaged, and she didn't care at all who Halen was; she just wanted to get away as fast as possible.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Thanks to Jade for the beta read.
 

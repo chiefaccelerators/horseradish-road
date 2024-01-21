@@ -36,6 +36,8 @@ Julian flushed a little. “He’s your son, so I’m sure he’s great.”
 
 “Yes, but Ludwig’s, too.” And that was the end of that conversation.
 
+---
+
 Julian’s birthday, near the end of March, was celebrated without too much of a fuss. Ms. Ingrid had insisted on making the cake, even though the only thing she could really cook well was rice, so it was lumpy and ill\-frosted, but Julian appreciated it all the same, along with the letter that had come from Annerose \(accompanied with a gift she had hidden in her bedroom before she left for her deployment: a very nice winter jacket\), the journal and pens that Ms. Ingrid had gotten him, a knitted hat from Mrs. von Müsel, and the book on merchant ship design he had gotten from Rear Admiral Cazerne. The Cazernes had invited Julian and Ms. Ingrid over for dinner on his birthday, and Julian had had a very pleasant time playing with the new baby and reading to Charlotte, though as usual, this sort of thing made Ms. Ingrid melancholy in a way Julian was sorry that he couldn’t fix. He liked the Cazernes quite a lot, though, and he was always happy to hear what the rear admiral had to say about life in the fleet.
 
 After dinner, Julian and Ms. Ingrid were walking home through the chill autumn night, the stars barely visible through the thin cloud cover. It wasn’t a long walk between the Cazernes’ house and theirs, but they weren’t going particularly fast. Ms. Ingrid liked taking walks, Julian had learned.
@@ -103,6 +105,8 @@ Julian laughed. “Have you seen the photos of Lieutenant Commander Reinhard whe
 “Okay,” Ms. Ingrid said. “Admiral.”
 
 Julian grinned, then let Admiral out of his carrier. “Welcome home, Admiral,” he said.
+
+---
 
 *July 796 U.C., Heinessen*
 
@@ -245,6 +249,8 @@ The bus pulled up at the stop with a hiss and screech of brakes, and they both c
 “It might be,” Julian said. “Lieutenant Commander Reinhard thinks that the war will end.”
 
 She nodded. “I hope so.”
+
+---
 
 *September 796 U.C., Heinessen*
 
@@ -405,8 +411,6 @@ Annerose caught sight of Julian’s crestfallen face. “See,” she said. “I 
 “I wish I didn’t have to make you promise that,” she said, then stroked his hair.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 We know that Julian arrived at Yang's house with Admiral in hand; I think there's a gaiden scene? that has him showing up at Yang's door by himself. Anyway I like to think that it's plausible that Julian scooped up Admiral from the side of the road while on the walk to Yang's house and just was like "Yes. This is my cat." 
 

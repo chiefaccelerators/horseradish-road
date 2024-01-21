@@ -242,6 +242,8 @@ There was a moment before Leigh reached for the door that Reuenthal considered a
 
 After Leigh left, Reuenthal did try to sleep, but the sudden quiet of his dorm room disturbed him, and he couldn’t get Leigh’s face out of his mind.
 
+---
+
 Winter break was too long, Reuenthal decided. He had been dreading it, and now that it had arrived, he hated it.
 
 His return home was anticlimactic. He hadn’t even told his father that he would be returning home, and he took a taxi so that he wouldn’t have to ask for a ride. His father must have noted his presence that first night, through seeing Reuenthal’s shoes in the hallway, or his coat on the hook in the closet. They didn’t speak to each other, though, and Reuenthal stayed in his room for as long as possible, only emerging for absolute necessities.
@@ -271,6 +273,8 @@ His father opened the fridge and pulled out a can of beer. He held it up, questi
 His father stared at him for a long second, then shook his head and got another beer out of the fridge before turning and walking away.
 
 Reuenthal didn’t let himself relax until he was back in his room, and he ate his cold can of corn and drank his beer as silently as possible.
+
+---
 
 Reuenthal and his father only ever went to temple a few times a year, like most people. The religion of the Empire didn’t require that much devotion from its followers, and so while the temples were packed on the solstices and equinoxes, and on a few other major holidays dedicated to specific gods, there wasn’t much impetus for people to attend services regularly. But this was the winter solstice on Odin, so the local temple was filled.
 
@@ -324,6 +328,8 @@ When they got home, his father locked himself in the library, and Reuenthal went
 
 It was funny. He had always hated his dark eye, an uncommon trait among the light\-eyed people of the Empire, and something that marked him as not belonging to his father. But he covered his blue eye, and his dark eye was almost the same color as Leigh’s. A different shape, but a similar tone. He covered up his black eye, and he looked like his mother. Back and forth, he covered and uncovered them.
 
+---
+
 The relative peace of the von Reuenthal household did not last all winter break. Eventually, Reuenthal did something— he couldn’t even remember what— that had caused his father to hit him. Reuenthal had been wondering if his father would, and again if he would just stand there and take it, and the answer to those questions turned out to be yes. It wasn’t as though a semester away at school had changed anything meaningful about him. Any respect he had there was temporary, and when that was stripped away, only the bitter core of him remained.
 
 There was one point when Reuenthal stood up to his father, though. His father had brought in the mail, which was odd, since he usually didn’t, and while he was sorting through the stack above the recycle bin, Reuenthal noticed a larger, more decorative envelope.
@@ -359,6 +365,8 @@ His father made a derisive noise. “Of course.”
 “Alright, sir.”
 
 His father snorted again, then turned away, shuffling in slippers down the hallway into the library, where he closed the door hard enough to make the whole house rattle.
+
+---
 
 Reuenthal texted Leigh, inviting him to the Mariendorfs’ party. Leigh was hesitant, but Reuenthal was insistent, and he gave in after a few texts back and forth.
 
@@ -474,6 +482,8 @@ Reuenthal raised his glass and knocked it heavily on Leigh’s. “Prosit\!”
 
 Up at the front, the band struck up in Auld Lang Syne. “I’ll raise a cup of kindness yet for auld lang syne…” Reuenthal hummed under his breath.
 
+---
+
 *January 476 I.C., Odin*
 
 Reuenthal was more sober than Leigh when they left the party, though since the countess pressed a bottle of wine into his hands at the door as a thank you for coming, he doubted he would be by the time the night was over. Leigh was drunk— Reuenthal could see it in the flush of his cheeks, and Reuenthal kept his hand on Leigh’s elbow as they walked to the car. Leigh didn’t really seem to notice.
@@ -531,8 +541,6 @@ But even that was almost too much, and it wasn’t like Yang was moving, laying 
 Finally, Reuenthal got him onto his bed, fixing his legs so that they weren’t dangling over the sides. Yang had his eyes closed, maybe pretending to sleep, maybe just not wanting to look at Reuenthal. Reuenthal dragged the comforter up over him, then grabbed the half\-empty wine bottle from the floor and almost ran out of Yang’s room.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 womp womp
 

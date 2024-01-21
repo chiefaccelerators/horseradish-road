@@ -24,6 +24,8 @@ With his right hand, he fingered the bills in his pocket, the cash he had taken 
 
 He didn’t know his way around, so after his cigarette burned down to a stub that he crushed under his heel, he picked a direction and started walking towards the city. No one paid him ay mind whatsoever. He would find what he needed to find, he was sure of it. There had to be something on this planet for a man who was willing to go and get it.
 
+---
+
 Two and a half weeks later, in a motel room with walls so thin he could hear every word of his neighbor’s conversations, Thomas admitted to himself that he was going to have to try a different tack. That didn’t mean he was giving up on a new life on Odin, but he was going to need to alter his expectations. Though he had assumed that his discharge from the fleet would have been enough to assure employers that he was a reasonably upright man, it was turning out to be less the case than Thomas had hoped. After all, every able man in the Empire served in the fleet, and the people he had spoken with tended to take one look at his gloved hand, and smile in the polite way that didn’t reach their eyes. He had to wonder, if it had been his right hand that had been wounded, would they have refused to shake it?
 
 In any event, Thomas had reached the tail end of his cash reserves, and he needed a job that would give him a cash advance, or a place to stay. There was only one of those that he was relatively sure existed, and which would hire him, though it grated to ask. It was, at least, approaching the time when the Crawley family would be on Odin for the season, so he was sure that the Odin house staff would be looking for temporary, seasonal hires. It was unclear in his mind if it was preferable to be a seasonal hire and leave at the end of the few months with a reference in hand, or if he would try to leverage his employment to a permanent, travelling role. That would entail going back home, and would be a step in the wrong direction, but\-\-
@@ -140,6 +142,8 @@ He wasn’t sure if it was to Mary’s credit that she paled slightly, or to Mrs
 
 “Thank you,” Thomas said. “And mostly, m’lady.” He followed Carson off down the hallway.
 
+---
+
 It had been the brusque and coincidental intervention of Lady Mary that had secured Thomas the job, he was sure, though he didn’t feel like he owed her. 
 
 Thomas ran into O’brien as he was going to look for a fitting set of livery down in the wardrobe where all those things were kept in the servants’ hall. O’brien was walking down the hallway, then stopped in her tracks when she saw him, her face blanching.
@@ -235,6 +239,8 @@ She tried not to look disgusted with it, but she didn’t really succeed. Thomas
 Thomas touched the livery hanging in the wardrobe. “Sleeves cover to the elbow, and footmen wear gloves. Nobody even has to know.”
 
 “Right,” she said. “Nobody upstairs’ll have to think about it at all.”
+
+---
 
 Thomas settled back in to the Grantham estate quickly over the next few days. Aside from the fact that he was on Odin, there was very little different about life working as a servant. Every day had the same routine, and after a few initial glances of surprise from the family upstairs, no one seemed to care that Thomas served their dinner. It wouldn’t have mattered who was doing the task, so long as the task got done. All the servants were interchangeable, in that way.
 
@@ -341,8 +347,6 @@ Thomas put a thin smile on his face. “If you’re so eager to find out the det
 William scowled.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 bit of a shorter chapter, but i mostly needed to establish thomas getting back to work before the actual juicy drama starts going down. bates is somewhat unpleasant. i'm legit very excited to write the next couple chapters of this story though lol. it's going to be a party at which many people have a moderately terrible time, mediated by a few interesting moments. also it will be much more of the intersection between the two casts haha
 

@@ -76,6 +76,8 @@ Hilde gave him a thin smile. “Thanks.”
 
 Hilde nodded. Kircheis would have told her anything he heard, of course, but she did appreciate Martin’s attempt at being helpful. “Thanks,” she said, with as much of a smile as she could muster.
 
+---
+
 It didn’t take long for Hilde’s premonitions about things going wrong to bear fruit. After her father arrived on Lord Castrop’s planet, and after the departure of the merchant vessel he had flown in on, all communication from her father suddenly ceased. Since her father was in the habit of writing her daily, this struck an immediate alarm in Hilde’s head, and she called up the colonial affairs office several times, trying to get an update about her father’s status. The staff working in the office had the same line: there had been no news from Count Mariendorf, but this didn’t mean that anything was awry. It could just mean that he was busy.
 
 Hilde suspected that they were lying, and she wondered how long they would keep up the pretense for. She could understand wanting to keep it under wraps, whatever had happened to her father, because it would cause a stir among the nobles. She was sure that the whole thing was going to be kept quiet until the Fleet could deal with it.
@@ -141,6 +143,8 @@ She wasn’t sure if he did, especially since the whole matter was supposed to b
 Kircheis was silent for a long time, seriously considering her words. She was so grateful to him, for not just dismissing her with a platitude, or telling her that it was too dangerous. “I will ask him,” Kircheis said. “I don’t know what he would be able to do, but I will ask.”
 
 She nodded. “I’ll ask for Duke Braunschweig’s help, then.”
+
+---
 
 Hilde didn’t have a good strategy for meeting with Duke Braunschweig. She knew that the duke would have no desire to speak with her directly. Even being her father’s heir didn’t mean enough to counter the fact that she was a woman without her own proper title, and as young as his daughter. If she had asked him to meet, she suspected that she would be given a run\-around. 
 
@@ -351,8 +355,6 @@ Hilde’s heart beat faster, and she wasn’t sure what to say. “Of course, La
 “Yes,” Elizabeth said. “I think I can be convincing when I need to be.”
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 tbh not entirely sure what to say about this chapter\-\- i think it kinda stands on its own lol. hilde is setting herself up for a fall in a major way. ms elizabeth does not have her best interests at heart haha. but i love mess.
 

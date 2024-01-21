@@ -312,6 +312,8 @@ Franz leaned back in his seat. “If you want my blessing to marry Baroness West
 
 “Oh,” Yang said. “Thank you.”
 
+---
+
 The day of Count Marbach’s funeral was drizzly and cold, despite it being summer, but the inside of the temple where the service was being held was dark and hot. Yang had never attended a religious ceremony like this. The atmosphere was very different from Countess Mariendorf’s funeral, which was Yang’s only point of comparison. He stood next to Count Mariendorf in the crowded room and sweated, feeling his uniform itch on his back. 
 
 The coffin was at the front of the room, open and surrounded by lit candles. It was eerie to see the corpse there, and Yang was reminded unpleasantly of Reuenthal in the way it was made up and lit, some of the wrinkles disappearing to create a harsh silhouette of a face. 
@@ -470,6 +472,8 @@ The count nodded. “Have a nice night, Hank.”
 
 “You too, sir,” Yang said.
 
+---
+
 The whole experience of the funeral left Yang with a strange and sour feeling. Although it wasn’t his business in the least, the way that Reuenthal’s mother had been stripped of her last name— and in some ways her body— to have a headstone in the Marbach family plot disturbed him.
 
 Maybe it was because he suspected that, working for Duke Braunschweig, his chances of dying in space were about to increase dramatically. And, if and when that happened, what he himself would be left with would be a headstone over an empty grave, bearing a name that didn’t really belong to him. He had been Hank von Leigh for well over a decade, and he had thought that he had come to terms with that being the official record of himself, but maybe he had been lying.
@@ -482,9 +486,9 @@ Yang couldn’t have exactly explained the instinct that caused him to look up w
 
 On a whim, he also typed ‘von Leigh’ into the grave finder tool, and came up with a family plot a few hundred kilometers distant. It was one district away from where Mittermeyer’s family lived, actually, so Yang texted Evangeline, since Mittermeyer himself wasn’t on the planet.
 
-> hi eva
+\> hi eva
 
-> your family lives near here, right
+\> your family lives near here, right
 
 He attached the location.
 
@@ -492,9 +496,9 @@ Eva responded almost immediately.
 
 < Yes, about half an hour drive away :\) Why do you ask?
 
-> I have some \(non\-urgent\) business there
+\> I have some \(non\-urgent\) business there
 
-> just was wondering if i could hitch a ride with you next time you visit home
+\> just was wondering if i could hitch a ride with you next time you visit home
 
 < Of course :\)
 
@@ -502,11 +506,11 @@ Eva responded almost immediately.
 
 < Mind if I ask what the business is?
 
-> historical research, mostly
+\> historical research, mostly
 
 < Very exciting :\)
 
-> not really haha
+\> not really haha
 
 And then Yang put that thought out of his mind, or tried to.
 
@@ -525,6 +529,8 @@ They were approaching the house where Yang had only ever spent a few days at a t
 Reuenthal stood, motionless, and Yang opened the door.
 
 He woke up in a cold sweat.
+
+---
 
 It actually took another several weeks for Yang’s free time and wherewithal to coincide enough to let him visit Reuenthal’s mother’s real grave. He hadn’t stopped thinking about it in the days since Count Marbach’s funeral, and indeed the strange impulse had only grown more pressing as time went on.
 
@@ -669,8 +675,6 @@ It was a testament to the brilliance of Reuenthal’s pride, that he would never
 Yang was only too glad to obey, and he walked away through the graveyard, leaving Reuenthal’s father alone in the dark.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 chapter title is from  "The Dethbridge in Lethbridge" by the Rural Alberta Advantage. I saw them live once :\)
 

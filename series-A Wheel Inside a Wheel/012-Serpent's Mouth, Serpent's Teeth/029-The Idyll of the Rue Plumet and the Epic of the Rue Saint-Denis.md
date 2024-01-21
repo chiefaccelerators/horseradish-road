@@ -76,6 +76,8 @@ Maybe the hardness in her voice startled Eva, because she looked away. “When y
 
 “Of course,” Hilde said. She took Eva’s hand and squeezed it in between her own. “Of course. I’ll… send a letter by courier, or come up here to let you know, or something like that.” She laughed, but it was grim. “Everything was a lot easier when the phones weren’t down.”
 
+---
+
 Eva let Hilde know when her cousin had finally woken up, and Hilde knocked on the doorframe of his room to announce herself, though the door was open and he could see her standing there quite clearly.
 
 “So, you’re leaving,” Heinrich said. His voice was weak, and she wanted to beg him to drink some water, but that wouldn’t have done any good in this conversation.
@@ -143,6 +145,8 @@ She laughed, and sniffled a little. “Stay well,” she said. “I’ll see you
 “Thank you.” She put his hand down on the blanket, patted it once in a meekly reassuring gesture, then headed for the door, rubbing her eyes though she wasn’t crying.
 
 When she stepped out of the house into the driveway, she just stopped and looked around herself for a moment before she got into the car. She would be back, but she tried to fix in her mind the peaceful glistening snow on the pines, the dripping sound of it melting in the pale morning sun, and the clear blue sky overhead. She knew she was stupid to be leaving this place— even if nothing was wrong in the city, it was as idyllic as it could get, at least in its surroundings— but she saw Elfriede’s shadow pass across one of the windows on the lower floor, and an involuntary shudder crossed her. She passed it off as a shiver, but hastened to open the door of the car and drive away.
+
+---
 
 Hilde drove back to the city by herself, and she spent the entire journey ruminating. The further she drove from her cousin’s house, the stronger her relief grew to be away from it. Even aside from all the misery the house contained that she was escaping, she wanted to see Kircheis again. After everything they had done together, it felt almost unbearable to let him be alone in the city.
 
@@ -422,6 +426,8 @@ Hilde hesitated, then took the photo.
 
 Hilde scowled at him, and he left through the front door.
 
+---
+
 Kircheis returned about an hour later, hauling the full water jugs up the steps of the apartment. Hilde offered to help, but he just waved her off. She did at least help him assemble dinner from the stash of canned goods, though her hand kept going to the spare key in the pocket of her pants. They sat down at the table to eat their feast \(canned corn, fried up slices of tinned ham, and coffee,\) and Kircheis pulled out the letter he had picked up from his message exchange point. He passed it to her, saying, “Captain Oberstein wants to meet with you in a couple days.”
 
 “Me? What for?” Hilde asked. She skimmed the letter that had been left for Kircheis— it didn’t say much other than that.
@@ -492,6 +498,8 @@ Why had Bronner come to her? Was she really weak enough to be convinced by his a
 
 She pulled the blankets up around her chin, and a terrible thought began to form in her mind.
 
+---
+
 Hilde went to meet with Oberstein two days later, out in the countryside. Their scheduled meeting time was early in the morning, which went against her instincts for clandestine encounters. She reassured Kircheis once again that she didn’t need an escort and went by herself, though she did take a gun with her. She was hyper\-aware of it at her hip beneath her coat. In her nondescript clothing, she felt just like every other hunched\-shoulder pedestrian when she walked the city streets, quickly trying to get to her destination without letting trouble follow her. She made it out of the city without problems, sneaking past the guarded border just as the weak winter sun was coming up over the tops of the buildings. She navigated to the address of an abandoned house, and inside the garage found a car waiting for her, which she drove most of the remaining distance. Even though the car itself wasn’t followed— the roads were empty as far as her eye could see— she was still paranoid enough to leave it a mile from the meeting place, and trudge the rest of the way through the snow on foot.
 
 They met in a convenience store, one whose shelves had all been stripped completely bare. The windows and doors hadn’t been broken— either the proprietor had cleared the place out before there was any risk of looting, or any thieves had simply entered through the door, as Oberstein had. Hilde didn’t know if or how he had unlocked it, but it was propped open when she arrived. An aging Dalmatian greeted her at the door, wagging its tail with the sluggish enthusiasm of an old man. Kircheis had told her what to expect, so she scratched its head in greeting and called out, “Captain Oberstein, I’m here.”
@@ -545,6 +553,8 @@ He stared her down, and she could see the glinting red traces of circuitry benea
 “No, sir,” she said. If Kircheis knew she had mentioned this to Oberstein at all— she wondered if he would be furious. What would that flash of anger look like directed at her? She steeled herself to face it.
 
 Oberstein studied her face for a moment, then nodded.
+
+---
 
 Hilde didn’t have too much time. If Kircheis thought her meeting with Oberstein had run too long, he would start to be worried about her failure to reappear at home. She didn’t want that to happen, but she nevertheless had a mission to accomplish.
 
@@ -675,8 +685,6 @@ Martin didn’t seem able to answer, so Hilde just held out her hand to him. He 
 She nodded, and let him go.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 womp womp womp
 

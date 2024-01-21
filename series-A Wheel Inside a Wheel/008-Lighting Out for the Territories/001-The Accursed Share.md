@@ -330,6 +330,8 @@ Reinhard shook his head a little. “He said he has something to speak to me abo
 
 When Blackwell walked away, shaking his head, Reinhard noticed that he was still being watched by his imperial counterpart. Their eyes met across the room, and both of them glared at each other. Unfortunately, their little staring contest was interrupted by that man’s commanding officer wandering between them, and Reinhard took that moment to disappear away into the crowd of the party.
 
+---
+
 *January 796 UC, Phezzan*
 
 The bishop did send Reinhard a message, requesting a meeting at a small, private residence outside the capital city limits. Reinhard drove there himself, though he did tell Blackwell about the meeting, getting his permission and keeping him in the loop. Reinhard didn’t like the fact that he had been singled out as the recipient for whatever message the Earth Church wanted to send. He wasn’t sure if it was because of his mother, or because of his fame, or, worst of all, if it was because the Earth Church thought that as someone young and inexperienced, he would make some kind of mistake. Reinhard was determined not to let that happen.
@@ -579,8 +581,6 @@ Blackwell laughed at him again. “Maybe that’s for the best. It would make a 
 He ushered Reinhard out of his office. Reinhard abruptly realized that he had forgotten to mention the car that had been chasing him, but decided that perhaps his first step in this espionage mission would be to go down into the garage and try to find where the tracking device was hidden on the fleet car. He could report it to Blackwell when he had found it.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Welcome back my friends / to the show that never ends / we’re so glad you could attend / come inside come inside
 

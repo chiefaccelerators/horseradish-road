@@ -324,6 +324,8 @@ He laughed again. “Of course not. I will see you later, then, Lieutenant Comma
 
 She waved at him as she trotted down the marble stairs, slightly drunk and trying not to trip over her own feet.
 
+---
+
 *July 796 U.C., on board the*Pergamonn*, in the Anaheim Starzone*
 
 Being able to receive personal mail was something of a rare luxury while on the front. It had to wait until the ship was in a safe enough position that large amounts of ansible data could be transferred, and not just the bare minimum of what was required for the fleet to function away from central command. Today was one of those days, the Sixth Fleet feeling confident enough in its positioning just outside of the Iserlohn corridor that they could make the request for all of the news updates and personal mail and entertainment media to be sent over.
@@ -557,6 +559,8 @@ Tears were welling up in her eyes, so badly that she couldn’t read the rest of
 “I—“ she began. “I have to go.” And she stood up so rapidly that she bruised her shin on the coffee table, fleeing the room.
 
 She would be okay, but not right this moment.
+
+---
 
 *August 796 U.C., on board the*Pergamonn*, within the mouth of the Iserlohn Corridor*
 
@@ -939,8 +943,6 @@ Fredrica watched on the screen as the red dot of Cahokia receded into nothingnes
 “It’s not as convenient,” Shenkopp said. “I thought it was a stupid idea from the outset.”
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 hello fredrica... 
 

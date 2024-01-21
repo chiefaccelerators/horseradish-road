@@ -174,6 +174,8 @@ They sat silently for a moment, then Schenkopp knocked her arm with his elbow, h
 
 “Yes, sir,” Annerose said. “I’ll be there.”
 
+---
+
 Annerose was not one to feel out of her depth in rooms full of superior officers\-\- her work under Cazerne had cured her of that instinct if she had ever had it\-\- but she did take a moment to take a steadying breath before she walked into the meeting room, then found her seat in between Reinhard and Schenkopp. Linz and Blumhart were sitting on Schenkopp’s other side, and they seemed more uncomfortable than she did, their stiff backs an unusual sign of them attempting to be on their best behavior.
 
 There were several admirals in the room: Greenhill, who was at the head of the whole charge into the Empire; Vice Admiral Moore, supporting Greenhill; and Bucock, who was going to coordinate the occupation of Phezzan. There were other higher officers there too, but those were the ones she was most interested in. Reinhard had clearly had a hand in this selection\-\- she would have bet that Moore had only earned his place because of Fredrica’s presence as his staff officer\-\- but it was a solid representation of the Alliance leadership nonetheless. This plan, though Schenkopp thought it was not destined to succeed, was at least having as much support behind it as possible.
@@ -373,6 +375,8 @@ Reinhard said nothing for a moment, then reached out and hugged her, his grip cr
 “Good,” Annerose said.
 
 Without another word, Reinhard headed off down the hall to take his shuttle back to Bucock’s flagship, giving a half wave over his shoulder as he went.
+
+---
 
 Once things were put into motion, they did not stop. Momentum carried Annerose from the moment she woke up early, too early, the next morning, squashed between the wall and Schenkopp’s heavy form in her slim bed, her alarm clock wailing that the appointed hour had arrived. 
 
@@ -668,6 +672,8 @@ She dismissed him, and Weber hurried to obey. Annerose walked back outside the h
 
 “Nevermind,” she said. 
 
+---
+
 A small number of aircraft had come down with the landing party, and Annerose commandeered several to take her and Blumhart’s loaned men to find Rubinsky. These were armed, light planes, with wings that folded up to fit inside the cargo shuttles. They had no information on the airfield other than it showing up on maps of Phezzan, and with communication networks down and the city in chaos, there wasn’t going to be any chance to get any more information, so Annerose had very little with which to brief her men. They took it in stride.
 
 As they flew, the sun rose. Although it was a clear day, without a cloud in sight, the light was muted and strange, grey with the remains of the space elevator drifting into a new tenuous orbit around the planet. She wondered if they would fall down into the atmosphere eventually. The portion of the elevator that was within Phezzan’s atmosphere was drifting away in a grey plume, stretched out like a banner across the sky behind them. Annerose ordered her men to keep their helmets on whenever they were outside. Even upwind of that, she didn’t know what it was made of, and didn’t want any of them to risk breathing it in.
@@ -696,13 +702,11 @@ Muller lifted his head to look at her face, then thunked it back down onto the r
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 some parts of this chapter i'm very happy with, others i'm eh about but hopefully it's an exciting one for you to read anyway haha. maybe at some point i'll go back and change the things i don't like but for now, it's here and that's what really matters.
 
 rip to phezzan's space elevator. the alliance plan to invade is already not going so hot, since they were planning to like, use that.
 
-god i'm so close to being done with this book. happy 1st birthday to LOftT btw\-\- I posted the first chapter a year ago today >.>
+god i'm so close to being done with this book. happy 1st birthday to LOftT btw\-\- I posted the first chapter a year ago today \>.\>
 
 an image that i wanted to include, but couldn't figure out how, would be like\-\- you know how if you hold a slinky up so that the bottom of it is stretched out and dangling, and then you let go of the top, the bottom doesn't start falling until all the tension has gone out of it? i would have love to orchestrate the space elevator doing that somehow but i couldn't work it in. anyway, just picture it in your heads for me anyway and i'll be satisfied
 

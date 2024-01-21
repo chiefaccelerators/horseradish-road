@@ -298,6 +298,8 @@ Yang was too tired to joke, or to chastise her for joking. “I should go home.�
 
 “I’ll call my driver to take you.”
 
+---
+
 *December 481 IC, Odin*
 
 Yang’s sleep was anything but peaceful when he returned to his house, and he was woken in the morning by another phone call. Although he was groggy with sleep when he picked up his phone and looked at the screen, he was forced to full consciousness by the name it displayed. Yang took half a second to steady himself before answering, feeling like his blood had turned to ice.
@@ -415,6 +417,8 @@ He scrolled fairly far back, to one of the earliest chapters of the book, where 
 *History proceeded on its course, a succession struggle that seemed almost bloodless may have actually involved the blood of several people on Katharina’s hands.*
 
 The chapter continued, but Yang closed the document. He wished he hadn’t written any of that, wished he hadn’t had it sent to Kaiser Friedrich. It now seemed to be intentionally mocking him, the past. Magdalena. He couldn’t do anything now, though. All he could do was wait. 
+
+---
 
 *December 481 IC, Odin*
 
@@ -698,6 +702,8 @@ Bronner stood. “Good day, Lieutenant Commander.”
 
 “It was my pleasure,” Bronner said, though his tone made it clear that it had been nothing of the sort.
 
+---
+
 *January 482 IC, Odin*
 
 Yang received a letter in his mail that he had not been expecting. The heavy envelope did not contain so much as a request but a summons: a private audience with the kaiser that Yang had not asked for or wanted. It contained a date and a time and the information that someone would escort him to the palace from his house. Yang couldn’t refuse, so, on the day of, he dressed in his best uniform, combed his hair as nicely as he could, and found himself waiting stiffly in one of the rooms of Neue Sanssouci for the kaiser to appear. The room was opulent and dark, with a fire quietly burning in a hearth, and two chairs arranged in front of it. Yang didn’t want to sit down, because he didn’t know if he should be seated when the kaiser arrived.
@@ -934,6 +940,8 @@ The kaiser was silent for a long time. “For what it is worth, you have my bles
 
 “Perhaps.”
 
+---
+
 *February 482 IC, Odin*
 
 The weather was disgusting and grey, suitable to Magdalena’s mood. She was stomping through the slush of her garden, not caring that the hem of her dress was getting dirty with her splashing. The corner of her shawl caught on the bare twigs of a bush as she walked by, and she ripped it savagely off, shaking down snow. Yang trailed behind her at a safe distance, not wanting to get caught up in her whirlwind.
@@ -1065,8 +1073,6 @@ She was silent for a minute, then changed the topic. “My mother says that you 
 “I wish I could have that mindset.”
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Overall, not sure how I feel about this chapter, but it's good to post it and be done haha. 
 

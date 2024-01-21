@@ -62,6 +62,8 @@ Yang didn’t say anything for a second, then looked down at his plate. “I acc
 
 “Thank you,” Reuenthal said. And that was the end of it.
 
+---
+
 *January\-May 476 I.C., Odin*
 
 It was difficult to be friends with Yang, and nothing but friends, but Reuenthal tried. He removed temptations from himself, trying not to allow himself to desire anything. He stopped partnering with Yang during hand\-to\-hand practice, and he never again let Yang into his room to stay up all night and talk. He regretted the absence of these things, but it was for the best.
@@ -174,7 +176,7 @@ He figured that there would be a great deal of organized resistance on the groun
 
 So, Reuenthal had to win quickly. He was about to give orders to split his forces to begin landing, but the GMs sent him a message.
 
-> You are receiving a radio transmission from the city.
+\> You are receiving a radio transmission from the city.
 
 And then the transcript of the message. Reuenthal shook his head when he read it.
 
@@ -224,7 +226,7 @@ The GMs reported to him again that he was seeing a long line of civilians leavin
 
 Reuenthal drummed his fingers on his desk, then sent a message to the GMs.
 
->I order a small detached force \(40 units\) equipped w/ secure radio to land outside detection range of the civilians and the city. They should go on foot in disguise and infiltrate the civilian column. If there is any sign that the column is actually insurgents who will attempt to return to the city after I have landed, I want that to be reported to me. Otherwise, allow civilians to proceed away from city limits.
+\>I order a small detached force \(40 units\) equipped w/ secure radio to land outside detection range of the civilians and the city. They should go on foot in disguise and infiltrate the civilian column. If there is any sign that the column is actually insurgents who will attempt to return to the city after I have landed, I want that to be reported to me. Otherwise, allow civilians to proceed away from city limits.
 
 He knew by letting the civilians walk away, he was giving Yang a lot of time to prepare himself, bunker down, probably block streets and improvise weapons, but he would have been upset at Reuenthal if Reuenthal had decided to play unfairly. Not as though the real Earth Space Force commanders hadn’t wholesale slaughtered civilians during the Earth\-Sirius war. Still, Reuenthal would let Yang have this little advantage. It probably wouldn’t matter.
 
@@ -336,6 +338,8 @@ Reuenthal jerked his head at the classroom he had just left. “Staden wants to 
 
 “What is it?” he asked, but Reuenthal was already walking away.
 
+---
+
 Reuenthal knew he really should get over his annoyance at losing to Yang. There was part of him that said he had lost more than fairly, in a game where Yang had had every disadvantage. If Reuenthal had been paying closer attention, if he had had just a bit better intuition, he could have crushed Yang completely. But he hadn’t.
 
 Some part of him said that if he let his anger fester, he could take Staden’s advice and divorce himself from Yang.
@@ -433,8 +437,6 @@ It wasn’t as though Reuenthal didn’t want to see Yang over the summer. The s
 “We’ll see,” Reuenthal said.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 explosives in the water main / a blown fuse / college graduation photographs / splashed all over the six oclock news / I won’t be cashing in your policy / until I find out what it is you’re trying to do to meeeeeeeeeeeeeeeee
 

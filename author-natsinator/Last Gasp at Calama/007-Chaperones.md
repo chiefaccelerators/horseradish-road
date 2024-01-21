@@ -158,6 +158,8 @@ Mary stifled a strange expression. “And what makes you think Cousin Matthew wo
 
 Her father frowned into his coffee.
 
+---
+
 Sybil decided that the best way to convince Matthew would be in person, so she borrowed Tom and a car to go in to the capitol, and showed up at the law firm where Matthew was a partner. She had arrived right before lunch time, and asked the secretary to let him know that she was there. The law office’s waiting room was professional, if not overly luxe. From behind the heavy wooden door with its rippled glass window, Sybil could indistinctly see suited men passing by and hear the low tones of conversations in the hall. This was a busy place, and when Matthew stepped out to see her, she felt a little bad about the harried expression on his face.
 
 “Cousin Sybil,” he said. “I certainly was not expecting to see you today.”
@@ -296,6 +298,8 @@ Sybil laughed. “I don’t know if Aunt Rosamund could put up with me in her ho
 
 “Well, maybe that’s a step in the right direction.”
 
+---
+
 In the car, on the long drive back home, Sybil rested her head on the cool glass window, even though it knocked her when Tom drove over bumps as delicately as he could.
 
 “Is something the matter, m’lady?” Tom asked after a while. “If you don’t mind me asking.”
@@ -377,8 +381,6 @@ Tom took a long second to think. “I’ll give you some things to read first,�
 “I’m grateful to hear you say it, but I can’t promise that you’re right.”
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 a short chapter that i don't have much to say about lol. it mainly serves the function of moving various chess pieces around the board. next chapter is a thomas chapter that should be fairly entertaining.
 

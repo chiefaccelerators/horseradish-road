@@ -70,6 +70,8 @@ Even Martin knew that he was only saying it just because it was a thing boys oug
 
 They weren’t told how he had died, and they weren’t given a body to bury.
 
+---
+
 Martin’s father insisted that life go on as normal, so he didn’t take any time off from work, and Martin was to go to school. His mother shook him awake, as she had every morning for years, and he didn’t speak a word of complaint as he got dressed. The bouquet of roses was on the hall table, and as his mother forced him out the door to walk to school, he grabbed one and stuck it in the lapel of his grey uniform.
 
 He entertained the thought of skipping class, if only briefly, but he didn’t know where he would go. It was a blustery period in October, the temperature unseasonably cold and hovering just above freezing, so he couldn’t stay outside even if he wanted to. The haunts in walking distance that he could imagine \(the grocery store, the library, the pub\) were all accustomed to calling the school to report wandering truant children. There wouldn’t have been any point in skipping school, except for that it would have been what *Christopher* would have done, if he had been the one who had lived, and Martin the one who had died.

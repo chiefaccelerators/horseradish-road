@@ -52,6 +52,8 @@ Yang laughed. “It’ll be fun to play some games without Staden looking over m
 
 “Don’t get your hopes up on it being that thrilling. I want to ease my mentee into it slowly.”
 
+---
+
 That Friday, Reuenthal and Wahlen were in Joseph’s. They had tried to invite Yang, but he had apparently fallen asleep directly after his last class, missed dinner, and could not be roused no matter how much Reuenthal knocked on his door. He had texted Reuenthal an apology, but by this time Reuenthal was slightly buzzed and Yang’s apology had included the line, “I’ll see you tomorrow, I’m going back to sleep,” so Reuenthal did not expect him to show his face. 
 
 He and Wahlen had staked out one of the nicer pool tables, not the one with a bit of a wobble, and were on their second game. Joseph’s was crowded, since it seemed like the entire new freshman class had decided to show up to celebrate the end of their first week of classes.
@@ -147,6 +149,8 @@ Reuenthal turned and walked backwards for a second. "Probably not," he called ba
 "Wet behind the ears and slimy, respectively?" the other boy riffed.
 
 "No," Reuenthal said. "We're just on top, you see." He smirked again and headed off with Wahlen, leaving the other boy shaking his head.
+
+---
 
 Reuenthal found Yang in the dining hall the next day at lunch. Yang had not shown up to physicals, which wasn’t really surprising, but was funny. It was a good thing that Reuenthal hadn’t actually bet against Wahlen.
 
@@ -251,6 +255,8 @@ Mittermeyer nodded. “Some of them.”
 “The problem isn’t people who play the game as though it’s real,” Reuenthal said. “They’re probably fine, if wasting their time. The problem is people who learn that the best way to treat reality is like a game.” It was a delicate balancing act, and while Reuenthal swayed too far to one side of it, Yang often went too far in the other direction, and neither really profited from it.
 
 “Stop lecturing the kid,” Bittenfeld said. “You’ve already crushed his spirit enough for today.”
+
+---
 
 The group played another game after the conclusion of Reuenthal and Mittermeyer’s matchup. Eisenach faced Yang in some sort of historical, horseback cavalry situation that Bittenfeld cooked up. Mittermeyer helped GM, learning the ropes of that process. Yang won, handily, as Reuenthal had suspected he would. Yang was unmatched, and Reuenthal had the strong thought that Yang would probably win these games against any of the teachers, as well.
 
@@ -368,6 +374,8 @@ Mittermeyer heaved a sigh. “I’m not technically in the SW department. I’m 
 
 “Yes,” Reuenthal agreed. Mittermeyer flashed him a quick smile, then headed off down the path the other way. Reuenthal watched him go, his hands loosely in his pockets, his stride quick and sure.
 
+---
+
 After dinner, Reuenthal and Yang were sitting on the green outside the dorms. The last light of the August sun was sending their shadows far across the grass, and Yang was tilting his book to try to catch the best last light on the pages, though he gave up on this after a while and just leaned back on his hands and stared up at the blood\-bright clouds on the edge of the sky.
 
 “What did you think of my mentee?” Yang asked after a while.
@@ -441,8 +449,6 @@ Reuenthal looked at him. Their eyes met, and Yang looked away. “You wouldn’t
 The last of the sun’s rays dipped behind the buildings, and the green fell into deep shadow.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Mittermeyer...... I love you................
 

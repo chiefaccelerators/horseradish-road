@@ -98,6 +98,8 @@ Annerose laughed, then. “Yes, probably, sir.”
 
 “I certainly will.”
 
+---
+
 That Sunday, Annerose dressed nicely, wearing a light, short sleeved white blouse and a long blue skirt. She rang the doorbell of the Cazerne’s house, admiring their flowerbeds and holding in her hand a children’s book that she had found for the young Charlotte.
 
 When the door opened, Annerose was shocked that the person answering the door was neither Hortense, nor Commodore Cazerne, nor the exuberant Charlotte. Instead, there was a total stranger standing there, a young boy, maybe about ten, with platinum blonde hair and a friendly face, wearing an apron. Annerose quickly double checked the number on the door, thinking that perhaps she had absentmindedly walked up to the wrong house. But no, this was the Cazerne household, which she had visited many times in the past. 
@@ -336,6 +338,8 @@ Annerose looked at him flatly, and he smiled to keep from cringing. She didn’t
 
 “Do any of you want dessert?” Hortense asked. “I have a pecan pie that Charlotte doesn’t like, so she won’t be sad about us eating it all while she’s asleep.”
 
+---
+
 *January 795 U.C.*
 
 Julian moved in with Annerose the same day that Annerose moved in to her new housing. Say what one would about Cazerne, he knew how to get things done quickly. Apparently, the whole moving situation had been precipitated by him watching one of his down the street neighbors make preparations to retire, thus freeing up the house that he had been living in. Annerose felt quite out of her depth on the street, surrounded by people of several ranks higher than herself. Cazerne told her not to worry about it, and Annerose tried to think through what the etiquette was for greeting her new neighbors, or perhaps her new neighbors’ wives. She was, she was fairly certain, the only female officer in the neighborhood. They were a vanishingly rare species, she was finding.
@@ -439,6 +443,8 @@ Julian looked at the picture again. “I couldn’t tell from just a picture. Bu
 “We’re similar in some ways and different in others. It’s hard to describe what Reinhard is like. Intense, mostly.”
 
 Julian nodded solemnly. He seemed to do a lot of that. “I look forward to meeting him, then.”
+
+---
 
 *February 795 U.C.*
 
@@ -597,6 +603,8 @@ She drank the tea and nibbled the sandwich, and when she ran out of tea he got u
 “I didn’t even tell him I got promoted,” Annerose said, the only thing she was latching onto as a cogent thought. “I wanted him to be proud of me. I wanted it to be a surprise.” And she was choking on little half sobs again, and Julian leaned onto her shoulder, a comforting gesture, but she grabbed him and held on as though he were the only thing that was helping her to weather the storm.
 
 In a corner of her mind, she knew that this was an unfair burden to place on him, a ten year old near\-stranger, who had lost his own father in the same way she had just lost Reinhard, but she was selfish here, and Julian let her be.
+
+---
 
 Annerose returned to work the next day. She wasn’t pretending that nothing had happened, and she went about her day in a fog of grief, taking twice as long at even the simplest tasks, feeling weighed down and unable to move, but there was work to be done. Urgent work. Necessary work.
 
@@ -782,6 +790,8 @@ Schenkopp continued talking, his voice low and soothing. “You should meet Blum
 
 She just kept nodding, and he kept saying things, though she didn’t think she was really hearing them.
 
+---
+
 The next night, at around three in the morning, Annerose was fitfully asleep, dreaming a nightmare that might have been more miserable had it not been so mundane, the same recurring dream she had been dreaming since they left Odin. She woke to someone shaking her shoulder.
 
 “Reinhard?” she asked, catching a glimpse of blonde hair, then abruptly remembering that Reinhard was dead, and it was Julian waking her up. He was dressed in his pyjamas and his hair was sticking out at all angles, having also clearly been just roused from his sleep. “Sorry, Julian, what is it?” Annerose asked, fighting past the misery that had threatened to overwhelm her for a second.
@@ -848,17 +858,17 @@ She felt like she couldn’t breathe as the two groups exchanged the first few b
 
 The damage reports of each individual ship trickled in below the moving images, a litany of names.
 
-> Count of Monte Cristo, disabled
+\> Count of Monte Cristo, disabled
 
-> Exodus, all hands lost
+\> Exodus, all hands lost
 
-> Albany, all hands lost
+\> Albany, all hands lost
 
-> Petrograd, disabled
+\> Petrograd, disabled
 
-> Amazonia, all hands abandon ship
+\> Amazonia, all hands abandon ship
 
-> Erebus, disabled
+\> Erebus, disabled
 
 The list went on.
 
@@ -1096,6 +1106,8 @@ There was a moment of shuffling sounds over the line, and then the sound of the 
 
 Annerose immediately called Cazerne, then, to find out what exactly was happening and what Reinhard’s status was, and when she could contact him.
 
+---
+
 Life over the next few days was chaotic and stressful. Annerose was dying to see Reinhard, but he was still en route, and she wasn’t allowed to speak to him at all. In fact, she had been told to meet with the publicity staff at the military affairs headquarters, the people who dealt with all press\-related inquiries, and been told explicitly that she was not allowed, under any circumstances, to give interviews or speak to the press at all.
 
 She asked Cazerne if they were allowed to stop her from doing that, and he looked at her sideways and asked if she actually wanted to go be the public face of this. She emphatically did not, so she left handling it to the professionals. This was harder than she thought it would be, because people found her house and waited outside of it, which annoyed her. She had Julian walk home from his bus stop after his summer camp through the back streets, then cut through some other family’s backyard and hop her fence to avoid them. 
@@ -1255,8 +1267,6 @@ Julian blushed hotly. “No, sir.”
 Reinhard tousled his hair and laughed, walking past him into the kitchen. Annerose watched him go. Perhaps everything was right with the world, at least here in her little house, at least for this one moment.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 I can hear the chorus now, people shouting, "Faster than light travel makes no sense\! There's no such thing as simultaneity\!" well shush. FTL makes science fiction fun.
 

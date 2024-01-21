@@ -384,8 +384,6 @@ Just as the duke reached for a glass of his own, someone bumped into the footman
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 the chapter title is a direct quote from dr strangelove "War is too important to be left to politicians. They have neither the time, the training, nor the inclination for strategic thought." perhaps fitting, considering Westerland 😬 \(that quote in itself is a mangling of i believe a de gaulle quote\-\- politics is too important to be left to the politicians. reinhard would probably agree on that score as well lmao. mr coup man.\)
 
 anyway um lots of little funny moments in this one. kircheis had to be left in the car in order to set up the next chapter haha. mild cliffhanger i suppose :p the stakes in this fic are so incredibly low that someone getting wine dumped over them is like. spicy.

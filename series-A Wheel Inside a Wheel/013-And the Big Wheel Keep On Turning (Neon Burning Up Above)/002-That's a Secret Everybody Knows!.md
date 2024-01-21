@@ -200,8 +200,6 @@ He let out a shuddering breath, and she realized that maybe he was crying. In th
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 happy one million words of noodle logh fanfiction lmao. hats off to anybody who's read all of it. i love you.
 
 title is from the mountain goats 'deianara crush'

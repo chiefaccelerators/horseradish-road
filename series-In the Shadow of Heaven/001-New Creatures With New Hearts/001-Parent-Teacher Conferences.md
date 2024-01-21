@@ -218,7 +218,5 @@ On the way out the door, Yan felt someone’s gaze upon her, and she turned to h
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 Thanks to Lydia, Galvin, and Jade for the beta read.
 

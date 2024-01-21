@@ -360,8 +360,6 @@ Flegel’s expression changed as he played over the previous few moments again i
 
 ## Chapter End Notes
 
-Chapter End Notes
-
 rip muckenburger 💔 i actually really like him as an ultraminor logh character so it's kinda an honor for him to get the first major\-ish onscreen death. stabbed to death by flegel... what a miserable way to go lol.
 
 and that's the end of the iserlohn stuff for the moment\-\- next chapter i think we'll check in with \[redacted\] unless i change my mind and have the reunion w/ mittermeyer be next chapter. kinda depends on how i'm feeling.

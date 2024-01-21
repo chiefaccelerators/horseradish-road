@@ -42,6 +42,8 @@ But Yang would sigh and look at him with concern— and so Mittermeyer chose the
 
 He stood at the window and looked at the pair for a while more— it was the last he would see of the outside of the white one until he was back in port— and then straightened his back and marched away.
 
+---
+
 Since Mittermeyer thought that there was absolutely no chance of getting through the Iserlohn corridor alive, this left only one route as an option. Phezzan, and sneaking around through the Alliance the long way, would have to do. Although there were many problems with this plan, as they grew closer to the entrance to the Phezzan corridor, the most pressing of them was that they did not have navigation information to get through.
 
 Phezzan made all ships passing through the corridor pay to receive up\-to\-date routes, and even if the Imperial government had some way of obtaining these, it was a secret that was not casually shared with the guidance computers of Mittermeyer’s stolen ships.
@@ -126,6 +128,8 @@ Mittermeyer laughed. “I’ll certainly do my best.”
 
 “No, I understand,” Cauer replied. “I’ll do it. At the very least, it means that one of the two won’t be shot down, by the Thor Hammer or anything else.”
 
+---
+
 Mittermeyer and the crew of the white ship waited outside the Phezzan corridor, waiting for the red ship to pass through. Once the route had been transmitted from Phezzan to the red ship, and from there to Mittermeyer, it was a matter of patience. It was not a short journey from one end of the corridor to the other, and Mittermeyer wanted to be very sure that by the time he passed through, all the rebel ships on the other end were long gone. Of course, once the red ship left, there was no communication between them, so Mittermeyer had to hope that they made it safely.
 
 After several days of waiting, they set off. The only difficulty with the route was that it took them very close to Phezzan itself, and Mittermeyer did not want to be detected passing through the starsystem. In the hopes of avoiding being seen, before they entered the starsystem, they dropped to sub\-luminal speeds. Then Mittermeyer ordered the ship to accelerate, still sub\-light, until they were going as fast as the ship could take. Once at that speed, he ordered power to be cut to the engines, and they drifted through the Phezzani system, hoping that their cool, unused engines would not make them show up on even advanced detectors within the system, and if they did, to look like a passing piece of rock. It was a risky maneuver, but the only one that they had at their disposal.
@@ -183,8 +187,6 @@ He hoped that his ship, completely dead in space, not moving, not broadcasting, 
 As soon as they had passed, Mittermeyer engaged his engines again. They were right near the splitting point, where the main trunk of the Iserlohn corridor diverged. One slender arm reached back, in the direction of the Alliance, towards Cahokia. Mittermeyer ran there, as fast as he could go. There would be a fleet waiting for him to take command in that starsystem, while behind him, Iserlohn Fortress sent out her fleet to deal with an Alliance invasion.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 "The Hunt for Red October" is a thriller novel about a soviet submarine captain who steals his extremely fancy new type of boat and tries to defect to the US. The name of the ship, Red October, refers to events of the russian october revolution \(the events happened in november per the western calendar but russia still used a different one back then lol\). here it refers to the fact that the ship is painted bright red
 

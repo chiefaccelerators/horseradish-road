@@ -72,6 +72,8 @@ The duke nodded. “Best of luck to him, then.” It was an echo of what Thomas 
 
 That was the best that Thomas would get right now, he was sure. It would have to be enough.
 
+---
+
 Thomas walked back to the Grantham house in the dark, his phone flashlight the only illumination once he left the town’s streetlights and got onto the long, winding road that led to the estate. It was cold, now, and he was exhausted, but he trooped onwards. Though he heard owls hooting in the trees a few times as he walked, he didn’t see them, or any other animals either. It was a relief to finally see the lights of the Grantham house peeking through the trees, and he quickened his pace, veering off the main road to cut across the grass to the servants’ entrance in the back. The lights were all on in the garage as he passed, though the door was shut, so Thomas couldn’t see who was inside or what they were doing.
 
 His shoes were wet with dew when he pulled around the side of the house, and he was shivering. He was in such a hurry to get inside that he didn’t notice the man standing near the door, looking up at the sky, until it was too late to change course. When the man turned, hearing Thomas’s footsteps crunch across the gravel, Thomas recognized it was Bates. He was wearing a jacket and shoes, but his pyjama pants were visible, and it looked like he wasn’t wearing socks.
@@ -177,6 +179,8 @@ Thomas shivered. Now that the excitement was over, he was freezing in the night 
 Thomas trooped inside as Tom jogged away.
 
 When he reached his bedroom, Thomas quickly went through his evening routine and lay down in bed. Despite how tired he was, he found it difficult to fall asleep, with all the events in the day still rushing through his head. It hardly felt real at all, any of it. It was like he had been in a dream all day. Wanting something to confirm that it all had happened, Thomas took out his phone and looked at the picture that Baroness Wesptfale had sent him. There he was, standing next to Philip, Philip’s fingers just brushing his, ever so deliberately. Thomas studied it, a strange and warm feeling in his heart, until finally his eyes grew too heavy to keep open, and he fell into a deep sleep.
+
+---
 
 Although the information that Thomas had learned about Tom was interesting, he didn’t have much to do with it, not unless he wanted to go visit Tom’s little hideout, or do any poking around in the garage. Both of those things sounded like plausible leads, but Thomas doubted they would give him much that he could actually use, and they would likely only get him into trouble. So, he left Tom and all his strange business alone for a few days.
 
@@ -314,9 +318,7 @@ Thomas poked his head around the side of the garage, half obscured by bushes, an
 
 ## Chapter End Notes
 
-Chapter End Notes
-
-apologies for the fade to black rather than having a horny scene there lol. i just didn't feel like i had anything particular to say with adding one >.> i leave it as an exercise for the reader's imagination
+apologies for the fade to black rather than having a horny scene there lol. i just didn't feel like i had anything particular to say with adding one \>.\> i leave it as an exercise for the reader's imagination
 
 thomas............ you have gotten your heart entirely swept away lol. much like the letters, the photograph is kept for somewhat ambiguous reasons, but he absolutely is going to fall asleep looking at it 
 

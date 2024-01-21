@@ -104,6 +104,8 @@ Staden shook his head. “My patience for your antics remains limited, I see,”
 
 “Thank you, sir,” Yang replied.
 
+---
+
 Yang left Staden’s office and immediately returned to his dorm, where he flopped onto his bed and passed out before he could even pull the blanket up over himself. He woke to a pounding on his door and the hazy twilight seeping in through the window.
 
 “What?” Yang yelled at whoever was knocking. “Can’t a man sleep?”
@@ -359,8 +361,6 @@ Mittermeyer smiled, and turned to Yang. “And you’ll write, too?”
 “Then I suppose I’ll survive my senior year alone somehow,” Mittermeyer said.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Custody of the eyes is a phrase that I stole from, well, I mean catholicism in general, but you should all go watch The Novitiate, which is a decent lesbian film about nuns. There are very few decent lesbian films in this world. In any event, in that film, there is a scene where the characters are instructed not to look at anyone else, because it makes you think about them. It's a scene that has stuck in my memory very clearly for several years. 
 

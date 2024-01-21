@@ -12,11 +12,11 @@ He texted Eisenach, just to ask how his summer was, not really expecting a compr
 
 < didn’t get into any trouble, did you?
 
-> why, are you hoping I get kicked out so you don’t have to deal with my questions anymore?
+\> why, are you hoping I get kicked out so you don’t have to deal with my questions anymore?
 
 < hahaha
 
-> maybe this year I’ll get around to challenging you in chess, so you can thoroughly trounce me
+\> maybe this year I’ll get around to challenging you in chess, so you can thoroughly trounce me
 
 < :\)
 
@@ -24,13 +24,13 @@ He texted Eisenach, just to ask how his summer was, not really expecting a compr
 
 < I look forward to seeing how that works out
 
-> you going to vet my mentee like you vet my friends?
+\> you going to vet my mentee like you vet my friends?
 
 < hah. No. whoever this new guy is, he’s 100% your problem
 
 < and take it from me, the \#2 is always high strung
 
-> I’m not high strung
+\> I’m not high strung
 
 < you have your own issues
 
@@ -71,6 +71,8 @@ Yang raised an eyebrow at the signature on the response. Now that he had had a y
 He sent a reply to his mentee saying that they could meet in one of the student lounges tomorrow night, since the freshmen were about to have their convocation dinner. 
 
 Then, he met up with his friends for their own dinner in the dining hall. It was good to see them again. 
+
+---
 
 The next night, around five, Yang headed to the student lounge where he was supposed to be meeting his mentee. He said he would wait by the pool tables, though, since he was almost pathetically bad at pool, that had been a bad choice. He lined up the balls on the table, then poked them around with the cue in a solo game, hoping that no one was watching him miss pretty much every shot. Since Reuenthal was good at pool, Yang was glad he was not around to judge. 
 
@@ -214,27 +216,27 @@ Mittermeyer laughed loudly. “I’m glad that I at least have an honest mentor.
 
 Mittermeyer looked at Yang curiously as he pulled out his phone. Yang texted basically everyone he spoke to on a regular basis: Reuenthal, Bittenfeld, Wahlen, and Eisenach \(though ‘spoke’ was a bit of an exaggeration in Eisenach’s case\).
 
-> does anyone feel like they’re really dying for more practice at strats
+\> does anyone feel like they’re really dying for more practice at strats
 
 Bittenfeld: < why do you ask
 
-> my mentee wants extra practice. I’ll GM but I need someone to play him against
+\> my mentee wants extra practice. I’ll GM but I need someone to play him against
 
 Eisenach: < who are all you people
 
 Eisenach: < also i warned you he would be high strung
 
-> he doesn’t seem high strung
+\> he doesn’t seem high strung
 
-> you can’t blame him for this
+\> you can’t blame him for this
 
-> this was my suggestion
+\> this was my suggestion
 
 Wahlen: < von leigh going above and beyond in the line of duty lol
 
 Wahlen: < how long would you expect this to take?
 
-> i don’t know. Probably the first game would be pretty short
+\> i don’t know. Probably the first game would be pretty short
 
 Reuenthal: < I’ll play him
 
@@ -244,13 +246,13 @@ Bittenfeld: < so cruel
 
 Wahlen: < if Reuenthal’s playing, I’ll help you GM
 
-> thanks everyone
+\> thanks everyone
 
 Eisenach: < if you’re playing games outside of class, von leigh, I want to match you
 
 Eisenach: < who will gm that?
 
-> that wasn’t really what I was trying to set up…
+\> that wasn’t really what I was trying to set up…
 
 Bittenfeld: < is this a thing? Are you all doing this?
 
@@ -262,7 +264,7 @@ Eisenach: < this is eisenach, the jr \#2
 
 Wahlen: < what time is this happening?
 
-> I don’t know, let me figure this out, calm down
+\> I don’t know, let me figure this out, calm down
 
 Reuenthal: < you shouldn’t have asked everyone if you didn’t want this to happen
 
@@ -303,6 +305,8 @@ Yang glanced at the clock. It was almost six. “Look, Mittermeyer, I’ve gotta
 “Sure. I look forward to whatever practice you’re setting up. I really do appreciate it.” He stuck out his hand for Yang to shake, and they shook again. “See you later.” 
 
 Yang felt Mittermeyer’s eyes on him as he left, though it wasn’t an unfriendly look.
+
+---
 
 The time that they decided upon was Saturday afternoon, after mandatory physicals and lunch. Although some \(Bittenfeld\) had grumbled about wasting a perfectly good Saturday afternoon, Yang had pointed out that all they would be doing was either hanging out or doing homework anyway, so it hardly made a difference to play a game during that time. Eisenach had somehow managed to wrestle his way into having swipe card access to a training room in one of the academic buildings, so they met there in privacy, rather than having to exist in the public eye of the library or on the green.
 
@@ -545,8 +549,6 @@ Reuenthal laughed, maybe at the suddenness of the question, or at Yang’s odd p
 “Don’t worry about it, von Leigh,” Reuenthal said, then stood. “I talk too much.” The sun had slipped behind the buildings and cast them both into deep shadow.
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 Mittermeyer's here\! Mittermeyer's here\! I love him\! He's here\!
 

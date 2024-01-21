@@ -148,6 +148,8 @@ Oberstein stood. “No, Sub\-lieutenant. But you will think about it, which is a
 
 Kircheis watched him go, without saying another word.
 
+---
+
 Kircheis didn’t see much of Captain Leigh during their short stay on Iserlohn. He caught one or two glimpses of him in bars or strolling the main concourse, often walking next to Rear Admirals Reuenthal or Mittermeyer, or Captain Oberstein, who stood out now that Kircheis knew who he was. It didn’t seem like Leigh was avoiding him, and if Kircheis had sent him a message asking to meet, he certainly would have— when they passed each other on the concourse, Leigh gave a funny smile and wave— but Kircheis decided not to disturb him.
 
 They ended up on a transport ship provided by Braunschweig to return them to Odin a few days later, and on that long journey he did see plenty of Leigh. He seemed to be filled with a strange new emotion, and he would alternate between smiling off into space and scowling at whatever plan he was trying to concoct in front of him. The two expressions lived on his face without much in between, aside from his usual good\-natured smile when he saw Kircheis.
@@ -183,6 +185,8 @@ Leigh stared off into space, a melancholy expression on his face. “Yes, I do. 
 “I’m glad to have spoken with him, then,” Kircheis said. It was a diplomatic answer, delivered in a diplomatic tone, but it made Leigh smile.
 
 “Good.”
+
+---
 
 September 487 I.C., Odin
 
@@ -328,6 +332,8 @@ Kircheis tried to push the fear away. “I feel like you’ve changed the way yo
 
 Kircheis wanted to protest, to say that he had been referring to something completely different, but to Martin, they must have been one and the same. Martin was good at making him feel ashamed, even if it wasn’t his explicit intention. It was the guilt of knowing that Martin was right, and that Kircheis was going to continue down his own path, far away from the clear and cold light that Martin saw so clearly.
 
+---
+
 Returning to work in Duke Braunschweig’s staff offices felt odd. Although Kircheis had been through the most harrowing ordeal of his life thus far, the world of Odin and Braunscwheig’s normal fleet routines had continued on without him. His desk and cubicle was just as he had left it, and his fellow junior officers and the rest of the staff of the building greeted him warmly upon his return, asking jovially how it had been on Cahokia. Kircheis responded to this with as much friendly candor as he could, but the mask was firmly back on, and he couldn’t say much to any of his coworkers, aside from Leigh, who was not around. Since Ansbach had remained on Cahokia, this meant that Leigh had the unenviable responsibility of going over the current status and future plans with Duke Braunschweig himself, in his manor.
 
 Kircheis wasn’t sure when Leigh would be back, and, although Leigh had left him with a handful of clear tasks to accomplish, Kircheis kept leaning backwards in his seat and glancing out the window, hoping to see Leigh return, walking up the street with his hands in his pockets and his face up towards the sky, as was his usual way.
@@ -455,8 +461,6 @@ Kircheis nodded.
 Kircheis flushed, the tips of his ears going as red as his hair. “Yes, sir.”
 
 ## Chapter End Notes
-
-Chapter End Notes
 
 i'm posting this chap while standing on the front of a mountain goats show so if the formatting is fucked that's why lol. i'll fix it when i get to a computer if it is
 
