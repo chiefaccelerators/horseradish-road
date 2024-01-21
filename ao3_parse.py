@@ -18,7 +18,7 @@ def snakey(name):
 ILLEGAL_CHAR_PATTERN = re.compile(r"[<>:\"\/\\\|\?\*]")
 safe_fd = partial(ILLEGAL_CHAR_PATTERN.sub, "")
 # leave out . and _ to mostly avoid escaping urls
-MD_ESCAPE_PATTERN = re.compile(r"([\\\`\*\{\}\[\]\(\)\#\+\-\!\|])")
+MD_ESCAPE_PATTERN = re.compile(r"([\\\`\*\{\}\[\]\(\)\#\+\-\!\|\>])")
 escape_md = partial(MD_ESCAPE_PATTERN.sub, r"\\\1")
 
 
@@ -36,6 +36,8 @@ def html_to_md(tag):
         return "".join((escape_md(txt).replace("\n", "") for txt in tag.strings))
     if tag.name == "br":
         return "\n"
+    if tag.name == "hr":
+        return "---\n\n"
     contents_text = "".join((html_to_md(item) for item in tag.contents))
     if not contents_text.strip():
         return ""
@@ -123,7 +125,7 @@ def write_chapters(args, soup, output_folder):
                 chapter_fn.write(html_to_md(content))
                 if endnote:
                     chapter_fn.write(f"## {endnote.p.string}\n\n")
-                    chapter_fn.write(html_to_md(endnote))
+                    chapter_fn.write(html_to_md(endnote.blockquote))
         except Exception:
             print(group[0])
             raise
